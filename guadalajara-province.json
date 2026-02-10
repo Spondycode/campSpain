@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Camping Orea",
+    "region": "Castilla-La Mancha",
+    "province": "Guadalajara",
+    "url": "https://www.campingorea.com/"
+  },
+  {
+    "name": "Camping Los Bonales",
+    "region": "Castilla-La Mancha",
+    "province": "Guadalajara",
+    "url": "https://campinglosbonales.es/"
+  },
+  {
+    "name": "Camping El Colvillo",
+    "region": "Castilla-La Mancha",
+    "province": "Guadalajara",
+    "url": "https://trilloturismo.es/donde-dormir/camping-el-colvillo/"
+  },
+  {
+    "name": "Camping La Dehesa de Cañamares",
+    "region": "Castilla-La Mancha",
+    "province": "Guadalajara",
+    "url": "https://www.campingladehesa.com/"
+  },
+  {
+    "name": "Camping Sacedón",
+    "region": "Castilla-La Mancha",
+    "province": "Guadalajara",
+    "url": null
+  },
+  {
+    "name": "Complejo de Turismo Rural El Colvillo",
+    "region": "Castilla-La Mancha",
+    "province": "Guadalajara",
+    "url": "https://elcolvillo.com/"
+  },
+  {
+    "name": "Área de Autocaravanas de Sigüenza",
+    "region": "Castilla-La Mancha",
+    "province": "Guadalajara",
+    "url": null
+  }
+]

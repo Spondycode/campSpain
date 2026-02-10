@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Camping Mérida",
+    "region": "Extremadura",
+    "province": "Badajoz",
+    "url": "https://www.campingmerida.com/"
+  },
+  {
+    "name": "Camping Puerto Peña",
+    "region": "Extremadura",
+    "province": "Badajoz",
+    "url": "https://www.campingpuertopena.es/"
+  },
+  {
+    "name": "Camping Lago de Proserpina",
+    "region": "Extremadura",
+    "province": "Badajoz",
+    "url": "https://www.campingproserpina.es/"
+  },
+  {
+    "name": "Camping El Pino",
+    "region": "Extremadura",
+    "province": "Badajoz",
+    "url": "https://www.campingelpino.info/"
+  },
+  {
+    "name": "Camping La Isla",
+    "region": "Extremadura",
+    "province": "Badajoz",
+    "url": null
+  },
+  {
+    "name": "Camping Balcón de Orellana",
+    "region": "Extremadura",
+    "province": "Badajoz",
+    "url": "https://www.campingbalcondeorellana.com/"
+  },
+  {
+    "name": "Camping Los Chozos",
+    "region": "Extremadura",
+    "province": "Badajoz",
+    "url": "https://www.loschozos.com/"
+  }
+]

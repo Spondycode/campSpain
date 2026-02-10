@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Camping Los Batanes",
+    "region": "Castilla-La Mancha",
+    "province": "Albacete",
+    "url": "https://www.losbatanes.com"
+  },
+  {
+    "name": "Camping Río Mundo",
+    "region": "Castilla-La Mancha",
+    "province": "Albacete",
+    "url": "https://www.campingriomundo.es"
+  },
+  {
+    "name": "Camping Sierra Peñascosa",
+    "region": "Castilla-La Mancha",
+    "province": "Albacete",
+    "url": "https://www.campingsierrapenascosa.com"
+  },
+  {
+    "name": "Camping Las Nogueras de Nerpio",
+    "region": "Castilla-La Mancha",
+    "province": "Albacete",
+    "url": "https://www.campingdenerpio.com"
+  },
+  {
+    "name": "Camping Las Fuentes de Letur",
+    "region": "Castilla-La Mancha",
+    "province": "Albacete",
+    "url": "https://campingletur.com"
+  },
+  {
+    "name": "Camping Río Segura",
+    "region": "Castilla-La Mancha",
+    "province": "Albacete",
+    "url": "https://www.campingriosegura.com"
+  },
+  {
+    "name": "Camping La Fuente (Casas de Ves)",
+    "region": "Castilla-La Mancha",
+    "province": "Albacete",
+    "url": null
+  },
+  {
+    "name": "Camping L'Ametlla de Mar (Almansa)",
+    "region": "Castilla-La Mancha",
+    "province": "Albacete",
+    "url": null
+  }
+]

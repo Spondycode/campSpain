@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Camping El Roble Verde",
+    "region": "Basque Country",
+    "province": "Álava",
+    "url": "https://www.elrobleverde.com/"
+  },
+  {
+    "name": "Camping Angosto",
+    "region": "Basque Country",
+    "province": "Álava",
+    "url": "https://www.campingangosto.com/"
+  },
+  {
+    "name": "Camping Ibaia",
+    "region": "Basque Country",
+    "province": "Álava",
+    "url": "https://www.campingibaia.com/"
+  },
+  {
+    "name": "Camping Izki",
+    "region": "Basque Country",
+    "province": "Álava",
+    "url": "https://www.campingizki.com/"
+  },
+  {
+    "name": "Camping Landa",
+    "region": "Basque Country",
+    "province": "Álava",
+    "url": false
+  }
+]

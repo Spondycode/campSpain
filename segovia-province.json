@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Camping Acueducto",
+    "region": "Castilla y León",
+    "province": "Segovia",
+    "url": "https://www.campingacueducto.com/?lang=en"
+  },
+  {
+    "name": "Camping Riaza",
+    "region": "Castilla y León",
+    "province": "Segovia",
+    "url": "https://www.campingriaza.com/"
+  },
+  {
+    "name": "Camping Hoces del Duratón",
+    "region": "Castilla y León",
+    "province": "Segovia",
+    "url": "https://campinghocesdelduraton.com/en/"
+  },
+  {
+    "name": "Camping El Calonge",
+    "region": "Castilla y León",
+    "province": "Segovia",
+    "url": "http://www.campingelcalonge.es/"
+  },
+  {
+    "name": "Camping Valle Enmedio",
+    "region": "Castilla y León",
+    "province": "Segovia",
+    "url": "https://www.campingvalleenmedio.es/"
+  },
+  {
+    "name": "Camping El Valle",
+    "region": "Castilla y León",
+    "province": "Segovia",
+    "url": "https://www.campingelvalle.com/"
+  },
+  {
+    "name": "Duratón Camping",
+    "region": "Castilla y León",
+    "province": "Segovia",
+    "url": null
+  },
+  {
+    "name": "Camping Aeródromo de Fuentemilanos",
+    "region": "Castilla y León",
+    "province": "Segovia",
+    "url": "https://fuentemilanos.com/en/camping-2/"
+  }
+]

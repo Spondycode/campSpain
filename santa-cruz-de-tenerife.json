@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Camping Nauta",
+    "region": "Islas Canarias",
+    "province": "Santa Cruz de Tenerife",
+    "url": "https://www.campingnauta.es/en-gb"
+  },
+  {
+    "name": "Agro Camping Invernaderito",
+    "region": "Islas Canarias",
+    "province": "Santa Cruz de Tenerife",
+    "url": "https://agro-camping-invernaderito.negocio.site/"
+  },
+  {
+    "name": "Camping Montaña Roja",
+    "region": "Islas Canarias",
+    "province": "Santa Cruz de Tenerife",
+    "url": null
+  },
+  {
+    "name": "Camping Punta del Hidalgo",
+    "region": "Islas Canarias",
+    "province": "Santa Cruz de Tenerife",
+    "url": "https://turismo.aytolalaguna.es/en/camping-punta-del-hidalgo/"
+  },
+  {
+    "name": "Camping de la Caldera de Taburiente (La Palma)",
+    "region": "Islas Canarias",
+    "province": "Santa Cruz de Tenerife",
+    "url": "https://www.reservasparquesnacionales.es/real/parquesnac/usu/html/detalle-actividad-oapn.aspx?ii=6ENG&cen=4&act=2"
+  },
+  {
+    "name": "Zona de Acampada de Chío",
+    "region": "Islas Canarias",
+    "province": "Santa Cruz de Tenerife",
+    "url": "https://www.tenerifeon.es/en/facilities/chio-camping-area"
+  },
+  {
+    "name": "Zona de Acampada Las Lajas",
+    "region": "Islas Canarias",
+    "province": "Santa Cruz de Tenerife",
+    "url": "https://www.tenerifeon.es/en/facilities/las-lajas-camping-area"
+  },
+  {
+    "name": "Zona de Acampada San José de Los Llanos",
+    "region": "Islas Canarias",
+    "province": "Santa Cruz de Tenerife",
+    "url": "https://www.tenerifeon.es/en/facilities/san-jose-de-los-llanos-camping-area"
+  },
+  {
+    "name": "Zona de Acampada de El Cedro (La Gomera)",
+    "region": "Islas Canarias",
+    "province": "Santa Cruz de Tenerife",
+    "url": "https://www.reservasparquesnacionales.es/real/parquesnac/usu/html/detalle-actividad-oapn.aspx?ii=6ENG&cen=1&act=21"
+  },
+  {
+    "name": "Camping Hoya del Morcillo (El Hierro)",
+    "region": "Islas Canarias",
+    "province": "Santa Cruz de Tenerife",
+    "url": "https://elhierro.travel/que-hacer/camping-la-hoya-del-morcillo/"
+  },
+  {
+    "name": "El Quinto Pino (El Hierro)",
+    "region": "Islas Canarias",
+    "province": "Santa Cruz de Tenerife",
+    "url": "https://elquintopino.es/"
+  },
+  {
+    "name": "Camping La Magarza (La Palma)",
+    "region": "Islas Canarias",
+    "province": "Santa Cruz de Tenerife",
+    "url": "https://www.lapalmacamping.com/"
+  }
+]
