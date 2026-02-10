@@ -1,0 +1,4038 @@
+[
+  {
+    "name": "Camping Los Manzanos",
+    "region": "Galicia",
+    "province": "A Coruña",
+    "url": "https://www.campinglosmanzanos.com/"
+  },
+  {
+    "name": "Camping As Cancelas",
+    "region": "Galicia",
+    "province": "A Coruña",
+    "url": "https://www.campingascancelas.com/"
+  },
+  {
+    "name": "Camping Lago-Mar",
+    "region": "Galicia",
+    "province": "A Coruña",
+    "url": "https://www.campinglagomar.com/"
+  },
+  {
+    "name": "Camping San Francisco",
+    "region": "Galicia",
+    "province": "A Coruña",
+    "url": "https://www.campingsanfrancisco.com/"
+  },
+  {
+    "name": "Camping Ancoradoiro",
+    "region": "Galicia",
+    "province": "A Coruña",
+    "url": "https://www.campingancoradoiro.com/"
+  },
+  {
+    "name": "Camping Valdoviño",
+    "region": "Galicia",
+    "province": "A Coruña",
+    "url": "https://www.campingvaldovino.com/"
+  },
+  {
+    "name": "Camping Fragadeume",
+    "region": "Galicia",
+    "province": "A Coruña",
+    "url": "https://www.campingfragadeume.com/"
+  },
+  {
+    "name": "Camping Sisargas",
+    "region": "Galicia",
+    "province": "A Coruña",
+    "url": "https://www.campingsisargas.com/"
+  },
+  {
+    "name": "Camping Barraña",
+    "region": "Galicia",
+    "province": "A Coruña",
+    "url": "https://campingbarrana.com/"
+  },
+  {
+    "name": "Camping As Nevedas",
+    "region": "Galicia",
+    "province": "A Coruña",
+    "url": "https://www.campingasnevedas.com/"
+  },
+  {
+    "name": "Camping Costa da Morte",
+    "region": "Galicia",
+    "province": "A Coruña",
+    "url": "https://www.campingcostadamorte.com/"
+  },
+  {
+    "name": "Espazo Nature",
+    "region": "Galicia",
+    "province": "A Coruña",
+    "url": "https://espazonature.com/"
+  },
+  {
+    "name": "Camping A Vouga",
+    "region": "Galicia",
+    "province": "A Coruña",
+    "url": "https://www.campingavouga.com/"
+  },
+  {
+    "name": "Camping Peregrino San Marcos",
+    "region": "Galicia",
+    "province": "A Coruña",
+    "url": "https://www.campingperegrino.com/"
+  },
+  {
+    "name": "Camping Cabeiro",
+    "region": "Galicia",
+    "province": "A Coruña",
+    "url": "https://www.campingcabeiro.com/"
+  },
+  {
+    "name": "Camping Green Village",
+    "region": "Galicia",
+    "province": "A Coruña",
+    "url": "https://www.campinggreenvillage.com/"
+  },
+  {
+    "name": "Camping Perbes",
+    "region": "Galicia",
+    "province": "A Coruña",
+    "url": null
+  },
+  {
+    "name": "Camping Punta Batuda",
+    "region": "Galicia",
+    "province": "A Coruña",
+    "url": "http://www.campingpuntabatuda.es/"
+  },
+  {
+    "name": "Camping El Roble Verde",
+    "region": "Basque Country",
+    "province": "Álava",
+    "url": "https://www.elrobleverde.com/"
+  },
+  {
+    "name": "Camping Angosto",
+    "region": "Basque Country",
+    "province": "Álava",
+    "url": "https://www.campingangosto.com/"
+  },
+  {
+    "name": "Camping Ibaia",
+    "region": "Basque Country",
+    "province": "Álava",
+    "url": "https://www.campingibaia.com/"
+  },
+  {
+    "name": "Camping Izki",
+    "region": "Basque Country",
+    "province": "Álava",
+    "url": "https://www.campingizki.com/"
+  },
+  {
+    "name": "Camping Landa",
+    "region": "Basque Country",
+    "province": "Álava",
+    "url": false
+  },
+  {
+    "name": "Camping Los Batanes",
+    "region": "Castilla-La Mancha",
+    "province": "Albacete",
+    "url": "https://www.losbatanes.com"
+  },
+  {
+    "name": "Camping Río Mundo",
+    "region": "Castilla-La Mancha",
+    "province": "Albacete",
+    "url": "https://www.campingriomundo.es"
+  },
+  {
+    "name": "Camping Sierra Peñascosa",
+    "region": "Castilla-La Mancha",
+    "province": "Albacete",
+    "url": "https://www.campingsierrapenascosa.com"
+  },
+  {
+    "name": "Camping Las Nogueras de Nerpio",
+    "region": "Castilla-La Mancha",
+    "province": "Albacete",
+    "url": "https://www.campingdenerpio.com"
+  },
+  {
+    "name": "Camping Las Fuentes de Letur",
+    "region": "Castilla-La Mancha",
+    "province": "Albacete",
+    "url": "https://campingletur.com"
+  },
+  {
+    "name": "Camping Río Segura",
+    "region": "Castilla-La Mancha",
+    "province": "Albacete",
+    "url": "https://www.campingriosegura.com"
+  },
+  {
+    "name": "Camping La Fuente (Casas de Ves)",
+    "region": "Castilla-La Mancha",
+    "province": "Albacete",
+    "url": null
+  },
+  {
+    "name": "Camping L'Ametlla de Mar (Almansa)",
+    "region": "Castilla-La Mancha",
+    "province": "Albacete",
+    "url": null
+  },
+  {
+    "name": "Alannia Costa Blanca",
+    "region": "Comunidad Valenciana",
+    "province": "Alicante",
+    "url": "https://alanniaresorts.com/en/resorts/alannia-costa-blanca"
+  },
+  {
+    "name": "Camping Cap Blanch",
+    "region": "Comunidad Valenciana",
+    "province": "Alicante",
+    "url": "https://www.camping-capblanch.com/gb/index.html"
+  },
+  {
+    "name": "La Marina Camping & Resort",
+    "region": "Comunidad Valenciana",
+    "province": "Alicante",
+    "url": "https://www.samay.com/en/la-marina/"
+  },
+  {
+    "name": "Camping El Jardín",
+    "region": "Comunidad Valenciana",
+    "province": "Alicante",
+    "url": "https://www.campingeljardin.com/"
+  },
+  {
+    "name": "Alannia Guardamar",
+    "region": "Comunidad Valenciana",
+    "province": "Alicante",
+    "url": "https://alanniaresorts.com/en/resorts/alannia-guardamar"
+  },
+  {
+    "name": "Camping El Torres",
+    "region": "Comunidad Valenciana",
+    "province": "Alicante",
+    "url": "https://campingeltorres.com/en/"
+  },
+  {
+    "name": "Wecamp Jávea",
+    "region": "Comunidad Valenciana",
+    "province": "Alicante",
+    "url": "https://wecamp.net/en/destinations/javea"
+  },
+  {
+    "name": "Camping Armanello",
+    "region": "Comunidad Valenciana",
+    "province": "Alicante",
+    "url": "https://www.campingarmanello.com/en/"
+  },
+  {
+    "name": "Camping Alicante Imperium",
+    "region": "Comunidad Valenciana",
+    "province": "Alicante",
+    "url": "https://www.campingalicanteimperium.com/en/"
+  },
+  {
+    "name": "Camping Lo Monte",
+    "region": "Comunidad Valenciana",
+    "province": "Alicante",
+    "url": "https://www.campinglomonte.com/en/"
+  },
+  {
+    "name": "Camping Fonts del Algar",
+    "region": "Comunidad Valenciana",
+    "province": "Alicante",
+    "url": "https://campingfontsdelalgar.com/en/"
+  },
+  {
+    "name": "Camping La Pedrera",
+    "region": "Comunidad Valenciana",
+    "province": "Alicante",
+    "url": "https://campinglapedrera.com/"
+  },
+  {
+    "name": "Camping Los Escullos",
+    "region": "Andalucía",
+    "province": "Almeria",
+    "url": "https://www.losesculloscabodegata.com/"
+  },
+  {
+    "name": "wecamp Cabo de Gata",
+    "region": "Andalucía",
+    "province": "Almeria",
+    "url": "https://wecamp.net/en/locations/cabo-de-gata"
+  },
+  {
+    "name": "Camping Cabo de Gata",
+    "region": "Andalucía",
+    "province": "Almeria",
+    "url": "https://www.campingcabodegata.com/"
+  },
+  {
+    "name": "TAIGA Almería Playa",
+    "region": "Andalucía",
+    "province": "Almeria",
+    "url": "https://taigaresorts.com/destinos/almeria-playa"
+  },
+  {
+    "name": "Camping Roquetas",
+    "region": "Andalucía",
+    "province": "Almeria",
+    "url": "https://www.campingroquetas.com/en"
+  },
+  {
+    "name": "Camping La Garrofa",
+    "region": "Andalucía",
+    "province": "Almeria",
+    "url": "https://www.lagarrofa.com/"
+  },
+  {
+    "name": "Camping Cueva Negra",
+    "region": "Andalucía",
+    "province": "Almeria",
+    "url": "https://www.campingcuevanegra.com/"
+  },
+  {
+    "name": "Camping Sopalmo",
+    "region": "Andalucía",
+    "province": "Almeria",
+    "url": "https://campingsopalmo.com/"
+  },
+  {
+    "name": "Camping Mar Azul Balerma",
+    "region": "Andalucía",
+    "province": "Almeria",
+    "url": "https://www.campingmarazul.com/"
+  },
+  {
+    "name": "Camping Los Gallardos",
+    "region": "Andalucía",
+    "province": "Almeria",
+    "url": "https://www.campinglosgallardos.com/"
+  },
+  {
+    "name": "Camping Albergue Tau",
+    "region": "Andalucía",
+    "province": "Almeria",
+    "url": "https://www.camping-tau.com/"
+  },
+  {
+    "name": "Camping Pinar del Rey",
+    "region": "Andalucía",
+    "province": "Almeria",
+    "url": "https://www.pinardelrey.com"
+  },
+  {
+    "name": "Oasis Al Hamam",
+    "region": "Andalucía",
+    "province": "Almeria",
+    "url": "https://oasisalhamam.com/"
+  },
+  {
+    "name": "Camping Albox",
+    "region": "Andalucía",
+    "province": "Almeria",
+    "url": "https://www.campingalbox.com/"
+  },
+  {
+    "name": "Cabo de Gata Camper Park",
+    "region": "Andalucía",
+    "province": "Almeria",
+    "url": "https://www.cabodegatacamperpark.com/"
+  },
+  {
+    "name": "Camping Sierra de María",
+    "region": "Andalucía",
+    "province": "Almeria",
+    "url": "https://www.campingsierramaria.com/"
+  },
+  {
+    "name": "Camping Cuevas Mar",
+    "region": "Andalucía",
+    "province": "Almeria",
+    "url": "https://www.campingcuevasmar.com/"
+  },
+  {
+    "name": "Camping Alpujarras",
+    "region": "Andalucía",
+    "province": "Almeria",
+    "url": "https://www.campingalpujarras.es"
+  },
+  {
+    "name": "Camping El Cantal de Mojácar",
+    "region": "Andalucía",
+    "province": "Almeria",
+    "url": "https://www.elcantal.com/"
+  },
+  {
+    "name": "Camping Las Menas",
+    "region": "Andalucía",
+    "province": "Almeria",
+    "url": "http://www.campinglasmenas.com/"
+  },
+  {
+    "name": "Camping Ribadesella",
+    "region": "Asturias",
+    "province": "Asturias",
+    "url": "http://www.camping-ribadesella.com/"
+  },
+  {
+    "name": "Camping La Paz",
+    "region": "Asturias",
+    "province": "Asturias",
+    "url": "https://campinglapaz.com/"
+  },
+  {
+    "name": "Camping Picos de Europa",
+    "region": "Asturias",
+    "province": "Asturias",
+    "url": "http://www.picos-europa.com/"
+  },
+  {
+    "name": "Camping Colombres",
+    "region": "Asturias",
+    "province": "Asturias",
+    "url": "https://campingcolombres.com/"
+  },
+  {
+    "name": "Camping Arenal de Morís",
+    "region": "Asturias",
+    "province": "Asturias",
+    "url": "https://www.arenaldemoris.com/"
+  },
+  {
+    "name": "Camping Playa de Vega",
+    "region": "Asturias",
+    "province": "Asturias",
+    "url": "https://www.campingplayadevega.com/"
+  },
+  {
+    "name": "Camping L'Amuravela",
+    "region": "Asturias",
+    "province": "Asturias",
+    "url": "https://www.lamuravela.com/"
+  },
+  {
+    "name": "wecamp Cudillero",
+    "region": "Asturias",
+    "province": "Asturias",
+    "url": "https://wecamp.com/en/destinations/cudillero"
+  },
+  {
+    "name": "Camping Las Hortensias",
+    "region": "Asturias",
+    "province": "Asturias",
+    "url": "https://www.campinglashortensias.com/"
+  },
+  {
+    "name": "Camping Covadonga",
+    "region": "Asturias",
+    "province": "Asturias",
+    "url": "http://www.camping-covadonga.com/"
+  },
+  {
+    "name": "Camping Naranjo de Bulnes",
+    "region": "Asturias",
+    "province": "Asturias",
+    "url": "http://www.campingnaranjodebulnes.com/"
+  },
+  {
+    "name": "Camping Lagos de Somiedo",
+    "region": "Asturias",
+    "province": "Asturias",
+    "url": "http://www.campinglagosdesomiedo.com/"
+  },
+  {
+    "name": "Camping Playa de Troenzo",
+    "region": "Asturias",
+    "province": "Asturias",
+    "url": "http://www.troenzollanes.com/"
+  },
+  {
+    "name": "Camping Costa Verde",
+    "region": "Asturias",
+    "province": "Asturias",
+    "url": "https://campingcostaverde.com/"
+  },
+  {
+    "name": "Camping Playa Sauces",
+    "region": "Asturias",
+    "province": "Asturias",
+    "url": "http://www.campingplayasauces.com/"
+  },
+  {
+    "name": "Camping Deva Gijón",
+    "region": "Asturias",
+    "province": "Asturias",
+    "url": "http://www.campingdeva-gijon.es/"
+  },
+  {
+    "name": "Camping Las Gaviotas",
+    "region": "Asturias",
+    "province": "Asturias",
+    "url": "http://www.campinglasgaviotas.com/"
+  },
+  {
+    "name": "Camping San Pedro de la Ribera",
+    "region": "Asturias",
+    "province": "Asturias",
+    "url": "http://www.campingsanpedro.com/"
+  },
+  {
+    "name": "Camping Palacio de Garaña",
+    "region": "Asturias",
+    "province": "Asturias",
+    "url": "http://www.campingpalaciodegarana.com/"
+  },
+  {
+    "name": "Camping Amaido",
+    "region": "Asturias",
+    "province": "Asturias",
+    "url": "https://www.amaido.com/"
+  },
+  {
+    "name": "Camping Los Cantiles",
+    "region": "Asturias",
+    "province": "Asturias",
+    "url": "http://www.campingloscantiles.com/"
+  },
+  {
+    "name": "Camping Perlora",
+    "region": "Asturias",
+    "province": "Asturias",
+    "url": "https://www.campingperlora.com/"
+  },
+  {
+    "name": "Camping Playa de Otur",
+    "region": "Asturias",
+    "province": "Asturias",
+    "url": null
+  },
+  {
+    "name": "Camping Local Ponga",
+    "region": "Asturias",
+    "province": "Asturias",
+    "url": null
+  },
+  {
+    "name": "Camping Mérida",
+    "region": "Extremadura",
+    "province": "Badajoz",
+    "url": "https://www.campingmerida.com/"
+  },
+  {
+    "name": "Camping Puerto Peña",
+    "region": "Extremadura",
+    "province": "Badajoz",
+    "url": "https://www.campingpuertopena.es/"
+  },
+  {
+    "name": "Camping Lago de Proserpina",
+    "region": "Extremadura",
+    "province": "Badajoz",
+    "url": "https://www.campingproserpina.es/"
+  },
+  {
+    "name": "Camping El Pino",
+    "region": "Extremadura",
+    "province": "Badajoz",
+    "url": "https://www.campingelpino.info/"
+  },
+  {
+    "name": "Camping La Isla",
+    "region": "Extremadura",
+    "province": "Badajoz",
+    "url": null
+  },
+  {
+    "name": "Camping Balcón de Orellana",
+    "region": "Extremadura",
+    "province": "Badajoz",
+    "url": "https://www.campingbalcondeorellana.com/"
+  },
+  {
+    "name": "Camping Los Chozos",
+    "region": "Extremadura",
+    "province": "Badajoz",
+    "url": "https://www.loschozos.com/"
+  },
+  {
+    "name": "Yelloh! Village Les Baléares - Son Bou",
+    "region": "Balearic Islands",
+    "province": "Balearic Islands",
+    "url": "https://www.yellohvillage-baleares-son-bou.com/"
+  },
+  {
+    "name": "Camping Cala Nova",
+    "region": "Balearic Islands",
+    "province": "Balearic Islands",
+    "url": "https://www.campingcalanova.com/"
+  },
+  {
+    "name": "Camping La Playa Ibiza",
+    "region": "Balearic Islands",
+    "province": "Balearic Islands",
+    "url": "https://www.campinglaplayaibiza.com/"
+  },
+  {
+    "name": "Camping Es Cana",
+    "region": "Balearic Islands",
+    "province": "Balearic Islands",
+    "url": "https://www.campingescana.com/"
+  },
+  {
+    "name": "Parco Ibiza (Camping San Antonio)",
+    "region": "Balearic Islands",
+    "province": "Balearic Islands",
+    "url": "https://parcoibiza.com/"
+  },
+  {
+    "name": "Camping Cala Bassa",
+    "region": "Balearic Islands",
+    "province": "Balearic Islands",
+    "url": "https://www.campingcalabassa.com/"
+  },
+  {
+    "name": "Camping S'Atalaia",
+    "region": "Balearic Islands",
+    "province": "Balearic Islands",
+    "url": "https://campingsatalaia.com/"
+  },
+  {
+    "name": "Campament Hipocampo",
+    "region": "Balearic Islands",
+    "province": "Balearic Islands",
+    "url": "https://www.campamenthipocampo.com/"
+  },
+  {
+    "name": "Zona d'Acampada Sa Font Coberta (Lluc)",
+    "region": "Balearic Islands",
+    "province": "Balearic Islands",
+    "url": "https://www.lluc.net/en/accommodation/camping/"
+  },
+  {
+    "name": "Zona d'Acampada Es Pixarells",
+    "region": "Balearic Islands",
+    "province": "Balearic Islands",
+    "url": "https://www.caib.es/sites/espaisnaturals/en/zona_dacampada_des_pixarells-21445/"
+  },
+  {
+    "name": "Camping La Victoria",
+    "region": "Balearic Islands",
+    "province": "Balearic Islands",
+    "url": "https://www.alcudia.net/ajuntament/en/servicios/camping-la-victoria/"
+  },
+  {
+    "name": "Campament de s'Arenal (Llevant)",
+    "region": "Balearic Islands",
+    "province": "Balearic Islands",
+    "url": "https://www.caib.es/sites/espaisnaturals/en/parc_natural_de_llevant-21396/"
+  },
+  {
+    "name": "Talaya Formentera",
+    "region": "Balearic Islands",
+    "province": "Balearic Islands",
+    "url": "https://www.talayaformentera.com/"
+  },
+  {
+    "name": "Soller Garden Bungalows",
+    "region": "Balearic Islands",
+    "province": "Balearic Islands",
+    "url": "https://www.sollergarden.com/"
+  },
+  {
+    "name": "Zona de Acampada Sa Comuna de Lloret",
+    "region": "Balearic Islands",
+    "province": "Balearic Islands",
+    "url": null
+  },
+  {
+    "name": "Campament Escolta de Sa Torrentera",
+    "region": "Balearic Islands",
+    "province": "Balearic Islands",
+    "url": null
+  },
+  {
+    "name": "Camping Vilanova Park",
+    "region": "Catalonia",
+    "province": "Barcelona",
+    "url": "https://www.vilanovapark.com/"
+  },
+  {
+    "name": "Camping 3 Estrellas",
+    "region": "Catalonia",
+    "province": "Barcelona",
+    "url": "https://www.camping3estrellas.com/"
+  },
+  {
+    "name": "Camping El Garrofer",
+    "region": "Catalonia",
+    "province": "Barcelona",
+    "url": "https://www.campingelgarrofer.com/"
+  },
+  {
+    "name": "Berga Resort",
+    "region": "Catalonia",
+    "province": "Barcelona",
+    "url": "https://www.bergaresort.com/"
+  },
+  {
+    "name": "Camping Catalonia",
+    "region": "Catalonia",
+    "province": "Barcelona",
+    "url": "https://www.campingbarcelona.com/"
+  },
+  {
+    "name": "Camping Roca Grossa",
+    "region": "Catalonia",
+    "province": "Barcelona",
+    "url": "https://www.rocagrossa.com/"
+  },
+  {
+    "name": "Camping Sènia Caballo de Mar",
+    "region": "Catalonia",
+    "province": "Barcelona",
+    "url": "https://www.senia.es/campings/camping-senia-caballo-de-mar/"
+  },
+  {
+    "name": "Camping Kanguro",
+    "region": "Catalonia",
+    "province": "Barcelona",
+    "url": "https://campingkanguro.com/"
+  },
+  {
+    "name": "Camping Globo Rojo",
+    "region": "Catalonia",
+    "province": "Barcelona",
+    "url": "https://www.globo-rojo.com/"
+  },
+  {
+    "name": "Camping Enmar",
+    "region": "Catalonia",
+    "province": "Barcelona",
+    "url": "https://www.campingenmar.com/"
+  },
+  {
+    "name": "Camping El Pasqualet",
+    "region": "Catalonia",
+    "province": "Barcelona",
+    "url": "https://elpasqualet.com/"
+  },
+  {
+    "name": "Camping Repòs del Pedraforca",
+    "region": "Catalonia",
+    "province": "Barcelona",
+    "url": "http://www.campingpedraforca.com/"
+  },
+  {
+    "name": "Camping Bell Sol",
+    "region": "Catalonia",
+    "province": "Barcelona",
+    "url": "https://www.campingbellsol.com/"
+  },
+  {
+    "name": "Camping Masnou",
+    "region": "Catalonia",
+    "province": "Barcelona",
+    "url": "https://campingmasnoubarcelona.com/"
+  },
+  {
+    "name": "Camping Sitges",
+    "region": "Catalonia",
+    "province": "Barcelona",
+    "url": "https://www.campingsitges.com/"
+  },
+  {
+    "name": "Camping La Tordera",
+    "region": "Catalonia",
+    "province": "Barcelona",
+    "url": "https://latordera.com/"
+  },
+  {
+    "name": "Camping Lluçanès",
+    "region": "Catalonia",
+    "province": "Barcelona",
+    "url": "http://www.campingllucanes.com/"
+  },
+  {
+    "name": "Camping Fontfreda",
+    "region": "Catalonia",
+    "province": "Barcelona",
+    "url": "https://www.campingfontfreda.cat/"
+  },
+  {
+    "name": "Camping Gironella",
+    "region": "Catalonia",
+    "province": "Barcelona",
+    "url": "https://www.campinggironella.cat/"
+  },
+  {
+    "name": "Camping El Vedado",
+    "region": "Catalonia",
+    "province": "Barcelona",
+    "url": "https://www.campingelvedado.com/"
+  },
+  {
+    "name": "Camping Estrella de Mar",
+    "region": "Catalonia",
+    "province": "Barcelona",
+    "url": "https://www.campingestrellademar.com/"
+  },
+  {
+    "name": "Camping Calella de Mar",
+    "region": "Catalonia",
+    "province": "Barcelona",
+    "url": "http://www.campingcalella.com/"
+  },
+  {
+    "name": "Camping La Rueda",
+    "region": "Catalonia",
+    "province": "Barcelona",
+    "url": "https://www.campinglarueda.com/"
+  },
+  {
+    "name": "Camping El Pont",
+    "region": "Catalonia",
+    "province": "Barcelona",
+    "url": "https://www.campingelpont.com/"
+  },
+  {
+    "name": "Camping Victoria",
+    "region": "Catalonia",
+    "province": "Barcelona",
+    "url": "https://www.campingvictoria.com/"
+  },
+  {
+    "name": "Camping Local Berguedà",
+    "region": "Catalonia",
+    "province": "Barcelona",
+    "url": false
+  },
+  {
+    "name": "Camping & Bungalows Portuondo",
+    "region": "Basque Country",
+    "province": "Biscay",
+    "url": "https://www.campingportuondo.com/en/"
+  },
+  {
+    "name": "Camping & Bungalows Leagi",
+    "region": "Basque Country",
+    "province": "Biscay",
+    "url": "https://www.campingleagi.com/"
+  },
+  {
+    "name": "Camping Arrien Gorliz",
+    "region": "Basque Country",
+    "province": "Biscay",
+    "url": "https://www.camping-arrien.com/"
+  },
+  {
+    "name": "Camping Sopelana",
+    "region": "Basque Country",
+    "province": "Biscay",
+    "url": "https://www.campingsopelana.com/"
+  },
+  {
+    "name": "Camping Endai",
+    "region": "Basque Country",
+    "province": "Biscay",
+    "url": "http://www.campingendai.com/"
+  },
+  {
+    "name": "Camping Valle de Karrantza",
+    "region": "Basque Country",
+    "province": "Biscay",
+    "url": "https://www.campingvalledecarranza.com/"
+  },
+  {
+    "name": "Camping Angosto",
+    "region": "Basque Country",
+    "province": "Biscay",
+    "url": "https://www.campingangosto.com/"
+  },
+  {
+    "name": "Área de Autocaravanas de Kobetamendi",
+    "region": "Basque Country",
+    "province": "Biscay",
+    "url": "https://www.bilbaoturismo.net/BilbaoTurismo/en/motorhome-area"
+  },
+  {
+    "name": "Camping Fuentes Blancas",
+    "region": "Castilla y León",
+    "province": "Burgos",
+    "url": "https://www.campingfuentesblancas.com/"
+  },
+  {
+    "name": "Camping Puerta de la Demanda",
+    "region": "Castilla y León",
+    "province": "Burgos",
+    "url": "https://puertadelademanda.com/"
+  },
+  {
+    "name": "Camping Camino de Santiago",
+    "region": "Castilla y León",
+    "province": "Burgos",
+    "url": "https://www.campingcamino.com/"
+  },
+  {
+    "name": "Camping Quinta de Cavia",
+    "region": "Castilla y León",
+    "province": "Burgos",
+    "url": "http://www.campingquintadecavia.com/"
+  },
+  {
+    "name": "Camping Arlanza",
+    "region": "Castilla y León",
+    "province": "Burgos",
+    "url": "https://www.campingarlanza.com/"
+  },
+  {
+    "name": "Camping Rio Nela",
+    "region": "Castilla y León",
+    "province": "Burgos",
+    "url": "https://www.campingrionela.com/"
+  },
+  {
+    "name": "Camping Covarrubias",
+    "region": "Castilla y León",
+    "province": "Burgos",
+    "url": "https://www.campingcovarrubias.com/"
+  },
+  {
+    "name": "Camping Frías",
+    "region": "Castilla y León",
+    "province": "Burgos",
+    "url": "https://www.campingfrias.com/"
+  },
+  {
+    "name": "Camping Playa de Arija",
+    "region": "Castilla y León",
+    "province": "Burgos",
+    "url": "https://campingplayadearija.es/"
+  },
+  {
+    "name": "Camping Picón del Conde",
+    "region": "Castilla y León",
+    "province": "Burgos",
+    "url": "https://www.picondelconde.com/"
+  },
+  {
+    "name": "Camping El Desfiladero",
+    "region": "Castilla y León",
+    "province": "Burgos",
+    "url": "https://www.campingeldesfiladero.com/"
+  },
+  {
+    "name": "Camping Costaján",
+    "region": "Castilla y León",
+    "province": "Burgos",
+    "url": "https://www.campingcostajan.com/"
+  },
+  {
+    "name": "Camping El Brezal",
+    "region": "Castilla y León",
+    "province": "Burgos",
+    "url": null
+  },
+  {
+    "name": "Camping La Isla (Villalázara)",
+    "region": "Castilla y León",
+    "province": "Burgos",
+    "url": null
+  },
+  {
+    "name": "Camping Monumento al Pastor",
+    "region": "Castilla y León",
+    "province": "Burgos",
+    "url": "http://www.monumentoalpastor.com/"
+  },
+  {
+    "name": "Camping Municipal Ciudad de Cáceres",
+    "region": "Extremadura",
+    "province": "Cáceres",
+    "url": "https://www.campingcaceres.com/"
+  },
+  {
+    "name": "Camping Parque Nacional de Monfragüe",
+    "region": "Extremadura",
+    "province": "Cáceres",
+    "url": "https://www.campingmonfrague.es/"
+  },
+  {
+    "name": "Camping Bungalows El Pinajarro",
+    "region": "Extremadura",
+    "province": "Cáceres",
+    "url": "https://campingelpinajarro.com/"
+  },
+  {
+    "name": "Camping Bungalows Las Cañadas",
+    "region": "Extremadura",
+    "province": "Cáceres",
+    "url": "https://www.campinglascanadas.com/"
+  },
+  {
+    "name": "Camping Bungalows Río Jerte",
+    "region": "Extremadura",
+    "province": "Cáceres",
+    "url": "https://www.campingriojerte.com/"
+  },
+  {
+    "name": "Camping Valle del Jerte",
+    "region": "Extremadura",
+    "province": "Cáceres",
+    "url": "https://campingbungalowvalledeljerte.com/"
+  },
+  {
+    "name": "Camping Bungalows Roma",
+    "region": "Extremadura",
+    "province": "Cáceres",
+    "url": "https://www.campingbungalowsroma.com/"
+  },
+  {
+    "name": "Camping Bungalows Sierra de Gata",
+    "region": "Extremadura",
+    "province": "Cáceres",
+    "url": "https://www.campingsierradegata.com/"
+  },
+  {
+    "name": "Camping Las Catalinas",
+    "region": "Extremadura",
+    "province": "Cáceres",
+    "url": null
+  },
+  {
+    "name": "Camping Complejo La Mata",
+    "region": "Extremadura",
+    "province": "Cáceres",
+    "url": "https://www.campinglamata.com/"
+  },
+  {
+    "name": "Camping Los Ibores",
+    "region": "Extremadura",
+    "province": "Cáceres",
+    "url": "https://www.campinglosibores.com/"
+  },
+  {
+    "name": "Camping Aguas Claras",
+    "region": "Extremadura",
+    "province": "Cáceres",
+    "url": "https://www.campingaguasclaras.com/"
+  },
+  {
+    "name": "wecamp Cádiz",
+    "region": "Andalucía",
+    "province": "Cádiz",
+    "url": "https://wecamp.net/en/locations/cadiz"
+  },
+  {
+    "name": "Camping La Rosaleda",
+    "region": "Andalucía",
+    "province": "Cádiz",
+    "url": "https://www.campinglarosaleda.com/"
+  },
+  {
+    "name": "Camping Pinar San José",
+    "region": "Andalucía",
+    "province": "Cádiz",
+    "url": "https://www.campingpinarsanjose.com/"
+  },
+  {
+    "name": "Camping Pueblo Blanco",
+    "region": "Andalucía",
+    "province": "Cádiz",
+    "url": "https://www.campingpuebloblanco.com/"
+  },
+  {
+    "name": "TAIGA Conil",
+    "region": "Andalucía",
+    "province": "Cádiz",
+    "url": "https://taigaresorts.com/destinos/conil"
+  },
+  {
+    "name": "TAIGA Puerto Santa María",
+    "region": "Andalucía",
+    "province": "Cádiz",
+    "url": "https://taigaresorts.com/destinos/puerto-santa-maria"
+  },
+  {
+    "name": "TAIGA Tarifa Punta Paloma",
+    "region": "Andalucía",
+    "province": "Cádiz",
+    "url": "https://taigaresorts.com/destinos/tarifa-punta-paloma"
+  },
+  {
+    "name": "TAIGA Tarifa Valdevaqueros",
+    "region": "Andalucía",
+    "province": "Cádiz",
+    "url": "https://taigaresorts.com/destinos/tarifa-valdevaqueros"
+  },
+  {
+    "name": "Camping Caños de Meca",
+    "region": "Andalucía",
+    "province": "Cádiz",
+    "url": "https://www.campingcm.com/"
+  },
+  {
+    "name": "Camping Roche",
+    "region": "Andalucía",
+    "province": "Cádiz",
+    "url": "https://www.campingroche.com/"
+  },
+  {
+    "name": "Camping El Faro",
+    "region": "Andalucía",
+    "province": "Cádiz",
+    "url": "https://www.campingelfaro.com/"
+  },
+  {
+    "name": "Camping Tajo Rodillo",
+    "region": "Andalucía",
+    "province": "Cádiz",
+    "url": "https://www.campingtajorodillo.com/"
+  },
+  {
+    "name": "Camping Playa Aguadulce",
+    "region": "Andalucía",
+    "province": "Cádiz",
+    "url": "https://www.campingplayaaguadulce.com/"
+  },
+  {
+    "name": "Camping Tarifa",
+    "region": "Andalucía",
+    "province": "Cádiz",
+    "url": "https://www.camping-tarifa.com/"
+  },
+  {
+    "name": "Camping Valdevaqueros",
+    "region": "Andalucía",
+    "province": "Cádiz",
+    "url": "https://www.campingvaldevaqueros.com/"
+  },
+  {
+    "name": "Camping Paloma",
+    "region": "Andalucía",
+    "province": "Cádiz",
+    "url": "https://www.campingpaloma.com/"
+  },
+  {
+    "name": "Camping Medina Sidonia",
+    "region": "Andalucía",
+    "province": "Cádiz",
+    "url": "https://campingmedinasidonia.com/"
+  },
+  {
+    "name": "Camping Los Gazules",
+    "region": "Andalucía",
+    "province": "Cádiz",
+    "url": "https://www.campinglosgazules.com/"
+  },
+  {
+    "name": "Camping Bahía de la Plata",
+    "region": "Andalucía",
+    "province": "Cádiz",
+    "url": null
+  },
+  {
+    "name": "Camping Playa Joyel",
+    "region": "Cantabria",
+    "province": "Cantabria",
+    "url": "https://www.playajoyel.com/"
+  },
+  {
+    "name": "Caravaning Oyambre",
+    "region": "Cantabria",
+    "province": "Cantabria",
+    "url": "https://www.oyambre.com/"
+  },
+  {
+    "name": "Camping La Viorna",
+    "region": "Cantabria",
+    "province": "Cantabria",
+    "url": "https://www.campinglaviorna.com/"
+  },
+  {
+    "name": "Camping El Helguero",
+    "region": "Cantabria",
+    "province": "Cantabria",
+    "url": "https://www.campingelhelguero.com/"
+  },
+  {
+    "name": "Camping Virgen del Mar",
+    "region": "Cantabria",
+    "province": "Cantabria",
+    "url": "https://www.campingvirgendelmar.com/"
+  },
+  {
+    "name": "Camping Santillana",
+    "region": "Cantabria",
+    "province": "Cantabria",
+    "url": "https://www.campingsantillana.com/"
+  },
+  {
+    "name": "Camping Playa Arenillas",
+    "region": "Cantabria",
+    "province": "Cantabria",
+    "url": "https://www.campingplayaarenillas.com/"
+  },
+  {
+    "name": "Camping Cabo Mayor",
+    "region": "Cantabria",
+    "province": "Cantabria",
+    "url": "https://www.campingcabomayor.com/"
+  },
+  {
+    "name": "Camping Laredo",
+    "region": "Cantabria",
+    "province": "Cantabria",
+    "url": "http://www.campinglaredo.com/"
+  },
+  {
+    "name": "Camping Playa de Isla",
+    "region": "Cantabria",
+    "province": "Cantabria",
+    "url": "https://www.campingplayadeisla.com/"
+  },
+  {
+    "name": "Camping de Ramales",
+    "region": "Cantabria",
+    "province": "Cantabria",
+    "url": "https://www.campingderamales.com/"
+  },
+  {
+    "name": "Camping El Molino de Cabuérniga",
+    "region": "Cantabria",
+    "province": "Cantabria",
+    "url": "https://www.campingcabuerniga.com/"
+  },
+  {
+    "name": "Camping La Isla - Picos de Europa",
+    "region": "Cantabria",
+    "province": "Cantabria",
+    "url": "https://www.campinglaislapicosdeeuropa.com/"
+  },
+  {
+    "name": "Camping Liébana",
+    "region": "Cantabria",
+    "province": "Cantabria",
+    "url": "https://www.campingliebana.com/"
+  },
+  {
+    "name": "Camping Derby Loredo",
+    "region": "Cantabria",
+    "province": "Cantabria",
+    "url": "https://www.campingderbyloredo.com/"
+  },
+  {
+    "name": "Camping Somo Parque",
+    "region": "Cantabria",
+    "province": "Cantabria",
+    "url": "https://www.campingsomoparque.com/"
+  },
+  {
+    "name": "Camping Playa Regatón",
+    "region": "Cantabria",
+    "province": "Cantabria",
+    "url": "https://www.campingplayaregaton.com/"
+  },
+  {
+    "name": "Camping Punta Marina",
+    "region": "Cantabria",
+    "province": "Cantabria",
+    "url": "https://www.campingpuntamarina.com/"
+  },
+  {
+    "name": "Camping Arenas",
+    "region": "Cantabria",
+    "province": "Cantabria",
+    "url": "https://www.campinglasarenas.com/"
+  },
+  {
+    "name": "Camping Cabo de Ajo",
+    "region": "Cantabria",
+    "province": "Cantabria",
+    "url": "https://www.campingcabodeajo.com/"
+  },
+  {
+    "name": "Camping San Pelayo",
+    "region": "Cantabria",
+    "province": "Cantabria",
+    "url": "https://www.campingsanpelayo.com/"
+  },
+  {
+    "name": "Dreamsea Surf Camp Spain",
+    "region": "Cantabria",
+    "province": "Cantabria",
+    "url": "https://dreamseasurfcamp.com/spain/"
+  },
+  {
+    "name": "Camping Cantabria (Polientes)",
+    "region": "Cantabria",
+    "province": "Cantabria",
+    "url": "https://www.campingcantabria.es/"
+  },
+  {
+    "name": "Camping Arbolado",
+    "region": "Cantabria",
+    "province": "Cantabria",
+    "url": null
+  },
+  {
+    "name": "Bonterra Resort",
+    "region": "Comunidad Valenciana",
+    "province": "Castellón",
+    "url": "https://www.bonterraresort.com/en/"
+  },
+  {
+    "name": "Camping BravoPlaya",
+    "region": "Comunidad Valenciana",
+    "province": "Castellón",
+    "url": "https://www.bravoplaya.com/en/"
+  },
+  {
+    "name": "Camping Torre la Sal",
+    "region": "Comunidad Valenciana",
+    "province": "Castellón",
+    "url": "https://www.campingtorrelasal.com/en/"
+  },
+  {
+    "name": "Camping Altomira",
+    "region": "Comunidad Valenciana",
+    "province": "Castellón",
+    "url": "https://www.campingaltomira.com/en/"
+  },
+  {
+    "name": "Camping Playa Tropicana",
+    "region": "Comunidad Valenciana",
+    "province": "Castellón",
+    "url": "https://www.playatropicana.com/en/"
+  },
+  {
+    "name": "Camping Ribamar",
+    "region": "Comunidad Valenciana",
+    "province": "Castellón",
+    "url": "https://www.campingribamar.com/en/"
+  },
+  {
+    "name": "Camping Azahar",
+    "region": "Comunidad Valenciana",
+    "province": "Castellón",
+    "url": "https://www.campingazahar.com/en/"
+  },
+  {
+    "name": "Camping Monmar",
+    "region": "Comunidad Valenciana",
+    "province": "Castellón",
+    "url": "https://www.campingmonmar.com/en/"
+  },
+  {
+    "name": "Camping Tauro",
+    "region": "Comunidad Valenciana",
+    "province": "Castellón",
+    "url": "https://www.campingtauro.com/en/"
+  },
+  {
+    "name": "Camping Alegria del Mar",
+    "region": "Comunidad Valenciana",
+    "province": "Castellón",
+    "url": "https://www.alegriadelmar.com/en/"
+  },
+  {
+    "name": "Camping Oasis",
+    "region": "Comunidad Valenciana",
+    "province": "Castellón",
+    "url": "https://www.campingoasis.com/"
+  },
+  {
+    "name": "Zielo de Levante",
+    "region": "Comunidad Valenciana",
+    "province": "Castellón",
+    "url": "https://lasbeatas.com/zielo-de-levante/"
+  },
+  {
+    "name": "Camping Alannia Els Prats",
+    "region": "Catalonia",
+    "url": "https://alanniaresorts.com/ca/resorts/alannia-els-prats"
+  },
+  {
+    "name": "Camping Las Dunas",
+    "region": "Catalonia",
+    "url": "https://www.campinglasdunas.com/"
+  },
+  {
+    "name": "Camping Vilanova Park",
+    "region": "Catalonia",
+    "url": "https://www.vilanovapark.com/"
+  },
+  {
+    "name": "Camping La Torre del Sol",
+    "region": "Catalonia",
+    "url": "https://www.latorredelsol.com/"
+  },
+  {
+    "name": "Tamarit Beach Resort",
+    "region": "Catalonia",
+    "url": "https://www.tamarit.com/"
+  },
+  {
+    "name": "Camping Bella Terra",
+    "region": "Catalonia",
+    "url": "https://www.campingbellaterra.com/"
+  },
+  {
+    "name": "Camping Sangulí Salou",
+    "region": "Catalonia",
+    "url": "https://www.sangulisalou.com/"
+  },
+  {
+    "name": "Wecamp Cadaqués",
+    "region": "Catalonia",
+    "url": "https://wecamp.com/destinations/cadaques"
+  },
+  {
+    "name": "Camping Aquarius",
+    "region": "Catalonia",
+    "url": "https://www.campingaquarius.com/"
+  },
+  {
+    "name": "Interpals Eco Resort",
+    "region": "Catalonia",
+    "url": "https://www.interpals.com/"
+  },
+  {
+    "name": "Camping Mas Patoxas",
+    "region": "Catalonia",
+    "url": "https://www.campingmaspatoxas.com/"
+  },
+  {
+    "name": "Camping Playa Montroig",
+    "region": "Catalonia",
+    "url": "https://www.playamontroig.com/"
+  },
+  {
+    "name": "Camping Stel Roda de Barà",
+    "region": "Catalonia",
+    "url": "https://www.stel.es/roda-de-bara/"
+  },
+  {
+    "name": "Berga Resort",
+    "region": "Catalonia",
+    "url": "https://www.bergaresort.com/"
+  },
+  {
+    "name": "Camping Vall de Camprodon",
+    "region": "Catalonia",
+    "url": "https://www.valldecamprodon.net/"
+  },
+  {
+    "name": "Camping Bedura Park",
+    "region": "Catalonia",
+    "url": "https://www.bedurapark.com/"
+  },
+  {
+    "name": "Camping Bassegoda Park",
+    "region": "Catalonia",
+    "url": "https://www.bassegodapark.com/"
+  },
+  {
+    "name": "Camping Local Montserrat",
+    "region": "Catalonia",
+    "url": false
+  },
+  {
+    "name": "Camping El Far",
+    "region": "Catalonia",
+    "url": "https://www.campingelfar.com/"
+  },
+  {
+    "name": "Camping La Ballena Alegre",
+    "region": "Catalonia",
+    "url": "https://www.ballena-alegre.com/"
+  },
+  {
+    "name": "Complejo Rural Miguel de Luque - Cabañas",
+    "region": "Ceuta",
+    "province": "Ceuta",
+    "url": "https://www.casasrurales.net/bungalows-cabanas/complejo-rural-miguel-de-luque-cabanas--c62283"
+  },
+  {
+    "name": "Área de Autocaravanas Marina Hércules (Puerto Deportivo)",
+    "region": "Ceuta",
+    "province": "Ceuta",
+    "url": "https://puertodeportivoceuta.com/"
+  },
+  {
+    "name": "Parking Playa de El Chorrillo",
+    "region": "Ceuta",
+    "province": "Ceuta",
+    "url": null
+  },
+  {
+    "name": "Camping Los Villares - Sierra de Córdoba",
+    "region": "Andalucía",
+    "province": "Córdoba",
+    "url": "https://www.campinglosvillares.es/"
+  },
+  {
+    "name": "Camping Carlos III",
+    "region": "Andalucía",
+    "province": "Córdoba",
+    "url": "https://www.campingcarlosiii.com/"
+  },
+  {
+    "name": "Camping La Breña",
+    "region": "Andalucía",
+    "province": "Córdoba",
+    "url": "https://www.centraldereservas.com/hoteles/espana/andalucia/cordoba/almodovar-del-rio/camping-la-brena"
+  },
+  {
+    "name": "Camping Puente Nuevo",
+    "region": "Andalucía",
+    "province": "Córdoba",
+    "url": "https://www.campingpuentenuevo.com/"
+  },
+  {
+    "name": "Camping La Albolafia",
+    "region": "Andalucía",
+    "province": "Córdoba",
+    "url": "https://www.pitchup.com/campsites/spain/andalucia/cordoba/villafranca_de_cordoba/camping_la_albolafia/"
+  },
+  {
+    "name": "Camping Alua Iznájar",
+    "region": "Andalucía",
+    "province": "Córdoba",
+    "url": "https://alua.es/centros/iznajar/camping-iznajar/"
+  },
+  {
+    "name": "Camping La Campiña",
+    "region": "Andalucía",
+    "province": "Córdoba",
+    "url": "https://www.campinglacampina.com/"
+  },
+  {
+    "name": "Camping Rafting Benamejí",
+    "region": "Andalucía",
+    "province": "Córdoba",
+    "url": "https://alua.es/centros/benameji/camping-benameji/"
+  },
+  {
+    "name": "La Dehesa Experiences (Glamping)",
+    "region": "Andalucía",
+    "province": "Córdoba",
+    "url": "https://ladehesaexperiences.com/"
+  },
+  {
+    "name": "Camping El Brillante (Currently Closed)",
+    "region": "Andalucía",
+    "province": "Córdoba",
+    "url": null
+  },
+  {
+    "name": "Camping Caravaning Cuenca",
+    "region": "Castilla-La Mancha",
+    "province": "Cuenca",
+    "url": "https://www.campingcuenca.com/"
+  },
+  {
+    "name": "Camping Hoces de Mira",
+    "region": "Castilla-La Mancha",
+    "province": "Cuenca",
+    "url": "https://www.campinghocesdemira.com/"
+  },
+  {
+    "name": "Camping La Dehesa",
+    "region": "Castilla-La Mancha",
+    "province": "Cuenca",
+    "url": "https://www.campingladehesa.com/"
+  },
+  {
+    "name": "Camping Pantapino",
+    "region": "Castilla-La Mancha",
+    "province": "Cuenca",
+    "url": "https://www.pantapino.com/"
+  },
+  {
+    "name": "Camping Venta de Contreras",
+    "region": "Castilla-La Mancha",
+    "province": "Cuenca",
+    "url": "https://www.ventadecontreras.com/"
+  },
+  {
+    "name": "Camping Pinar de Jábaga",
+    "region": "Castilla-La Mancha",
+    "province": "Cuenca",
+    "url": "https://www.pinardejabaga.com/"
+  },
+  {
+    "name": "Camping Las Majadas",
+    "region": "Castilla-La Mancha",
+    "province": "Cuenca",
+    "url": null
+  },
+  {
+    "name": "Camping Serranía",
+    "region": "Castilla-La Mancha",
+    "province": "Cuenca",
+    "url": "http://www.campingserrania.com/"
+  },
+  {
+    "name": "Camping La Veguilla",
+    "region": "Castilla-La Mancha",
+    "province": "Cuenca",
+    "url": null
+  },
+  {
+    "name": "Camping Mirador de Cabañeros",
+    "region": "Castilla-La Mancha",
+    "province": "Ciudad Real",
+    "url": "https://www.campingcabaneros.com/en/"
+  },
+  {
+    "name": "Camping Los Arenales",
+    "region": "Castilla-La Mancha",
+    "province": "Ciudad Real",
+    "url": "https://www.campinglosarenales.com/"
+  },
+  {
+    "name": "Camping Lincetur",
+    "region": "Castilla-La Mancha",
+    "province": "Ciudad Real",
+    "url": "https://www.lincetur.com/"
+  },
+  {
+    "name": "Camping Los Molinos",
+    "region": "Castilla-La Mancha",
+    "province": "Ciudad Real",
+    "url": "http://www.campinglosmolinos.es/"
+  },
+  {
+    "name": "Camping La Tabla de la Yedra",
+    "region": "Castilla-La Mancha",
+    "province": "Ciudad Real",
+    "url": "https://www.campinglatabladelayedra.com/"
+  },
+  {
+    "name": "Camping Fuencaliente",
+    "region": "Castilla-La Mancha",
+    "province": "Ciudad Real",
+    "url": null
+  },
+  {
+    "name": "Camping Montesinos",
+    "region": "Castilla-La Mancha",
+    "province": "Ciudad Real",
+    "url": "https://www.campingmontesinos.com/"
+  },
+  {
+    "name": "Zielo Las Beatas (Glamping)",
+    "region": "Castilla-La Mancha",
+    "province": "Ciudad Real",
+    "url": "https://lasbeatas.com/zielo-las-beatas/"
+  },
+  {
+    "name": "Kampaoh Cabañeros",
+    "region": "Castilla-La Mancha",
+    "province": "Ciudad Real",
+    "url": "https://en.kampaoh.com/spain/ciudad-real-cabaneros/"
+  },
+  {
+    "name": "Camping Igara de San Sebastián",
+    "region": "Basque Country",
+    "province": "Gipuzkoa",
+    "url": "https://www.campingigara.com/en/"
+  },
+  {
+    "name": "wecamp San Sebastián",
+    "region": "Basque Country",
+    "province": "Gipuzkoa",
+    "url": "https://wecamp.net/en/locations/san-sebastian"
+  },
+  {
+    "name": "Camping Gran Camping Zarautz",
+    "region": "Basque Country",
+    "province": "Gipuzkoa",
+    "url": "https://www.grancampingzarautz.com/en/"
+  },
+  {
+    "name": "Camping Itxaspe",
+    "region": "Basque Country",
+    "province": "Gipuzkoa",
+    "url": "https://www.campingitxaspe.com/en/"
+  },
+  {
+    "name": "Camping Zumaia",
+    "region": "Basque Country",
+    "province": "Gipuzkoa",
+    "url": "https://www.campingzumaia.com/en/"
+  },
+  {
+    "name": "Camping Orio Kanpina",
+    "region": "Basque Country",
+    "province": "Gipuzkoa",
+    "url": "https://www.oriokanpina.com/en/"
+  },
+  {
+    "name": "Camping Ondarroa",
+    "region": "Basque Country",
+    "province": "Gipuzkoa",
+    "url": "http://www.campingondarroa.com/"
+  },
+  {
+    "name": "Camping Mutriku",
+    "region": "Basque Country",
+    "province": "Gipuzkoa",
+    "url": "https://www.campingmutriku.com/en/"
+  },
+  {
+    "name": "Camping Oliden",
+    "region": "Basque Country",
+    "province": "Gipuzkoa",
+    "url": "http://www.campingoliden.com/"
+  },
+  {
+    "name": "Camping Las Dunas",
+    "region": "Catalonia",
+    "province": "Girona",
+    "url": "https://www.campinglasdunas.com/"
+  },
+  {
+    "name": "Camping La Ballena Alegre",
+    "region": "Catalonia",
+    "province": "Girona",
+    "url": "https://www.ballena-alegre.com/"
+  },
+  {
+    "name": "Camping Mas Patoxas",
+    "region": "Catalonia",
+    "province": "Girona",
+    "url": "https://www.campingmaspatoxas.com/"
+  },
+  {
+    "name": "Interpals Eco Resort",
+    "region": "Catalonia",
+    "province": "Girona",
+    "url": "https://www.interpals.com/"
+  },
+  {
+    "name": "Camping Aquarius",
+    "region": "Catalonia",
+    "province": "Girona",
+    "url": "https://www.campingaquarius.com/"
+  },
+  {
+    "name": "Camping Bassegoda Park",
+    "region": "Catalonia",
+    "province": "Girona",
+    "url": "https://www.bassegodapark.com/"
+  },
+  {
+    "name": "Wecamp Cadaqués",
+    "region": "Catalonia",
+    "province": "Girona",
+    "url": "https://wecamp.com/en/destinations/cadaques"
+  },
+  {
+    "name": "Camping Sandaya Cypsela Resort",
+    "region": "Catalonia",
+    "province": "Girona",
+    "url": "https://www.sandaya.co.uk/our-campsites/cypsela-resort"
+  },
+  {
+    "name": "Camping Cala Gogo",
+    "region": "Catalonia",
+    "province": "Girona",
+    "url": "https://www.calagogo.es/"
+  },
+  {
+    "name": "Camping Begur",
+    "region": "Catalonia",
+    "province": "Girona",
+    "url": "https://www.campingbegur.com/"
+  },
+  {
+    "name": "Camping Bella Terra",
+    "region": "Catalonia",
+    "province": "Girona",
+    "url": "https://www.campingbellaterra.com/"
+  },
+  {
+    "name": "Camping Les Medes",
+    "region": "Catalonia",
+    "province": "Girona",
+    "url": "https://www.campinglesmedes.com/"
+  },
+  {
+    "name": "Camping Vall d'Or",
+    "region": "Catalonia",
+    "province": "Girona",
+    "url": "https://www.valldor.com/"
+  },
+  {
+    "name": "Camping Amfora",
+    "region": "Catalonia",
+    "province": "Girona",
+    "url": "https://www.campingamfora.com/"
+  },
+  {
+    "name": "Camping Laguna",
+    "region": "Catalonia",
+    "province": "Girona",
+    "url": "https://www.campinglaguna.com/"
+  },
+  {
+    "name": "Camping El Pinar",
+    "region": "Catalonia",
+    "province": "Girona",
+    "url": "https://alanniaresorts.com/en/resorts/alannia-el-pinar"
+  },
+  {
+    "name": "Camping Kim's",
+    "region": "Catalonia",
+    "province": "Girona",
+    "url": "https://www.campingkims.com/"
+  },
+  {
+    "name": "Camping Moby Dick",
+    "region": "Catalonia",
+    "province": "Girona",
+    "url": "http://www.campingmobydick.com/"
+  },
+  {
+    "name": "Camping Rodas",
+    "region": "Catalonia",
+    "province": "Girona",
+    "url": "https://www.campingrodas.com/"
+  },
+  {
+    "name": "Camping Local Oix",
+    "region": "Catalonia",
+    "province": "Girona",
+    "url": null
+  },
+  {
+    "name": "Camping & Bungalows Platja Brava",
+    "region": "Catalonia",
+    "province": "Girona",
+    "url": "https://www.platjabrava.com/"
+  },
+  {
+    "name": "Camping Castell Montgrí",
+    "region": "Catalonia",
+    "province": "Girona",
+    "url": "https://www.hotelier-services.com/castellmontgri/"
+  },
+  {
+    "name": "Camping Las Palmeras",
+    "region": "Catalonia",
+    "province": "Girona",
+    "url": "https://www.campinglaspalmeras.com/"
+  },
+  {
+    "name": "Camping Nautic Almata",
+    "region": "Catalonia",
+    "province": "Girona",
+    "url": "https://www.almata.com/"
+  },
+  {
+    "name": "Camping Cala Llevadó",
+    "region": "Catalonia",
+    "province": "Girona",
+    "url": "https://www.calallevado.com/"
+  },
+  {
+    "name": "Camping Sènia Cala Canyelles",
+    "region": "Catalonia",
+    "province": "Girona",
+    "url": "https://www.senia.es/camping-cala-canyelles/"
+  },
+  {
+    "name": "Camping Mas Nou",
+    "region": "Catalonia",
+    "province": "Girona",
+    "url": "https://www.campingmasnou.com/"
+  },
+  {
+    "name": "Camping Santa Elena Ciutat",
+    "region": "Catalonia",
+    "province": "Girona",
+    "url": "https://www.campingsantaelena.com/"
+  },
+  {
+    "name": "Camping La Sirena",
+    "region": "Catalonia",
+    "province": "Girona",
+    "url": "https://www.camping-lasirena.com/"
+  },
+  {
+    "name": "Camping Lloret Blau",
+    "region": "Catalonia",
+    "province": "Girona",
+    "url": "https://www.campinglloretblau.com/"
+  },
+  {
+    "name": "Camping de Besalú",
+    "region": "Catalonia",
+    "province": "Girona",
+    "url": "https://www.campingbesalu.com/"
+  },
+  {
+    "name": "Camping Esponellà",
+    "region": "Catalonia",
+    "province": "Girona",
+    "url": "https://www.campingesponella.com/"
+  },
+  {
+    "name": "Camping Can Coromines",
+    "region": "Catalonia",
+    "province": "Girona",
+    "url": "https://www.campingcancoromines.cat/"
+  },
+  {
+    "name": "Camping Cala Pola",
+    "region": "Catalonia",
+    "province": "Girona",
+    "url": "https://www.calapola.com/"
+  },
+  {
+    "name": "Camping Riembau",
+    "region": "Catalonia",
+    "province": "Girona",
+    "url": "https://www.riembau.com/"
+  },
+  {
+    "name": "Camping Internacional de Calonge",
+    "region": "Catalonia",
+    "province": "Girona",
+    "url": "https://www.intercalonge.com/"
+  },
+  {
+    "name": "Camping Rubina Resort",
+    "region": "Catalonia",
+    "province": "Girona",
+    "url": "https://www.rubinaresort.com/"
+  },
+  {
+    "name": "Camping El Delfín Verde",
+    "region": "Catalonia",
+    "province": "Girona",
+    "url": "https://www.eldelfinverde.com/"
+  },
+  {
+    "name": "Camping La Fageda",
+    "region": "Catalonia",
+    "province": "Girona",
+    "url": "https://www.campinglafageda.com/"
+  },
+  {
+    "name": "Camping Vall de Ribes",
+    "region": "Catalonia",
+    "province": "Girona",
+    "url": "https://www.campingvallderibes.com/"
+  },
+  {
+    "name": "Camping Solana del Ter",
+    "region": "Catalonia",
+    "province": "Girona",
+    "url": "https://www.solanadelter.com/"
+  },
+  {
+    "name": "Camping Maçanet de Cabrenys",
+    "region": "Catalonia",
+    "province": "Girona",
+    "url": "https://www.campingmassanet.com/"
+  },
+  {
+    "name": "Camping Can Fosses",
+    "region": "Catalonia",
+    "province": "Girona",
+    "url": "http://www.campingcanfosses.com/"
+  },
+  {
+    "name": "Càmping Molí de Vilamala",
+    "region": "Catalonia",
+    "province": "Girona",
+    "url": null
+  },
+  {
+    "name": "Camping Pirineus",
+    "region": "Catalonia",
+    "province": "Girona",
+    "url": "https://www.campingpirineus.com/"
+  },
+  {
+    "name": "Camping Empordà",
+    "region": "Catalonia",
+    "province": "Girona",
+    "url": "https://www.campingemporda.com/"
+  },
+  {
+    "name": "Camping Las Lomas",
+    "region": "Andalucía",
+    "province": "Granada",
+    "url": "https://www.campinglaslomas.com/en/"
+  },
+  {
+    "name": "Camping Alto de Viñuelas",
+    "region": "Andalucía",
+    "province": "Granada",
+    "url": "http://www.campingaltodevinuelas.com/"
+  },
+  {
+    "name": "Camping Trevélez",
+    "region": "Andalucía",
+    "province": "Granada",
+    "url": "http://www.campingtrevelez.net/"
+  },
+  {
+    "name": "Camping Órgiva",
+    "region": "Andalucía",
+    "province": "Granada",
+    "url": "https://www.campingorgiva.com/"
+  },
+  {
+    "name": "Camping Balcón de Pítres",
+    "region": "Andalucía",
+    "province": "Granada",
+    "url": "https://www.balcondepitres.com/"
+  },
+  {
+    "name": "Camping Bungalows Don Cactus",
+    "region": "Andalucía",
+    "province": "Granada",
+    "url": "https://www.doncactus.com/"
+  },
+  {
+    "name": "Camping Playa Granada",
+    "region": "Andalucía",
+    "province": "Granada",
+    "url": "https://www.campingplayagranada.com/"
+  },
+  {
+    "name": "Camping Playa de Poniente",
+    "region": "Andalucía",
+    "province": "Granada",
+    "url": "https://www.campingplayadeponiente.com/"
+  },
+  {
+    "name": "Camping Castillo de Baños",
+    "region": "Andalucía",
+    "province": "Granada",
+    "url": "https://www.campingcastillodebanos.com/"
+  },
+  {
+    "name": "Camping Huerta Romero",
+    "region": "Andalucía",
+    "province": "Granada",
+    "url": "https://www.campinghuertaromero.com/"
+  },
+  {
+    "name": "Camping Reina Isabel",
+    "region": "Andalucía",
+    "province": "Granada",
+    "url": "http://www.campingreinaisabel.es/"
+  },
+  {
+    "name": "Camping Suspiro del Moro",
+    "region": "Andalucía",
+    "province": "Granada",
+    "url": "https://www.suspirodelmoro.com/"
+  },
+  {
+    "name": "Camping Ruta del Purche",
+    "region": "Andalucía",
+    "province": "Granada",
+    "url": "https://www.rutadelpurche.com/"
+  },
+  {
+    "name": "Camping Granada",
+    "region": "Andalucía",
+    "province": "Granada",
+    "url": "https://www.campinggranada.es/"
+  },
+  {
+    "name": "Camping Alpujarras",
+    "region": "Andalucía",
+    "province": "Granada",
+    "url": "http://www.campingalpujarras.com/"
+  },
+  {
+    "name": "Camping Rural La Cabañuela",
+    "region": "Andalucía",
+    "province": "Granada",
+    "url": "https://www.campinglacabanuela.com/"
+  },
+  {
+    "name": "Camping Los Bermejales",
+    "region": "Andalucía",
+    "province": "Granada",
+    "url": "https://www.campinglosbermejales.com/"
+  },
+  {
+    "name": "Camping Castril",
+    "region": "Andalucía",
+    "province": "Granada",
+    "url": "https://www.campingcastril.com/"
+  },
+  {
+    "name": "Fuente del Lobo Glamping",
+    "region": "Andalucía",
+    "province": "Granada",
+    "url": "https://fuentedellobo.com/"
+  },
+  {
+    "name": "Narnia Lodgings",
+    "region": "Andalucía",
+    "province": "Granada",
+    "url": "https://www.narnialodgings.com/"
+  },
+  {
+    "name": "Camping Orea",
+    "region": "Castilla-La Mancha",
+    "province": "Guadalajara",
+    "url": "https://www.campingorea.com/"
+  },
+  {
+    "name": "Camping Los Bonales",
+    "region": "Castilla-La Mancha",
+    "province": "Guadalajara",
+    "url": "https://campinglosbonales.es/"
+  },
+  {
+    "name": "Camping El Colvillo",
+    "region": "Castilla-La Mancha",
+    "province": "Guadalajara",
+    "url": "https://trilloturismo.es/donde-dormir/camping-el-colvillo/"
+  },
+  {
+    "name": "Camping La Dehesa de Cañamares",
+    "region": "Castilla-La Mancha",
+    "province": "Guadalajara",
+    "url": "https://www.campingladehesa.com/"
+  },
+  {
+    "name": "Camping Sacedón",
+    "region": "Castilla-La Mancha",
+    "province": "Guadalajara",
+    "url": null
+  },
+  {
+    "name": "Complejo de Turismo Rural El Colvillo",
+    "region": "Castilla-La Mancha",
+    "province": "Guadalajara",
+    "url": "https://elcolvillo.com/"
+  },
+  {
+    "name": "Área de Autocaravanas de Sigüenza",
+    "region": "Castilla-La Mancha",
+    "province": "Guadalajara",
+    "url": null
+  },
+  {
+    "name": "Camping La Aldea",
+    "region": "Andalucía",
+    "province": "Huelva",
+    "url": "https://campinglaaldea.com/en/"
+  },
+  {
+    "name": "Camping Giralda Isla Cristina",
+    "region": "Andalucía",
+    "province": "Huelva",
+    "url": "https://www.campinggiralda.com/"
+  },
+  {
+    "name": "Huttopia Parque de Doñana",
+    "region": "Andalucía",
+    "province": "Huelva",
+    "url": "https://europe.huttopia.com/en/site/parque-de-donana/"
+  },
+  {
+    "name": "Camping Doñana Playa",
+    "region": "Andalucía",
+    "province": "Huelva",
+    "url": "https://www.campingdonana.com/"
+  },
+  {
+    "name": "Camping Playa Taray",
+    "region": "Andalucía",
+    "province": "Huelva",
+    "url": "https://campingtaray.com/en/"
+  },
+  {
+    "name": "Camping Playa La Bota",
+    "region": "Andalucía",
+    "province": "Huelva",
+    "url": "https://campingplayalabota.es/en/"
+  },
+  {
+    "name": "Camping El Madroñal",
+    "region": "Andalucía",
+    "province": "Huelva",
+    "url": "https://campingelmadronal.com/en/"
+  },
+  {
+    "name": "Camping Antilla",
+    "region": "Andalucía",
+    "province": "Huelva",
+    "url": "https://www.campingantilla.com/"
+  },
+  {
+    "name": "Global Tribe Campsite",
+    "region": "Andalucía",
+    "province": "Huelva",
+    "url": "https://globaltribecampsite.com/"
+  },
+  {
+    "name": "Camping Playa de Mazagón",
+    "region": "Andalucía",
+    "province": "Huelva",
+    "url": "https://www.campingplayamazagon.com/"
+  },
+  {
+    "name": "Camping Ribera del Chanza",
+    "region": "Andalucía",
+    "province": "Huelva",
+    "url": "https://www.cortegana.es/camping-ribera-del-chanza"
+  },
+  {
+    "name": "Camping Aracena - Sierra",
+    "region": "Andalucía",
+    "province": "Huelva",
+    "url": "https://www.camping-aracena.com/"
+  },
+  {
+    "name": "Alternative Camper Park Nirvana",
+    "region": "Andalucía",
+    "province": "Huelva",
+    "url": null
+  },
+  {
+    "name": "Camper Park Playas de Luz",
+    "region": "Andalucía",
+    "province": "Huelva",
+    "url": "https://camperparkplayasdeluz.com/"
+  },
+  {
+    "name": "Camping Los Molinos",
+    "region": "Andalucía",
+    "province": "Huelva",
+    "url": "http://www.campinglosmolinos.es/"
+  },
+  {
+    "name": "wecamp Pirineos",
+    "region": "Aragón",
+    "province": "Huesca",
+    "url": "https://wecamp.net/en/locations/pirineos"
+  },
+  {
+    "name": "Camping Peña Montañesa",
+    "region": "Aragón",
+    "province": "Huesca",
+    "url": "https://www.penamontanesa.com/"
+  },
+  {
+    "name": "Camping Gavín",
+    "region": "Aragón",
+    "province": "Huesca",
+    "url": "https://www.campinggavin.com/"
+  },
+  {
+    "name": "Camping Alquézar",
+    "region": "Aragón",
+    "province": "Huesca",
+    "url": "https://www.campingalquezar.com/"
+  },
+  {
+    "name": "Camping Río Vero",
+    "region": "Aragón",
+    "province": "Huesca",
+    "url": "https://www.campingriovero.com/"
+  },
+  {
+    "name": "Camping Valle de Bujaruelo",
+    "region": "Aragón",
+    "province": "Huesca",
+    "url": "https://www.campingvalledebujaruelo.com/"
+  },
+  {
+    "name": "Camping Aneto",
+    "region": "Aragón",
+    "province": "Huesca",
+    "url": "https://www.camping-aneto.com/"
+  },
+  {
+    "name": "Camping Laspaúles",
+    "region": "Aragón",
+    "province": "Huesca",
+    "url": "https://www.laspaules.com/"
+  },
+  {
+    "name": "Camping Lago Barasona",
+    "region": "Aragón",
+    "province": "Huesca",
+    "url": "https://www.lagobarasona.com/"
+  },
+  {
+    "name": "Camping Valle de Hecho",
+    "region": "Aragón",
+    "province": "Huesca",
+    "url": "https://www.campingvalledehecho.com/"
+  },
+  {
+    "name": "Camping El Puente",
+    "region": "Aragón",
+    "province": "Huesca",
+    "url": "https://www.campingelpuente.com/"
+  },
+  {
+    "name": "Camping Baliera",
+    "region": "Aragón",
+    "province": "Huesca",
+    "url": "https://www.baliera.com/"
+  },
+  {
+    "name": "Camping Aín Jaca",
+    "region": "Aragón",
+    "province": "Huesca",
+    "url": "https://www.campingainjaca.com/"
+  },
+  {
+    "name": "Camping San Jorge",
+    "region": "Aragón",
+    "province": "Huesca",
+    "url": "https://www.campingsanjorge.es/"
+  },
+  {
+    "name": "Camping Pineta",
+    "region": "Aragón",
+    "province": "Huesca",
+    "url": "https://www.hotelpineta.com/camping/"
+  },
+  {
+    "name": "Camping Boltaña",
+    "region": "Aragón",
+    "province": "Huesca",
+    "url": "https://www.campingboltana.com/"
+  },
+  {
+    "name": "Camping Oto",
+    "region": "Aragón",
+    "province": "Huesca",
+    "url": "https://www.campingoto.com/"
+  },
+  {
+    "name": "Camping Isábena",
+    "region": "Aragón",
+    "province": "Huesca",
+    "url": "https://www.isabena.eu/"
+  },
+  {
+    "name": "Camping Borda d'Arnaldet",
+    "region": "Aragón",
+    "province": "Huesca",
+    "url": "https://www.arnaldet.com/"
+  },
+  {
+    "name": "Camping El Jabalí Blanco",
+    "region": "Aragón",
+    "province": "Huesca",
+    "url": "https://www.campingeljalibiblanco.com/"
+  },
+  {
+    "name": "Camping de Haro",
+    "region": "La Rioja",
+    "province": "La Rioja",
+    "url": "https://www.campingharo.es/"
+  },
+  {
+    "name": "Camping Bañares",
+    "region": "La Rioja",
+    "province": "La Rioja",
+    "url": "https://www.campingbanares.com/"
+  },
+  {
+    "name": "Camping Berceo",
+    "region": "La Rioja",
+    "province": "La Rioja",
+    "url": "https://www.campingberceo.com/"
+  },
+  {
+    "name": "Camping Navarrete",
+    "region": "La Rioja",
+    "province": "La Rioja",
+    "url": "https://www.campingnavarrete.com/"
+  },
+  {
+    "name": "Camping Fuenmayor",
+    "region": "La Rioja",
+    "province": "La Rioja",
+    "url": "https://www.campingfuenmayor.com/"
+  },
+  {
+    "name": "Camping Los Cameros",
+    "region": "La Rioja",
+    "province": "La Rioja",
+    "url": "https://www.campingloscameros.com/"
+  },
+  {
+    "name": "Camping de La Rioja",
+    "region": "La Rioja",
+    "province": "La Rioja",
+    "url": "https://www.campinglarioja.com/"
+  },
+  {
+    "name": "Natura Resorts La Rioja",
+    "region": "La Rioja",
+    "province": "La Rioja",
+    "url": "https://naturaresorts.es/"
+  },
+  {
+    "name": "Camping El Ruedo",
+    "region": "La Rioja",
+    "province": "La Rioja",
+    "url": "https://www.campingelruedo.com/"
+  },
+  {
+    "name": "Camping La Playa",
+    "region": "La Rioja",
+    "province": "La Rioja",
+    "url": "https://www.campinglaplaya.com/"
+  },
+  {
+    "name": "Blue Ocean Camp - Tasartico",
+    "region": "Islas Canarias",
+    "province": "Las Palmas",
+    "url": "https://www.blueoceancamp.com/"
+  },
+  {
+    "name": "Camping Playa de Vargas",
+    "region": "Islas Canarias",
+    "province": "Las Palmas",
+    "url": "https://www.camping.info/en/campsite/camping-playa-de-vargas"
+  },
+  {
+    "name": "Camping Papagayo",
+    "region": "Islas Canarias",
+    "province": "Las Palmas",
+    "url": "https://turismolanzarote.com/en/camping/"
+  },
+  {
+    "name": "Camino Art House",
+    "region": "Islas Canarias",
+    "province": "Las Palmas",
+    "url": "https://caminoart.org/"
+  },
+  {
+    "name": "Camping El Pinillo",
+    "region": "Islas Canarias",
+    "province": "Las Palmas",
+    "url": "https://www.campingelpinillo.com/"
+  },
+  {
+    "name": "Camping Temisas",
+    "region": "Islas Canarias",
+    "province": "Las Palmas",
+    "url": "https://guiacampingfecc.com/campings/temisas/"
+  },
+  {
+    "name": "Camping Pasito Blanco",
+    "region": "Islas Canarias",
+    "province": "Las Palmas",
+    "url": null
+  },
+  {
+    "name": "Camping el Pagador",
+    "region": "Islas Canarias",
+    "province": "Las Palmas",
+    "url": "https://campingelpagador.es/"
+  },
+  {
+    "name": "Zona de Acampada de Bailico",
+    "region": "Islas Canarias",
+    "province": "Las Palmas",
+    "url": "https://cabildo.grancanaria.com/areas-recreativas"
+  },
+  {
+    "name": "Zona de Acampada Llanos de la Pez",
+    "region": "Islas Canarias",
+    "province": "Las Palmas",
+    "url": "https://cabildo.grancanaria.com/areas-recreativas"
+  },
+  {
+    "name": "Cabañas Volcán Capellanía",
+    "region": "Islas Canarias",
+    "province": "Las Palmas",
+    "url": "https://volcancapellania.com/"
+  },
+  {
+    "name": "Camping Salinetas",
+    "region": "Islas Canarias",
+    "province": "Las Palmas",
+    "url": "https://campingsalinetas.es/"
+  },
+  {
+    "name": "Camping Ciudad de León",
+    "region": "Castilla y León",
+    "province": "León",
+    "url": "http://www.campingciudaddeleon.com/"
+  },
+  {
+    "name": "Camping El Helguero",
+    "region": "Castilla y León",
+    "province": "León",
+    "url": "https://www.campingelhelguero.com/"
+  },
+  {
+    "name": "Camping Vía de la Plata",
+    "region": "Castilla y León",
+    "province": "León",
+    "url": "https://www.campingviadelaplata.com/"
+  },
+  {
+    "name": "Camping Palacio de Garaña",
+    "region": "Castilla y León",
+    "province": "León",
+    "url": null
+  },
+  {
+    "name": "Camping Cares",
+    "region": "Castilla y León",
+    "province": "León",
+    "url": "https://www.campingcares.com/"
+  },
+  {
+    "name": "Camping El Folgoso",
+    "region": "Castilla y León",
+    "province": "León",
+    "url": "https://www.campingelfolgoso.com/"
+  },
+  {
+    "name": "Camping Valle de Doiras",
+    "region": "Castilla y León",
+    "province": "León",
+    "url": "https://www.campingvallededoiras.es/"
+  },
+  {
+    "name": "Camping Camino de Santiago",
+    "region": "Castilla y León",
+    "province": "León",
+    "url": "https://www.campingelcamino.com/"
+  },
+  {
+    "name": "Camping Los Ancares",
+    "region": "Castilla y León",
+    "province": "León",
+    "url": "https://www.campinglosancares.com/"
+  },
+  {
+    "name": "Camping Las Doñas",
+    "region": "Castilla y León",
+    "province": "León",
+    "url": "https://www.campinglasdonas.com/"
+  },
+  {
+    "name": "Camping La Cota",
+    "region": "Castilla y León",
+    "province": "León",
+    "url": "https://www.campinglacota.com/"
+  },
+  {
+    "name": "Camping Bosque de Gordón",
+    "region": "Castilla y León",
+    "province": "León",
+    "url": "https://www.campingbosquedegordon.es/"
+  },
+  {
+    "name": "Camping Riomalo",
+    "region": "Castilla y León",
+    "province": "León",
+    "url": "https://www.riomalo.com/"
+  },
+  {
+    "name": "Camping Picos de Europa",
+    "region": "Castilla y León",
+    "province": "León",
+    "url": "https://www.picos-europa.com/"
+  },
+  {
+    "name": "Camping Pico Verde",
+    "region": "Castilla y León",
+    "province": "León",
+    "url": "https://www.campingpicoverde.com/"
+  },
+  {
+    "name": "Camping El Solsonès",
+    "region": "Catalonia",
+    "province": "Lleida",
+    "url": "https://www.campingsolsones.com/"
+  },
+  {
+    "name": "Nou Camping",
+    "region": "Catalonia",
+    "province": "Lleida",
+    "url": "https://www.noucamping.com/"
+  },
+  {
+    "name": "Verneda Camping Mountain Resort",
+    "region": "Catalonia",
+    "province": "Lleida",
+    "url": "https://www.hotelier-services.com/verneda/"
+  },
+  {
+    "name": "Camping Bedura Park",
+    "region": "Catalonia",
+    "province": "Lleida",
+    "url": "https://www.bedurapark.com/"
+  },
+  {
+    "name": "Aigüestortes Camping Resort",
+    "region": "Catalonia",
+    "province": "Lleida",
+    "url": "https://www.aiguestortes.com/"
+  },
+  {
+    "name": "Camping La Noguera",
+    "region": "Catalonia",
+    "province": "Lleida",
+    "url": "https://www.campinglanoguera.com/"
+  },
+  {
+    "name": "Camping Vall d'Àger",
+    "region": "Catalonia",
+    "province": "Lleida",
+    "url": "https://www.campingager.com/"
+  },
+  {
+    "name": "Camping Voraparc",
+    "region": "Catalonia",
+    "province": "Lleida",
+    "url": "https://www.voraparc.com/"
+  },
+  {
+    "name": "HolaCamp Aran Aventura",
+    "region": "Catalonia",
+    "province": "Lleida",
+    "url": "https://holacamp.com/destinations/aran-aventura"
+  },
+  {
+    "name": "Camping Boneta",
+    "region": "Catalonia",
+    "province": "Lleida",
+    "url": "https://www.campingboneta.com/"
+  },
+  {
+    "name": "Camping Gran Sol",
+    "region": "Catalonia",
+    "province": "Lleida",
+    "url": "https://www.campinggransol.com/"
+  },
+  {
+    "name": "Camping Organyà Park",
+    "region": "Catalonia",
+    "province": "Lleida",
+    "url": "https://www.campingorganyapark.com/"
+  },
+  {
+    "name": "Camping Del Cardós",
+    "region": "Catalonia",
+    "province": "Lleida",
+    "url": "https://www.campingdelcardos.com/"
+  },
+  {
+    "name": "Camping Alta Ribagorça",
+    "region": "Catalonia",
+    "province": "Lleida",
+    "url": "https://www.campingaltaribagorça.com/"
+  },
+  {
+    "name": "Camping Cerdanya Viva",
+    "region": "Catalonia",
+    "province": "Lleida",
+    "url": "https://www.cerdanyaviva.com/"
+  },
+  {
+    "name": "Camping Frontera Park",
+    "region": "Catalonia",
+    "province": "Lleida",
+    "url": "https://www.fronterapark.com/"
+  },
+  {
+    "name": "Camping Solau",
+    "region": "Catalonia",
+    "province": "Lleida",
+    "url": "http://www.campingsolau.com/"
+  },
+  {
+    "name": "Camping La Borda del Pubill",
+    "region": "Catalonia",
+    "province": "Lleida",
+    "url": "https://www.labordadelpubill.com/"
+  },
+  {
+    "name": "Camping Prado Verde",
+    "region": "Catalonia",
+    "province": "Lleida",
+    "url": "https://www.campingpradoverde.es/"
+  },
+  {
+    "name": "Camping Era Yerla d'Arties",
+    "region": "Catalonia",
+    "province": "Lleida",
+    "url": "https://www.erayerla.com/"
+  },
+  {
+    "name": "Camping Forcanada",
+    "region": "Catalonia",
+    "province": "Lleida",
+    "url": "https://www.campingforcanada.com/"
+  },
+  {
+    "name": "Camping Noguera Pallaresa",
+    "region": "Catalonia",
+    "province": "Lleida",
+    "url": "https://www.campingnoguerapallaresa.com/"
+  },
+  {
+    "name": "Camping Collegats",
+    "region": "Catalonia",
+    "province": "Lleida",
+    "url": "https://www.campingcollegats.com/"
+  },
+  {
+    "name": "Camping Gaset",
+    "region": "Catalonia",
+    "province": "Lleida",
+    "url": "https://www.campinggaset.com/"
+  },
+  {
+    "name": "Camping Buchaca",
+    "region": "Catalonia",
+    "province": "Lleida",
+    "url": null
+  },
+  {
+    "name": "Camping El Cortal del Gral",
+    "region": "Catalonia",
+    "province": "Lleida",
+    "url": null
+  },
+  {
+    "name": "Camping A Gaivota",
+    "region": "Galicia",
+    "province": "Lugo",
+    "url": "https://www.agaivota.com/"
+  },
+  {
+    "name": "Camping Rinlo Costa",
+    "region": "Galicia",
+    "province": "Lugo",
+    "url": "https://www.rinlocosta.com/"
+  },
+  {
+    "name": "Camping Vila de Sarria",
+    "region": "Galicia",
+    "province": "Lugo",
+    "url": "https://www.campingviladesarria.com/"
+  },
+  {
+    "name": "Camping San Rafael",
+    "region": "Galicia",
+    "province": "Lugo",
+    "url": "https://www.campingsanrafael.com/"
+  },
+  {
+    "name": "Camping Monterroso",
+    "region": "Galicia",
+    "province": "Lugo",
+    "url": "https://www.monterroso.es/turismo/camping-municipal"
+  },
+  {
+    "name": "Camping A Fonsagrada",
+    "region": "Galicia",
+    "province": "Lugo",
+    "url": "http://www.campingafonsagrada.com/"
+  },
+  {
+    "name": "Camping Viveiro",
+    "region": "Galicia",
+    "province": "Lugo",
+    "url": "https://www.campingviveiro.com/"
+  },
+  {
+    "name": "Camping El Mesón",
+    "region": "Galicia",
+    "province": "Lugo",
+    "url": "https://www.campingelmeson.com/"
+  },
+  {
+    "name": "Acampamento O Caurel",
+    "region": "Galicia",
+    "province": "Lugo",
+    "url": "https://www.facebook.com/acampamentocaurel/"
+  },
+  {
+    "name": "Camping Ribadeo",
+    "region": "Galicia",
+    "province": "Lugo",
+    "url": "https://www.campingribadeo.com/"
+  },
+  {
+    "name": "Camping A Nosa Casa",
+    "region": "Galicia",
+    "province": "Lugo",
+    "url": "https://www.campinganosacasa.com/"
+  },
+  {
+    "name": "FozCamp",
+    "region": "Galicia",
+    "province": "Lugo",
+    "url": "https://fozcamp.com/"
+  },
+  {
+    "name": "Atalaia Camper Park",
+    "region": "Galicia",
+    "province": "Lugo",
+    "url": "https://atalaiacamperpark.com/"
+  },
+  {
+    "name": "Camping Osuna",
+    "region": "Madrid",
+    "province": "Madrid",
+    "url": "https://www.campingosuna.es/"
+  },
+  {
+    "name": "Camping Madrid Arco Iris",
+    "region": "Madrid",
+    "province": "Madrid",
+    "url": "https://www.campingarcoiris.com/"
+  },
+  {
+    "name": "Camping Internacional Aranjuez",
+    "region": "Madrid",
+    "province": "Madrid",
+    "url": "https://www.campingaranjuez.com/"
+  },
+  {
+    "name": "Capfun Camping El Escorial",
+    "region": "Madrid",
+    "province": "Madrid",
+    "url": "https://www.capfun.com/camping-espana-communaute_madrid-escorial-ES.html"
+  },
+  {
+    "name": "Monte Holiday Ecoturismo",
+    "region": "Madrid",
+    "province": "Madrid",
+    "url": "https://monteholiday.com/"
+  },
+  {
+    "name": "Camping Pico de la Miel",
+    "region": "Madrid",
+    "province": "Madrid",
+    "url": "https://www.picodelamiel.com/"
+  },
+  {
+    "name": "Camping Caravaning Alpha",
+    "region": "Madrid",
+    "province": "Madrid",
+    "url": "https://www.campingalpha.com/"
+  },
+  {
+    "name": "Camping Piscis",
+    "region": "Madrid",
+    "province": "Madrid",
+    "url": "https://www.campingpiscis.com/"
+  },
+  {
+    "name": "Camping El Canto la Gallina",
+    "region": "Madrid",
+    "province": "Madrid",
+    "url": "https://www.capfun.com/camping-espana-communaute_madrid-canto_la_gallina-ES.html"
+  },
+  {
+    "name": "La Cigüeña Resort",
+    "region": "Madrid",
+    "province": "Madrid",
+    "url": "https://www.complejolaciguena.com/"
+  },
+  {
+    "name": "Camping La Ardilla Roja",
+    "region": "Madrid",
+    "province": "Madrid",
+    "url": "https://laardillaroja.com/"
+  },
+  {
+    "name": "Camping La Fresneda",
+    "region": "Madrid",
+    "province": "Madrid",
+    "url": "https://www.campinglafresneda.com/"
+  },
+  {
+    "name": "Camping Cervera de Buitrago",
+    "region": "Madrid",
+    "province": "Madrid",
+    "url": "https://www.cerveradebuitrago.com/"
+  },
+  {
+    "name": "Camping El Picachuelo",
+    "region": "Madrid",
+    "province": "Madrid",
+    "url": "https://www.campingelpicachuelo.com/"
+  },
+  {
+    "name": "Camping D'Oremor",
+    "region": "Madrid",
+    "province": "Madrid",
+    "url": "http://www.doremor.com/"
+  },
+  {
+    "name": "Camping Valle Enmedio",
+    "region": "Madrid",
+    "province": "Madrid",
+    "url": "https://www.campingvalleenmedio.es/"
+  },
+  {
+    "name": "Camping El Valle",
+    "region": "Madrid",
+    "province": "Madrid",
+    "url": "https://www.campingelvalle.com/"
+  },
+  {
+    "name": "Camping La Enfermería",
+    "region": "Madrid",
+    "province": "Madrid",
+    "url": null
+  },
+  {
+    "name": "Camping San Juan",
+    "region": "Madrid",
+    "province": "Madrid",
+    "url": null
+  },
+  {
+    "name": "Área de Autocaravanas Puerto Noray (Marina)",
+    "region": "Melilla",
+    "province": "Melilla",
+    "url": "https://www.puertodemelilla.es/index.php/puerto-noray"
+  },
+  {
+    "name": "Parking de la Estación Marítima",
+    "region": "Melilla",
+    "province": "Melilla",
+    "url": null
+  },
+  {
+    "name": "Parking Explanada de Álvarez Claro",
+    "region": "Melilla",
+    "province": "Melilla",
+    "url": null
+  },
+  {
+    "name": "Parador de Melilla (Parking)",
+    "region": "Melilla",
+    "province": "Melilla",
+    "url": "https://www.parador.es/en/paradores/parador-de-melilla"
+  },
+  {
+    "name": "Camping Caravaning La Manga",
+    "region": "Murcia",
+    "province": "Murcia",
+    "url": "https://www.caravaning.es/en/"
+  },
+  {
+    "name": "Camping Playa de Mazarrón",
+    "region": "Murcia",
+    "province": "Murcia",
+    "url": "https://www.playamazarron.com/"
+  },
+  {
+    "name": "Camping Mar Menor",
+    "region": "Murcia",
+    "province": "Murcia",
+    "url": "https://www.campingmarmenor.com/"
+  },
+  {
+    "name": "Camping Los Madriles",
+    "region": "Murcia",
+    "province": "Murcia",
+    "url": "https://www.campinglosmadriles.es/"
+  },
+  {
+    "name": "Camping Las Torres",
+    "region": "Murcia",
+    "province": "Murcia",
+    "url": "https://campinglastorres.com/en"
+  },
+  {
+    "name": "Camping Naturista El Portús",
+    "region": "Murcia",
+    "province": "Murcia",
+    "url": "https://www.elportus.com/"
+  },
+  {
+    "name": "Camping Sierra Espuña",
+    "region": "Murcia",
+    "province": "Murcia",
+    "url": "https://www.campingsierraespuna.com/"
+  },
+  {
+    "name": "Camping Fuente",
+    "region": "Murcia",
+    "province": "Murcia",
+    "url": "https://www.campingfuente.com/"
+  },
+  {
+    "name": "Camping La Puerta",
+    "region": "Murcia",
+    "province": "Murcia",
+    "url": "https://www.campinglapuerta.com/"
+  },
+  {
+    "name": "Camping Totana Park",
+    "region": "Murcia",
+    "province": "Murcia",
+    "url": "https://www.campingtotana.com/"
+  },
+  {
+    "name": "Camping Bellavista",
+    "region": "Murcia",
+    "province": "Murcia",
+    "url": "https://www.campingbellavista.com/"
+  },
+  {
+    "name": "Camping San Javier",
+    "region": "Murcia",
+    "province": "Murcia",
+    "url": "https://www.campingsanjavier.com/"
+  },
+  {
+    "name": "TAIGA Costa Cálida",
+    "region": "Murcia",
+    "province": "Murcia",
+    "url": "https://taigaresorts.com/destinos/costa-calida"
+  },
+  {
+    "name": "Camping Los Delfines",
+    "region": "Murcia",
+    "province": "Murcia",
+    "url": "https://www.campinglosdelfines.com/"
+  },
+  {
+    "name": "Camping Las Palmeras (Fortuna)",
+    "region": "Murcia",
+    "province": "Murcia",
+    "url": "https://www.campinglaspalmeras.com/"
+  },
+  {
+    "name": "Camper Park Huerta de Murcia",
+    "region": "Murcia",
+    "province": "Murcia",
+    "url": "https://camperparkhuertademurcia.com/"
+  },
+  {
+    "name": "Camping Castillejo",
+    "region": "Murcia",
+    "province": "Murcia",
+    "url": null
+  },
+  {
+    "name": "Camping Los Viveros",
+    "region": "Murcia",
+    "province": "Murcia",
+    "url": "https://campinglosviveros.com/"
+  },
+  {
+    "name": "Camping Ezcaba",
+    "region": "Navarre",
+    "province": "Navarre",
+    "url": "https://www.campingezcaba.com/"
+  },
+  {
+    "name": "Eco-Camping Arbizu",
+    "region": "Navarre",
+    "province": "Navarre",
+    "url": "https://www.arbizu.eus/en/eco-camping-arbizu/"
+  },
+  {
+    "name": "Camping Iratxe Ciudad de Vacaciones",
+    "region": "Navarre",
+    "province": "Navarre",
+    "url": "https://www.campingiratxe.com/"
+  },
+  {
+    "name": "Camping El Molino",
+    "region": "Navarre",
+    "province": "Navarre",
+    "url": "https://www.campingelmolino.com/"
+  },
+  {
+    "name": "Camping Urbasa",
+    "region": "Navarre",
+    "province": "Navarre",
+    "url": "https://www.campingurbasa.com/"
+  },
+  {
+    "name": "Camping Acedo",
+    "region": "Navarre",
+    "province": "Navarre",
+    "url": "https://www.campingacedo.com/"
+  },
+  {
+    "name": "Camping Urrobi",
+    "region": "Navarre",
+    "province": "Navarre",
+    "url": "https://www.campingurrobi.com/"
+  },
+  {
+    "name": "Camping Izarpe",
+    "region": "Navarre",
+    "province": "Navarre",
+    "url": "https://www.izarpe.com/"
+  },
+  {
+    "name": "Camping Etxarri",
+    "region": "Navarre",
+    "province": "Navarre",
+    "url": "https://www.campingetxarri.com/"
+  },
+  {
+    "name": "Camping Baztán",
+    "region": "Navarre",
+    "province": "Navarre",
+    "url": "https://www.campingbaztan.com/"
+  },
+  {
+    "name": "Camping Artaza",
+    "region": "Navarre",
+    "province": "Navarre",
+    "url": "https://www.campingartaza.com/"
+  },
+  {
+    "name": "Camping Murkuzuria",
+    "region": "Navarre",
+    "province": "Navarre",
+    "url": "https://www.campingmurkuzuria.com/"
+  },
+  {
+    "name": "Camping Olite",
+    "region": "Navarre",
+    "province": "Navarre",
+    "url": "https://www.camping-olite.com/"
+  },
+  {
+    "name": "Camping Lizarra",
+    "region": "Navarre",
+    "province": "Navarre",
+    "url": "https://www.campinglizarra.com/"
+  },
+  {
+    "name": "Camping Aritzaleku",
+    "region": "Navarre",
+    "province": "Navarre",
+    "url": "https://www.aritzaleku.com/"
+  },
+  {
+    "name": "Camping Ariztigain",
+    "region": "Navarre",
+    "province": "Navarre",
+    "url": "https://www.ariztigain.com/"
+  },
+  {
+    "name": "Camping Aralar",
+    "region": "Navarre",
+    "province": "Navarre",
+    "url": "http://www.camping-aralar.com/"
+  },
+  {
+    "name": "Camping Bardenas",
+    "region": "Navarre",
+    "province": "Navarre",
+    "url": "https://www.campingbardenas.com/"
+  },
+  {
+    "name": "Camping Osate",
+    "region": "Navarre",
+    "province": "Navarre",
+    "url": "https://www.campingosate.net/"
+  },
+  {
+    "name": "Camping Nature",
+    "region": "Navarre",
+    "province": "Navarre",
+    "url": "https://www.campingnature.com/"
+  },
+  {
+    "name": "Camping Cañón del Sil",
+    "region": "Galicia",
+    "province": "Ourense",
+    "url": "https://canondosilcamping.es/"
+  },
+  {
+    "name": "Camping Os Invernadeiros",
+    "region": "Galicia",
+    "province": "Ourense",
+    "url": "https://www.allariz.gal/reatur/camping/"
+  },
+  {
+    "name": "Camping A Masía",
+    "region": "Galicia",
+    "province": "Ourense",
+    "url": null
+  },
+  {
+    "name": "Camping O Corgo",
+    "region": "Galicia",
+    "province": "Ourense",
+    "url": "https://muinos.gal/camping-o-corgo/"
+  },
+  {
+    "name": "Camping Untes",
+    "region": "Galicia",
+    "province": "Ourense",
+    "url": null
+  },
+  {
+    "name": "Auria Camper Park",
+    "region": "Galicia",
+    "province": "Ourense",
+    "url": "https://www.auriacamperpark.com/"
+  },
+  {
+    "name": "Camping Nieve's",
+    "region": "Galicia",
+    "province": "Ourense",
+    "url": null
+  },
+  {
+    "name": "Camping Augas Mansas",
+    "region": "Galicia",
+    "province": "Ourense",
+    "url": null
+  },
+  {
+    "name": "A Fábrica da Luz",
+    "region": "Galicia",
+    "province": "Ourense",
+    "url": "https://afabricadaluz.com/"
+  },
+  {
+    "name": "Camping Fuentes Carrionas",
+    "region": "Castilla y León",
+    "province": "Palencia",
+    "url": "https://www.campingfuentescarrionas.com/"
+  },
+  {
+    "name": "Camping Monte Royal",
+    "region": "Castilla y León",
+    "province": "Palencia",
+    "url": "https://www.campingmonteroyal.com/"
+  },
+  {
+    "name": "Camping El Soto",
+    "region": "Castilla y León",
+    "province": "Palencia",
+    "url": "https://www.campingelsoto.com/"
+  },
+  {
+    "name": "Camping El Edén",
+    "region": "Castilla y León",
+    "province": "Palencia",
+    "url": "http://www.campingeleden.com/"
+  },
+  {
+    "name": "Camping Fuente de los Caños",
+    "region": "Castilla y León",
+    "province": "Palencia",
+    "url": "https://www.fuenteloscanos.com/"
+  },
+  {
+    "name": "Camping Cubillas",
+    "region": "Castilla y León",
+    "province": "Palencia",
+    "url": "https://www.campingcubillas.com/"
+  },
+  {
+    "name": "Área de Autocaravanas de Palencia",
+    "region": "Castilla y León",
+    "province": "Palencia",
+    "url": null
+  },
+  {
+    "name": "Camping Bayona Playa",
+    "region": "Galicia",
+    "province": "Pontevedra",
+    "url": "https://www.bayonaplaya.com/"
+  },
+  {
+    "name": "Camping Playa América",
+    "region": "Galicia",
+    "province": "Pontevedra",
+    "url": "https://campingplayaamerica.com/"
+  },
+  {
+    "name": "Camping Siglo XXI",
+    "region": "Galicia",
+    "province": "Pontevedra",
+    "url": "https://campingsiglo21.com/"
+  },
+  {
+    "name": "Camping Liméns",
+    "region": "Galicia",
+    "province": "Pontevedra",
+    "url": "https://www.campinglimens.com/"
+  },
+  {
+    "name": "Camping O Muiño",
+    "region": "Galicia",
+    "province": "Pontevedra",
+    "url": "https://www.campingmuino.com/"
+  },
+  {
+    "name": "Camping Moreiras",
+    "region": "Galicia",
+    "province": "Pontevedra",
+    "url": "https://www.campingmoreiras.com/"
+  },
+  {
+    "name": "Camping Preguntoiro",
+    "region": "Galicia",
+    "province": "Pontevedra",
+    "url": null
+  },
+  {
+    "name": "Camping Mougás",
+    "region": "Galicia",
+    "province": "Pontevedra",
+    "url": "https://www.campingmougas.com/"
+  },
+  {
+    "name": "Camping Paisaxe II",
+    "region": "Galicia",
+    "province": "Pontevedra",
+    "url": "http://www.campingplayapaisaxe.com/"
+  },
+  {
+    "name": "Camping Baltar",
+    "region": "Galicia",
+    "province": "Pontevedra",
+    "url": "https://www.campingbaltar.com/"
+  },
+  {
+    "name": "Camping Regio",
+    "region": "Castilla y León",
+    "province": "Salamanca",
+    "url": "https://www.campingregio.com/"
+  },
+  {
+    "name": "Camping Don Quijote",
+    "region": "Castilla y León",
+    "province": "Salamanca",
+    "url": "https://www.campingdonquijote.com/"
+  },
+  {
+    "name": "Camping Al-Bereka",
+    "region": "Castilla y León",
+    "province": "Salamanca",
+    "url": "https://www.campingalbereka.com/"
+  },
+  {
+    "name": "Camping Sierra de Francia",
+    "region": "Castilla y León",
+    "province": "Salamanca",
+    "url": "https://www.campingsierradefrancia.com/"
+  },
+  {
+    "name": "Camping Las Cavenes",
+    "region": "Castilla y León",
+    "province": "Salamanca",
+    "url": "http://www.campinglascavenes.com/"
+  },
+  {
+    "name": "Camping El Burro Blanco",
+    "region": "Castilla y León",
+    "province": "Salamanca",
+    "url": "http://www.elburroblanco.net/"
+  },
+  {
+    "name": "Camping Las Casitas de las Arribes",
+    "region": "Castilla y León",
+    "province": "Salamanca",
+    "url": "https://www.lascasitasdelasarribes.com/"
+  },
+  {
+    "name": "Camping Ruta de la Plata",
+    "region": "Castilla y León",
+    "province": "Salamanca",
+    "url": "https://www.campingrutadelaplata.com/"
+  },
+  {
+    "name": "Camping Cinco Castaños",
+    "region": "Castilla y León",
+    "province": "Salamanca",
+    "url": "https://www.cincocastanos.com/"
+  },
+  {
+    "name": "Camping La Capea",
+    "region": "Castilla y León",
+    "province": "Salamanca",
+    "url": null
+  },
+  {
+    "name": "Camping Nauta",
+    "region": "Islas Canarias",
+    "province": "Santa Cruz de Tenerife",
+    "url": "https://www.campingnauta.es/en-gb"
+  },
+  {
+    "name": "Agro Camping Invernaderito",
+    "region": "Islas Canarias",
+    "province": "Santa Cruz de Tenerife",
+    "url": "https://agro-camping-invernaderito.negocio.site/"
+  },
+  {
+    "name": "Camping Montaña Roja",
+    "region": "Islas Canarias",
+    "province": "Santa Cruz de Tenerife",
+    "url": null
+  },
+  {
+    "name": "Camping Punta del Hidalgo",
+    "region": "Islas Canarias",
+    "province": "Santa Cruz de Tenerife",
+    "url": "https://turismo.aytolalaguna.es/en/camping-punta-del-hidalgo/"
+  },
+  {
+    "name": "Camping de la Caldera de Taburiente (La Palma)",
+    "region": "Islas Canarias",
+    "province": "Santa Cruz de Tenerife",
+    "url": "https://www.reservasparquesnacionales.es/real/parquesnac/usu/html/detalle-actividad-oapn.aspx?ii=6ENG&cen=4&act=2"
+  },
+  {
+    "name": "Zona de Acampada de Chío",
+    "region": "Islas Canarias",
+    "province": "Santa Cruz de Tenerife",
+    "url": "https://www.tenerifeon.es/en/facilities/chio-camping-area"
+  },
+  {
+    "name": "Zona de Acampada Las Lajas",
+    "region": "Islas Canarias",
+    "province": "Santa Cruz de Tenerife",
+    "url": "https://www.tenerifeon.es/en/facilities/las-lajas-camping-area"
+  },
+  {
+    "name": "Zona de Acampada San José de Los Llanos",
+    "region": "Islas Canarias",
+    "province": "Santa Cruz de Tenerife",
+    "url": "https://www.tenerifeon.es/en/facilities/san-jose-de-los-llanos-camping-area"
+  },
+  {
+    "name": "Zona de Acampada de El Cedro (La Gomera)",
+    "region": "Islas Canarias",
+    "province": "Santa Cruz de Tenerife",
+    "url": "https://www.reservasparquesnacionales.es/real/parquesnac/usu/html/detalle-actividad-oapn.aspx?ii=6ENG&cen=1&act=21"
+  },
+  {
+    "name": "Camping Hoya del Morcillo (El Hierro)",
+    "region": "Islas Canarias",
+    "province": "Santa Cruz de Tenerife",
+    "url": "https://elhierro.travel/que-hacer/camping-la-hoya-del-morcillo/"
+  },
+  {
+    "name": "El Quinto Pino (El Hierro)",
+    "region": "Islas Canarias",
+    "province": "Santa Cruz de Tenerife",
+    "url": "https://elquintopino.es/"
+  },
+  {
+    "name": "Camping La Magarza (La Palma)",
+    "region": "Islas Canarias",
+    "province": "Santa Cruz de Tenerife",
+    "url": "https://www.lapalmacamping.com/"
+  },
+  {
+    "name": "Camping Acueducto",
+    "region": "Castilla y León",
+    "province": "Segovia",
+    "url": "https://www.campingacueducto.com/?lang=en"
+  },
+  {
+    "name": "Camping Riaza",
+    "region": "Castilla y León",
+    "province": "Segovia",
+    "url": "https://www.campingriaza.com/"
+  },
+  {
+    "name": "Camping Hoces del Duratón",
+    "region": "Castilla y León",
+    "province": "Segovia",
+    "url": "https://campinghocesdelduraton.com/en/"
+  },
+  {
+    "name": "Camping El Calonge",
+    "region": "Castilla y León",
+    "province": "Segovia",
+    "url": "http://www.campingelcalonge.es/"
+  },
+  {
+    "name": "Camping Valle Enmedio",
+    "region": "Castilla y León",
+    "province": "Segovia",
+    "url": "https://www.campingvalleenmedio.es/"
+  },
+  {
+    "name": "Camping El Valle",
+    "region": "Castilla y León",
+    "province": "Segovia",
+    "url": "https://www.campingelvalle.com/"
+  },
+  {
+    "name": "Duratón Camping",
+    "region": "Castilla y León",
+    "province": "Segovia",
+    "url": null
+  },
+  {
+    "name": "Camping Aeródromo de Fuentemilanos",
+    "region": "Castilla y León",
+    "province": "Segovia",
+    "url": "https://fuentemilanos.com/en/camping-2/"
+  },
+  {
+    "name": "Camping Urbión",
+    "region": "Castilla y León",
+    "province": "Soria",
+    "url": "https://www.campingurbion.com/"
+  },
+  {
+    "name": "Camping Fuente de la Teja",
+    "region": "Castilla y León",
+    "province": "Soria",
+    "url": "https://fuentedelateja.es/"
+  },
+  {
+    "name": "Camping Refugio de Pescadores",
+    "region": "Castilla y León",
+    "province": "Soria",
+    "url": "https://www.campingcovaleda.com/"
+  },
+  {
+    "name": "Camping Entrerrobles",
+    "region": "Castilla y León",
+    "province": "Soria",
+    "url": "https://www.entrerrobles.com/"
+  },
+  {
+    "name": "Camping Cañón del Río Lobos",
+    "region": "Castilla y León",
+    "province": "Soria",
+    "url": "https://www.camping-rio-lobos.com/"
+  },
+  {
+    "name": "Camping El Concurso",
+    "region": "Castilla y León",
+    "province": "Soria",
+    "url": "https://www.campingelconcurso.com/"
+  },
+  {
+    "name": "Camping Fuente del Botón",
+    "region": "Castilla y León",
+    "province": "Soria",
+    "url": "https://www.fuentedelboton.com/"
+  },
+  {
+    "name": "Camping Cobijo",
+    "region": "Castilla y León",
+    "province": "Soria",
+    "url": "http://www.campingcobijo.com/"
+  },
+  {
+    "name": "Camping Los Cameros",
+    "region": "Castilla y León",
+    "province": "Soria",
+    "url": null
+  },
+  {
+    "name": "Mira Domos Soria",
+    "region": "Castilla y León",
+    "province": "Soria",
+    "url": "https://miradomos.es/"
+  },
+  {
+    "name": "Camping & Resort Sangulí Salou",
+    "region": "Catalonia",
+    "province": "Tarragona",
+    "url": "https://www.sangulisalou.com/"
+  },
+  {
+    "name": "Camping Playa Montroig",
+    "region": "Catalonia",
+    "province": "Tarragona",
+    "url": "https://www.playamontroig.com/"
+  },
+  {
+    "name": "Camping La Torre del Sol",
+    "region": "Catalonia",
+    "province": "Tarragona",
+    "url": "https://www.latorredelsol.com/"
+  },
+  {
+    "name": "Tamarit Beach Resort",
+    "region": "Catalonia",
+    "province": "Tarragona",
+    "url": "https://www.tamarit.com/"
+  },
+  {
+    "name": "Camping Stel Roda de Barà",
+    "region": "Catalonia",
+    "province": "Tarragona",
+    "url": "https://www.stel.es/"
+  },
+  {
+    "name": "Camping Joan Bungalow Park",
+    "region": "Catalonia",
+    "province": "Tarragona",
+    "url": "https://www.campingjoan.com/"
+  },
+  {
+    "name": "Alannia Costa Dorada",
+    "region": "Catalonia",
+    "province": "Tarragona",
+    "url": "https://alanniaresorts.com/en/resorts/alannia-costa-dorada"
+  },
+  {
+    "name": "Camping Las Palmeras",
+    "region": "Catalonia",
+    "province": "Tarragona",
+    "url": "https://www.laspalmeras.com/"
+  },
+  {
+    "name": "Camping Eucaliptus",
+    "region": "Catalonia",
+    "province": "Tarragona",
+    "url": "https://campingeucaliptus.com/"
+  },
+  {
+    "name": "Camping La Siesta Salou",
+    "region": "Catalonia",
+    "province": "Tarragona",
+    "url": "https://www.lasiestasalou.com/"
+  },
+  {
+    "name": "Camping Miramar",
+    "region": "Catalonia",
+    "province": "Tarragona",
+    "url": "https://camping-miramar.es/"
+  },
+  {
+    "name": "Camping Santa Eulàlia",
+    "region": "Catalonia",
+    "province": "Tarragona",
+    "url": "https://campingsantaeulalia.com/"
+  },
+  {
+    "name": "Camping Gavina Yelloh! Village",
+    "region": "Catalonia",
+    "province": "Tarragona",
+    "url": "https://www.yellohvillage.co.uk/camping/gavina"
+  },
+  {
+    "name": "Camping Torre de la Mora",
+    "region": "Catalonia",
+    "province": "Tarragona",
+    "url": "https://www.torredelamora.com/"
+  },
+  {
+    "name": "Camping Prades Park",
+    "region": "Catalonia",
+    "province": "Tarragona",
+    "url": "https://www.pradespark.com/"
+  },
+  {
+    "name": "Camping Serra de Prades",
+    "region": "Catalonia",
+    "province": "Tarragona",
+    "url": "https://www.serradeprades.com/"
+  },
+  {
+    "name": "Camping Ametlla",
+    "region": "Catalonia",
+    "province": "Tarragona",
+    "url": "https://www.campingametlla.com/"
+  },
+  {
+    "name": "Camping Ampolla Playa",
+    "region": "Catalonia",
+    "province": "Tarragona",
+    "url": "https://www.campingampolla.es/"
+  },
+  {
+    "name": "Camping Els Prats Village",
+    "region": "Catalonia",
+    "province": "Tarragona",
+    "url": "https://www.campingelsprats.com/"
+  },
+  {
+    "name": "Camping Trillas Platja Tamarit",
+    "region": "Catalonia",
+    "province": "Tarragona",
+    "url": "https://www.campingtrillas.com/"
+  },
+  {
+    "name": "Camping Sirena Dorada",
+    "region": "Catalonia",
+    "province": "Tarragona",
+    "url": "https://www.sirenadorada.com/"
+  },
+  {
+    "name": "Camping Clarà",
+    "region": "Catalonia",
+    "province": "Tarragona",
+    "url": "https://campingclara.es/"
+  },
+  {
+    "name": "Camping Caledonia",
+    "region": "Catalonia",
+    "province": "Tarragona",
+    "url": "https://www.campingcaledonia.com/"
+  },
+  {
+    "name": "Camping Ecocamp Vinyols",
+    "region": "Catalonia",
+    "province": "Tarragona",
+    "url": "https://www.vinyolscamp.com/"
+  },
+  {
+    "name": "Camping Montblanc Park",
+    "region": "Catalonia",
+    "province": "Tarragona",
+    "url": "https://www.montblancpark.com/"
+  },
+  {
+    "name": "Camping Local Priorat",
+    "region": "Catalonia",
+    "province": "Tarragona",
+    "url": null
+  },
+  {
+    "name": "Camping Ciudad de Albarracín",
+    "region": "Aragón",
+    "province": "Teruel",
+    "url": "https://www.campingalbarracin.com/"
+  },
+  {
+    "name": "Camping Las Corralizas",
+    "region": "Aragón",
+    "province": "Teruel",
+    "url": "https://www.lascorralizas.com/"
+  },
+  {
+    "name": "Camping El Roble",
+    "region": "Aragón",
+    "province": "Teruel",
+    "url": "https://www.campingelroble.com/"
+  },
+  {
+    "name": "Camping La Estanca",
+    "region": "Aragón",
+    "province": "Teruel",
+    "url": "https://www.campinglaestanca.com/"
+  },
+  {
+    "name": "Camping Los Álamos",
+    "region": "Aragón",
+    "province": "Teruel",
+    "url": "https://campinglosalamos.com/"
+  },
+  {
+    "name": "Camping Algarbe",
+    "region": "Aragón",
+    "province": "Teruel",
+    "url": "http://www.campingalgarbe.com/"
+  },
+  {
+    "name": "Beceite Camping",
+    "region": "Aragón",
+    "province": "Teruel",
+    "url": "http://www.campingbeceite.com/"
+  },
+  {
+    "name": "Camping Las Cabañas",
+    "region": "Aragón",
+    "province": "Teruel",
+    "url": "https://www.campinglascabanas.com/"
+  },
+  {
+    "name": "Camping Aliaga",
+    "region": "Aragón",
+    "province": "Teruel",
+    "url": "https://www.campingaliaga.com/"
+  },
+  {
+    "name": "Camping La Fresneda",
+    "region": "Aragón",
+    "province": "Teruel",
+    "url": "https://www.campinglafresneda.com/"
+  },
+  {
+    "name": "Camping La Font",
+    "region": "Aragón",
+    "province": "Teruel",
+    "url": "https://www.campinglafont.com/"
+  },
+  {
+    "name": "Camping El Greco",
+    "region": "Castilla-La Mancha",
+    "province": "Toledo",
+    "url": "http://www.campingelgreco.es/"
+  },
+  {
+    "name": "Complejo The Dreams",
+    "region": "Castilla-La Mancha",
+    "province": "Toledo",
+    "url": "http://www.complejothedreams.com/"
+  },
+  {
+    "name": "Unalome Glamping",
+    "region": "Castilla-La Mancha",
+    "province": "Toledo",
+    "url": "https://unalomeglamping.com/"
+  },
+  {
+    "name": "El Toril Glamping Experience",
+    "region": "Castilla-La Mancha",
+    "province": "Toledo",
+    "url": "https://www.eltoril.com/"
+  },
+  {
+    "name": "Camping Cazalegas",
+    "region": "Castilla-La Mancha",
+    "province": "Toledo",
+    "url": "https://campingcazalegas.com/"
+  },
+  {
+    "name": "Camping La Ardilla Roja",
+    "region": "Castilla-La Mancha",
+    "province": "Toledo",
+    "url": "https://campinglaardillaroja.com/"
+  },
+  {
+    "name": "Camping El Paraíso",
+    "region": "Castilla-La Mancha",
+    "province": "Toledo",
+    "url": "http://www.campingelparaiso.es/"
+  },
+  {
+    "name": "Camping Navalcán",
+    "region": "Castilla-La Mancha",
+    "province": "Toledo",
+    "url": null
+  },
+  {
+    "name": "Devesa Gardens Resort",
+    "region": "Comunidad Valenciana",
+    "province": "Valencia",
+    "url": "https://www.samay.com/en/devesa-gardens/"
+  },
+  {
+    "name": "Camping Puzol",
+    "region": "Comunidad Valenciana",
+    "province": "Valencia",
+    "url": "http://www.campingpuzol.com/"
+  },
+  {
+    "name": "Camping Sandaya Valencia (Puzol)",
+    "region": "Comunidad Valenciana",
+    "province": "Valencia",
+    "url": "https://www.sandaya.co.uk/our-campsites/valencia"
+  },
+  {
+    "name": "Camping Coll Vert",
+    "region": "Comunidad Valenciana",
+    "province": "Valencia",
+    "url": "https://www.collvertcamping.com/en/"
+  },
+  {
+    "name": "Camping Olé",
+    "region": "Comunidad Valenciana",
+    "province": "Valencia",
+    "url": "https://www.camping-ole.com/en/"
+  },
+  {
+    "name": "Kikopark Oliva",
+    "region": "Comunidad Valenciana",
+    "province": "Valencia",
+    "url": "https://kikopark.com/en/"
+  },
+  {
+    "name": "Camping Barraquetes",
+    "region": "Comunidad Valenciana",
+    "province": "Valencia",
+    "url": "http://www.campingbarraquetes.com/"
+  },
+  {
+    "name": "Camping San Vicente",
+    "region": "Comunidad Valenciana",
+    "province": "Valencia",
+    "url": "https://www.campingsanvicente.com/"
+  },
+  {
+    "name": "Camping Mariola",
+    "region": "Comunidad Valenciana",
+    "province": "Valencia",
+    "url": "https://www.campingmariola.com/"
+  },
+  {
+    "name": "Camping Natura",
+    "region": "Comunidad Valenciana",
+    "province": "Valencia",
+    "url": "http://www.campingnatura.com/"
+  },
+  {
+    "name": "Camping Altomira (Navajas)",
+    "region": "Comunidad Valenciana",
+    "province": "Valencia",
+    "url": "https://www.campingaltomira.com/en/"
+  },
+  {
+    "name": "Camping La Falaguera",
+    "region": "Comunidad Valenciana",
+    "province": "Valencia",
+    "url": null
+  },
+  {
+    "name": "Camping El Astral",
+    "region": "Castilla y León",
+    "province": "Valladolid",
+    "url": "https://www.elancla.biz/elastral/"
+  },
+  {
+    "name": "Camping Riberduero",
+    "region": "Castilla y León",
+    "province": "Valladolid",
+    "url": "https://campingriberduero.com/"
+  },
+  {
+    "name": "Camping Cubillas",
+    "region": "Castilla y León",
+    "province": "Valladolid",
+    "url": "https://www.campingcubillas.com/"
+  },
+  {
+    "name": "Glamping La Bellota",
+    "region": "Castilla y León",
+    "province": "Valladolid",
+    "url": "https://glampinglabellota.com/"
+  },
+  {
+    "name": "Área de Autocaravanas de Valladolid",
+    "region": "Castilla y León",
+    "province": "Valladolid",
+    "url": null
+  },
+  {
+    "name": "Camping Isla de Puebla",
+    "region": "Castilla y León",
+    "province": "Zamora",
+    "url": "https://campingzamora.es/"
+  },
+  {
+    "name": "Camping Los Robles",
+    "region": "Castilla y León",
+    "province": "Zamora",
+    "url": "https://campinglosrobles.com/"
+  },
+  {
+    "name": "Camping El Folgoso",
+    "region": "Castilla y León",
+    "province": "Zamora",
+    "url": "https://campingfolgoso.es/"
+  },
+  {
+    "name": "Camping Los Arribes",
+    "region": "Castilla y León",
+    "province": "Zamora",
+    "url": "http://www.campinglosarribes.es/"
+  },
+  {
+    "name": "Camping Sierra de la Culebra",
+    "region": "Castilla y León",
+    "province": "Zamora",
+    "url": "https://www.pitchup.com/campsites/spain/castilla-y-leon/zamora/figueruela_de_arriba/camping_sierra_de_la_culebra/"
+  },
+  {
+    "name": "Camping Los Molinos",
+    "region": "Castilla y León",
+    "province": "Zamora",
+    "url": null
+  },
+  {
+    "name": "Camping Rio Tera",
+    "region": "Castilla y León",
+    "province": "Zamora",
+    "url": null
+  },
+  {
+    "name": "Camping Peña Gullón",
+    "region": "Castilla y León",
+    "province": "Zamora",
+    "url": null
+  },
+  {
+    "name": "Camping Municipal de Zaragoza",
+    "region": "Aragón",
+    "province": "Zaragoza",
+    "url": "https://www.campingzaragoza.com/"
+  },
+  {
+    "name": "Camping Lago Resort",
+    "region": "Aragón",
+    "province": "Zaragoza",
+    "url": "https://www.lagoresort.com/"
+  },
+  {
+    "name": "Camping Moncayo",
+    "region": "Aragón",
+    "province": "Zaragoza",
+    "url": "https://www.campingmoncayo.com/"
+  },
+  {
+    "name": "Camping Saviñán Park",
+    "region": "Aragón",
+    "province": "Zaragoza",
+    "url": "https://www.campingsavinan.com/"
+  },
+  {
+    "name": "Camping El Bolaso",
+    "region": "Aragón",
+    "province": "Zaragoza",
+    "url": "https://www.campingelbolaso.com/"
+  },
+  {
+    "name": "Camping Ciudad de Daroca",
+    "region": "Aragón",
+    "province": "Zaragoza",
+    "url": "https://www.campingdaroca.com/"
+  },
+  {
+    "name": "Camping Veruela Moncayo",
+    "region": "Aragón",
+    "province": "Zaragoza",
+    "url": "https://www.campingveruelamoncayo.com/"
+  },
+  {
+    "name": "Camping La Estanca de Borja",
+    "region": "Aragón",
+    "province": "Zaragoza",
+    "url": "https://www.campinglaestancaborja.com/"
+  },
+  {
+    "name": "Camping Transmonegros",
+    "region": "Aragón",
+    "province": "Zaragoza",
+    "url": "http://www.campingtransmonegros.com/"
+  }
+]
