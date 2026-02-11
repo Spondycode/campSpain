@@ -1,0 +1,3 @@
+name,town,description,map_location,country,website,phone_number,is_approved,is_premium
+Sunshine Camping,Barcelona,Beautiful campsite near the beach,"41.550549, 2.483380",ES,https://example.com,34123456789,TRUE,FALSE
+Mountain View Camp,Innsbruck,Alpine camping experience,"47.2642814, 11.3259662",AT,https://example.com,43987654321,TRUE,TRUE
