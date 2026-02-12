@@ -9,7 +9,7 @@ Seven of the regions consist of only a single province (often called "uniprovinc
 
 | Region (Autonomous Community) | Provinces |
 | --- | --- |
-| **Andalusia** | Almería, Cádiz, Córdoba, Granada, Huelva, Jaén, Málaga, Seville |
+| **Andalusia** | Almería, Cádiz, Córdoba, Granada, Huelva, Jaén, Málaga, Sevilla |
 | **Aragon** | Huesca, Teruel, Zaragoza |
 | **Basque Country** | Álava, Biscay (*Vizcaya*), Gipuzkoa (*Guipúzcoa*) |
 | **Canary Islands** | Las Palmas, Santa Cruz de Tenerife |

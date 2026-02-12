@@ -3,156 +3,208 @@
     "name": "Camping Vilanova Park",
     "region": "Catalonia",
     "province": "Barcelona",
-    "url": "https://www.vilanovapark.com/"
+    "url": "https://www.vilanovapark.com/",
+    "telephone": "+34 938 933 402",
+    "gps_coordinates": "41.2322, -1.6928"
   },
   {
     "name": "Camping 3 Estrellas",
     "region": "Catalonia",
     "province": "Barcelona",
-    "url": "https://www.camping3estrellas.com/"
+    "url": "https://www.camping3estrellas.com/",
+    "telephone": "+34 93 633 06 37",
+    "gps_coordinates": "41.2723, 2.0427"
   },
   {
     "name": "Camping El Garrofer",
     "region": "Catalonia",
     "province": "Barcelona",
-    "url": "https://www.campingelgarrofer.com/"
+    "url": "https://www.campingelgarrofer.com/",
+    "telephone": "+34 938 941 780",
+    "gps_coordinates": "41.2324, 1.7799"
   },
   {
     "name": "Berga Resort",
     "region": "Catalonia",
     "province": "Barcelona",
-    "url": "https://www.bergaresort.com/"
+    "url": "https://www.bergaresort.com/",
+    "telephone": "+34 938 211 250",
+    "gps_coordinates": "42.0911, 1.8562"
   },
   {
     "name": "Camping Catalonia",
     "region": "Catalonia",
     "province": "Barcelona",
-    "url": "https://www.campingbarcelona.com/"
+    "url": "https://www.campingbarcelona.com/",
+    "telephone": "+34 937 90 47 20",
+    "gps_coordinates": "41.5510, 2.4835"
   },
   {
     "name": "Camping Roca Grossa",
     "region": "Catalonia",
     "province": "Barcelona",
-    "url": "https://www.rocagrossa.com/"
+    "url": "https://www.rocagrossa.com/",
+    "telephone": "+34 937 691 297",
+    "gps_coordinates": "41.6062, 2.6393"
   },
   {
     "name": "Camping Sènia Caballo de Mar",
     "region": "Catalonia",
     "province": "Barcelona",
-    "url": "https://www.senia.es/campings/camping-senia-caballo-de-mar/"
+    "url": "https://www.senia.es/campings/camping-senia-caballo-de-mar/",
+    "telephone": "+34 937 671 706",
+    "gps_coordinates": "41.6276, 2.6889"
   },
   {
     "name": "Camping Kanguro",
     "region": "Catalonia",
     "province": "Barcelona",
-    "url": "https://campingkanguro.com/"
+    "url": "https://campingkanguro.com/",
+    "telephone": "+34 937 600 205",
+    "gps_coordinates": "41.5933, 2.6002"
   },
   {
     "name": "Camping Globo Rojo",
     "region": "Catalonia",
     "province": "Barcelona",
-    "url": "https://www.globo-rojo.com/"
+    "url": "https://www.globo-rojo.com/",
+    "telephone": "+34 93 794 11 43",
+    "gps_coordinates": "41.5909, 2.5919"
   },
   {
     "name": "Camping Enmar",
     "region": "Catalonia",
     "province": "Barcelona",
-    "url": "https://www.campingenmar.com/"
+    "url": "https://www.campingenmar.com/",
+    "telephone": "+34 93 767 17 30",
+    "gps_coordinates": "41.6218, 2.6857"
   },
   {
     "name": "Camping El Pasqualet",
     "region": "Catalonia",
     "province": "Barcelona",
-    "url": "https://elpasqualet.com/"
+    "url": "https://elpasqualet.com/",
+    "telephone": "+34 93 865 46 95",
+    "gps_coordinates": "41.6443, 2.1567"
   },
   {
     "name": "Camping Repòs del Pedraforca",
     "region": "Catalonia",
     "province": "Barcelona",
-    "url": "http://www.campingpedraforca.com/"
+    "url": "http://www.campingpedraforca.com/",
+    "telephone": "+34 938 258 044",
+    "gps_coordinates": "42.2292, 1.7592"
   },
   {
     "name": "Camping Bell Sol",
     "region": "Catalonia",
     "province": "Barcelona",
-    "url": "https://www.campingbellsol.com/"
+    "url": "https://www.campingbellsol.com/",
+    "telephone": "+34 937 671 778",
+    "gps_coordinates": "41.6191, 2.6792"
   },
   {
     "name": "Camping Masnou",
     "region": "Catalonia",
     "province": "Barcelona",
-    "url": "https://campingmasnoubarcelona.com/"
+    "url": "https://campingmasnoubarcelona.com/",
+    "telephone": "+34 935 55 15 03",
+    "gps_coordinates": "41.4757, 2.3040"
   },
   {
     "name": "Camping Sitges",
     "region": "Catalonia",
     "province": "Barcelona",
-    "url": "https://www.campingsitges.com/"
+    "url": "https://www.campingsitges.com/",
+    "telephone": "+34 938 941 780",
+    "gps_coordinates": "41.2324, 1.7799"
   },
   {
     "name": "Camping La Tordera",
     "region": "Catalonia",
     "province": "Barcelona",
-    "url": "https://latordera.com/"
+    "url": "https://latordera.com/",
+    "telephone": "+34 937 612 778",
+    "gps_coordinates": "41.6522, 2.7751"
   },
   {
     "name": "Camping Lluçanès",
     "region": "Catalonia",
     "province": "Barcelona",
-    "url": "http://www.campingllucanes.com/"
+    "url": "http://www.campingllucanes.com/",
+    "telephone": "+34 93 812 91 31",
+    "gps_coordinates": "41.9790, 2.1018"
   },
   {
     "name": "Camping Fontfreda",
     "region": "Catalonia",
     "province": "Barcelona",
-    "url": "https://www.campingfontfreda.cat/"
+    "url": "https://www.campingfontfreda.cat/",
+    "telephone": "+34 938 213 354",
+    "gps_coordinates": "42.1150, 1.8320"
   },
   {
     "name": "Camping Gironella",
     "region": "Catalonia",
     "province": "Barcelona",
-    "url": "https://www.campinggironella.cat/"
+    "url": "https://www.campinggironella.cat/",
+    "telephone": "+34 938 251 529",
+    "gps_coordinates": "42.0137, 1.8787"
   },
   {
     "name": "Camping El Vedado",
     "region": "Catalonia",
     "province": "Barcelona",
-    "url": "https://www.campingelvedado.com/"
+    "url": "https://www.campingelvedado.com/",
+    "telephone": "+34 935 729 026",
+    "gps_coordinates": "41.5234, 2.2938"
   },
   {
     "name": "Camping Estrella de Mar",
     "region": "Catalonia",
     "province": "Barcelona",
-    "url": "https://www.campingestrellademar.com/"
+    "url": "https://www.campingestrellademar.com/",
+    "telephone": "+34 936 330 784",
+    "gps_coordinates": "41.2696, 1.9992"
   },
   {
     "name": "Camping Calella de Mar",
     "region": "Catalonia",
     "province": "Barcelona",
-    "url": "http://www.campingcalella.com/"
+    "url": "http://www.campingcalella.com/",
+    "telephone": "+34 937 690 967",
+    "gps_coordinates": "41.6106, 2.6467"
   },
   {
     "name": "Camping La Rueda",
     "region": "Catalonia",
     "province": "Barcelona",
-    "url": "https://www.campinglarueda.com/"
+    "url": "https://www.campinglarueda.com/",
+    "telephone": "+34 93 895 02 07",
+    "gps_coordinates": "41.1999, 1.6433"
   },
   {
     "name": "Camping El Pont",
     "region": "Catalonia",
     "province": "Barcelona",
-    "url": "https://www.campingelpont.com/"
+    "url": "https://www.campingelpont.com/",
+    "telephone": "+34 93 743 01 00",
+    "gps_coordinates": "41.9346, 2.4091"
   },
   {
     "name": "Camping Victoria",
     "region": "Catalonia",
     "province": "Barcelona",
-    "url": "https://www.campingvictoria.com/"
+    "url": "https://www.campingvictoria.com/",
+    "telephone": "+34 93 794 08 39",
+    "gps_coordinates": "41.5852, 2.5737"
   },
   {
     "name": "Camping Local Berguedà",
     "region": "Catalonia",
     "province": "Barcelona",
-    "url": false
+    "url": null,
+    "telephone": "+34 938 227 432",
+    "gps_coordinates": "42.2164, 1.8358"
   }
 ]

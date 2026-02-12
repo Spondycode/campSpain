@@ -3,96 +3,128 @@
     "name": "Yelloh! Village Les Baléares - Son Bou",
     "region": "Balearic Islands",
     "province": "Balearic Islands",
-    "url": "https://www.yellohvillage-baleares-son-bou.com/"
+    "url": "https://www.yellohvillage-baleares-son-bou.com/",
+    "telephone": "+34 971 372 727",
+    "gps_coordinates": "39.9199, 4.0918"
   },
   {
     "name": "Camping Cala Nova",
     "region": "Balearic Islands",
     "province": "Balearic Islands",
-    "url": "https://www.campingcalanova.com/"
+    "url": "https://www.campingcalanova.com/",
+    "telephone": "+34 971 33 17 74",
+    "gps_coordinates": "39.0074, 1.5787"
   },
   {
     "name": "Camping La Playa Ibiza",
     "region": "Balearic Islands",
     "province": "Balearic Islands",
-    "url": "https://www.campinglaplayaibiza.com/"
+    "url": "https://www.campinglaplayaibiza.com/",
+    "telephone": "+34 971 33 85 25",
+    "gps_coordinates": "38.9912, 1.5755"
   },
   {
     "name": "Camping Es Cana",
     "region": "Balearic Islands",
     "province": "Balearic Islands",
-    "url": "https://www.campingescana.com/"
+    "url": "https://www.campingescana.com/",
+    "telephone": "+34 971 33 21 17",
+    "gps_coordinates": "39.0036, 1.5738"
   },
   {
     "name": "Parco Ibiza (Camping San Antonio)",
     "region": "Balearic Islands",
     "province": "Balearic Islands",
-    "url": "https://parcoibiza.com/"
+    "url": "https://parcoibiza.com/",
+    "telephone": "+34 871 18 25 73",
+    "gps_coordinates": "38.9775, 1.3110"
   },
   {
     "name": "Camping Cala Bassa",
     "region": "Balearic Islands",
     "province": "Balearic Islands",
-    "url": "https://www.campingcalabassa.com/"
+    "url": "https://www.campingcalabassa.com/",
+    "telephone": "+34 971 34 45 99",
+    "gps_coordinates": "38.9635, 1.2418"
   },
   {
     "name": "Camping S'Atalaia",
     "region": "Balearic Islands",
     "province": "Balearic Islands",
-    "url": "https://campingsatalaia.com/"
+    "url": "https://campingsatalaia.com/",
+    "telephone": "+34 971 37 42 32",
+    "gps_coordinates": "39.9515, 3.9872"
   },
   {
     "name": "Campament Hipocampo",
     "region": "Balearic Islands",
     "province": "Balearic Islands",
-    "url": "https://www.campamenthipocampo.com/"
+    "url": "https://www.campamenthipocampo.com/",
+    "telephone": "+34 971 83 37 15",
+    "gps_coordinates": "39.4655, 3.2606"
   },
   {
     "name": "Zona d'Acampada Sa Font Coberta (Lluc)",
     "region": "Balearic Islands",
     "province": "Balearic Islands",
-    "url": "https://www.lluc.net/en/accommodation/camping/"
+    "url": "https://www.lluc.net/en/accommodation/camping/",
+    "telephone": "+34 971 51 70 83",
+    "gps_coordinates": "39.8194, 2.8857"
   },
   {
     "name": "Zona d'Acampada Es Pixarells",
     "region": "Balearic Islands",
     "province": "Balearic Islands",
-    "url": "https://www.caib.es/sites/espaisnaturals/en/zona_dacampada_des_pixarells-21445/"
+    "url": "https://www.caib.es/sites/espaisnaturals/en/zona_dacampada_des_pixarells-21445/",
+    "telephone": "+34 971 17 76 52",
+    "gps_coordinates": "39.8339, 2.8944"
   },
   {
     "name": "Camping La Victoria",
     "region": "Balearic Islands",
     "province": "Balearic Islands",
-    "url": "https://www.alcudia.net/ajuntament/en/servicios/camping-la-victoria/"
+    "url": "https://www.alcudia.net/ajuntament/en/servicios/camping-la-victoria/",
+    "telephone": "+34 971 54 53 95",
+    "gps_coordinates": "39.8697, 3.1573"
   },
   {
     "name": "Campament de s'Arenal (Llevant)",
     "region": "Balearic Islands",
     "province": "Balearic Islands",
-    "url": "https://www.caib.es/sites/espaisnaturals/en/parc_natural_de_llevant-21396/"
+    "url": "https://www.caib.es/sites/espaisnaturals/en/parc_natural_de_llevant-21396/",
+    "telephone": null,
+    "gps_coordinates": "39.7649, 3.3782"
   },
   {
     "name": "Talaya Formentera",
     "region": "Balearic Islands",
     "province": "Balearic Islands",
-    "url": "https://www.talayaformentera.com/"
+    "url": "https://www.talayaformentera.com/",
+    "telephone": "+34 971 18 51 64",
+    "gps_coordinates": "38.6880, 1.4688"
   },
   {
     "name": "Soller Garden Bungalows",
     "region": "Balearic Islands",
     "province": "Balearic Islands",
-    "url": "https://www.sollergarden.com/"
+    "url": "https://www.sollergarden.com/",
+    "telephone": "+34 971 63 80 46",
+    "gps_coordinates": "39.7662, 2.7152"
   },
   {
     "name": "Zona de Acampada Sa Comuna de Lloret",
     "region": "Balearic Islands",
     "province": "Balearic Islands",
-    "url": null
+    "url": null,
+    "telephone": null,
+    "gps_coordinates": "39.6133, 2.9677"
   },
   {
     "name": "Campament Escolta de Sa Torrentera",
     "region": "Balearic Islands",
     "province": "Balearic Islands",
-    "url": null
+    "url": null,
+    "telephone": "+34 600 91 25 97",
+    "gps_coordinates": "39.6641, 2.9198"
   }
 ]

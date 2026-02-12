@@ -3,108 +3,144 @@
     "name": "Camping Los Manzanos",
     "region": "Galicia",
     "province": "A Coruña",
-    "url": "https://www.campinglosmanzanos.com/"
+    "url": "https://www.campinglosmanzanos.com/",
+    "telephone": "678776958",
+    "gps_coordinates": "43.3444, -8.3441"
   },
   {
     "name": "Camping As Cancelas",
     "region": "Galicia",
     "province": "A Coruña",
-    "url": "https://www.campingascancelas.com/"
+    "url": "https://www.campingascancelas.com/",
+    "telephone": "+34 981580266",
+    "gps_coordinates": "42.889698, -8.524731"
   },
   {
     "name": "Camping Lago-Mar",
     "region": "Galicia",
     "province": "A Coruña",
-    "url": "https://www.campinglagomar.com/"
+    "url": "https://www.campinglagomar.com/",
+    "telephone": "+34 600804932",
+    "gps_coordinates": "43.1032, -9.1693"
   },
   {
     "name": "Camping San Francisco",
     "region": "Galicia",
     "province": "A Coruña",
-    "url": "https://www.campingsanfrancisco.com/"
+    "url": "https://www.campingsanfrancisco.com/",
+    "telephone": "+34 881028926",
+    "gps_coordinates": "42.763330, -9.071380"
   },
   {
     "name": "Camping Ancoradoiro",
     "region": "Galicia",
     "province": "A Coruña",
-    "url": "https://www.campingancoradoiro.com/"
+    "url": "https://www.campingancoradoiro.com/",
+    "telephone": "+34 981878897",
+    "gps_coordinates": "42.7594, -9.0683"
   },
   {
     "name": "Camping Valdoviño",
     "region": "Galicia",
     "province": "A Coruña",
-    "url": "https://www.campingvaldovino.com/"
+    "url": "https://www.campingvaldovino.com/",
+    "telephone": "+34 633013138",
+    "gps_coordinates": "43.60955, -8.14401"
   },
   {
     "name": "Camping Fragadeume",
     "region": "Galicia",
     "province": "A Coruña",
-    "url": "https://www.campingfragadeume.com/"
+    "url": "https://www.campingfragadeume.com/",
+    "telephone": "626763396",
+    "gps_coordinates": "43.38611, -8.05333"
   },
   {
     "name": "Camping Sisargas",
     "region": "Galicia",
     "province": "A Coruña",
-    "url": "https://www.campingsisargas.com/"
+    "url": "https://www.campingsisargas.com/",
+    "telephone": "+34 981721702",
+    "gps_coordinates": "43.2966, -8.81045"
   },
   {
     "name": "Camping Barraña",
     "region": "Galicia",
     "province": "A Coruña",
-    "url": "https://campingbarrana.com/"
+    "url": "https://campingbarrana.com/",
+    "telephone": "+34 981847613",
+    "gps_coordinates": "42.640528, -8.882892"
   },
   {
     "name": "Camping As Nevedas",
     "region": "Galicia",
     "province": "A Coruña",
-    "url": "https://www.campingasnevedas.com/"
+    "url": "https://www.campingasnevedas.com/",
+    "telephone": "+34 657064733",
+    "gps_coordinates": "43.293064, -8.622353"
   },
   {
     "name": "Camping Costa da Morte",
     "region": "Galicia",
     "province": "A Coruña",
-    "url": "https://www.campingcostadamorte.com/"
+    "url": "https://www.campingcostadamorte.com/",
+    "telephone": "+34 608425750",
+    "gps_coordinates": "43.11561, -8.92805"
   },
   {
     "name": "Espazo Nature",
     "region": "Galicia",
     "province": "A Coruña",
-    "url": "https://espazonature.com/"
+    "url": "https://espazonature.com/",
+    "telephone": "+34 628100300",
+    "gps_coordinates": "43.2952, -8.6231"
   },
   {
     "name": "Camping A Vouga",
     "region": "Galicia",
     "province": "A Coruña",
-    "url": "https://www.campingavouga.com/"
+    "url": "https://www.campingavouga.com/",
+    "telephone": "+34 682285203",
+    "gps_coordinates": "42.7605748, -9.0619346"
   },
   {
     "name": "Camping Peregrino San Marcos",
     "region": "Galicia",
     "province": "A Coruña",
-    "url": "https://www.campingperegrino.com/"
+    "url": "https://www.campingperegrino.com/",
+    "telephone": null,
+    "gps_coordinates": "42.89158, -8.47589"
   },
   {
     "name": "Camping Cabeiro",
     "region": "Galicia",
     "province": "A Coruña",
-    "url": "https://www.campingcabeiro.com/"
+    "url": "https://www.campingcabeiro.com/",
+    "telephone": "981767355",
+    "gps_coordinates": "42.73373, -8.99173"
   },
   {
     "name": "Camping Green Village",
     "region": "Galicia",
     "province": "A Coruña",
-    "url": "https://www.campinggreenvillage.com/"
+    "url": "https://www.campinggreenvillage.com/",
+    "telephone": "+34 981791453",
+    "gps_coordinates": "43.34166, -8.23361"
   },
   {
     "name": "Camping Perbes",
     "region": "Galicia",
     "province": "A Coruña",
-    "url": null
+    "url": null,
+    "telephone": "981783104",
+    "gps_coordinates": "43.3690779, -8.2155327"
   },
   {
     "name": "Camping Punta Batuda",
     "region": "Galicia",
     "province": "A Coruña",
-    "url": "http://www.campingpuntabatuda.es/"
+    "url": "http://www.campingpuntabatuda.es/",
+    "telephone": "+34 981766542",
+    "gps_coordinates": "42.770896, -8.938494"
   }
 ]

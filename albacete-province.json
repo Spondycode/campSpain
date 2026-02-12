@@ -3,48 +3,64 @@
     "name": "Camping Los Batanes",
     "region": "Castilla-La Mancha",
     "province": "Albacete",
-    "url": "https://www.losbatanes.com"
+    "url": "https://www.losbatanes.com",
+    "telephone": "+34 926699020",
+    "gps_coordinates": "38.9367912, -2.8485781"
   },
   {
     "name": "Camping Río Mundo",
     "region": "Castilla-La Mancha",
     "province": "Albacete",
-    "url": "https://www.campingriomundo.es"
+    "url": "https://www.campingriomundo.es",
+    "telephone": "+34 967433230",
+    "gps_coordinates": "38.4889795, -2.3453363"
   },
   {
     "name": "Camping Sierra Peñascosa",
     "region": "Castilla-La Mancha",
     "province": "Albacete",
-    "url": "https://www.campingsierrapenascosa.com"
+    "url": "https://www.campingsierrapenascosa.com",
+    "telephone": "+34 639371789",
+    "gps_coordinates": "38.6712, -2.4041"
   },
   {
     "name": "Camping Las Nogueras de Nerpio",
     "region": "Castilla-La Mancha",
     "province": "Albacete",
-    "url": "https://www.campingdenerpio.com"
+    "url": "https://www.campingdenerpio.com",
+    "telephone": "+34 967575115",
+    "gps_coordinates": "38.142222, -2.304167"
   },
   {
     "name": "Camping Las Fuentes de Letur",
     "region": "Castilla-La Mancha",
     "province": "Albacete",
-    "url": "https://campingletur.com"
+    "url": "https://campingletur.com",
+    "telephone": "+34 604289117",
+    "gps_coordinates": "38.35801, -2.09539"
   },
   {
     "name": "Camping Río Segura",
     "region": "Castilla-La Mancha",
     "province": "Albacete",
-    "url": "https://www.campingriosegura.com"
+    "url": "https://www.campingriosegura.com",
+    "telephone": "+34 660555554",
+    "gps_coordinates": "38.29632, -2.41765"
   },
   {
     "name": "Camping La Fuente (Casas de Ves)",
     "region": "Castilla-La Mancha",
     "province": "Albacete",
-    "url": null
+    "url": null,
+    "telephone": "+34 967475023",
+    "gps_coordinates": "39.266972, -1.328830"
   },
   {
     "name": "Camping L'Ametlla de Mar (Almansa)",
     "region": "Castilla-La Mancha",
     "province": "Albacete",
-    "url": null
+    "url": null,
+    "telephone": null,
+    "gps_coordinates": null
   }
 ]

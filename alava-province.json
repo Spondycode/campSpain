@@ -3,30 +3,40 @@
     "name": "Camping El Roble Verde",
     "region": "Basque Country",
     "province": "Álava",
-    "url": "https://www.elrobleverde.com/"
+    "url": "https://www.elrobleverde.com/",
+    "telephone": "+34 945063350",
+    "gps_coordinates": "42.7951732, -2.8794413"
   },
   {
     "name": "Camping Angosto",
     "region": "Basque Country",
     "province": "Álava",
-    "url": "https://www.campingangosto.com/"
+    "url": "https://www.campingangosto.com/",
+    "telephone": "+34 945353271",
+    "gps_coordinates": "42.842351, -3.068661"
   },
   {
     "name": "Camping Ibaia",
     "region": "Basque Country",
     "province": "Álava",
-    "url": "https://www.campingibaia.com/"
+    "url": "https://www.campingibaia.com/",
+    "telephone": "+34 945147620",
+    "gps_coordinates": "42.8306495, -2.7221256"
   },
   {
     "name": "Camping Izki",
     "region": "Basque Country",
     "province": "Álava",
-    "url": "https://www.campingizki.com/"
+    "url": "https://www.campingizki.com/",
+    "telephone": "+34 945410502",
+    "gps_coordinates": "42.6465, -2.4633"
   },
   {
     "name": "Camping Landa",
     "region": "Basque Country",
     "province": "Álava",
-    "url": false
+    "url": false,
+    "telephone": null,
+    "gps_coordinates": "42.9602, -2.5902"
   }
 ]

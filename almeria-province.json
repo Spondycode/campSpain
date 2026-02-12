@@ -3,120 +3,160 @@
     "name": "Camping Los Escullos",
     "region": "Andalucía",
     "province": "Almeria",
-    "url": "https://www.losesculloscabodegata.com/"
+    "url": "https://www.losesculloscabodegata.com/",
+    "telephone": "+34 950389811",
+    "gps_coordinates": "36.8041, -2.0645"
   },
   {
     "name": "wecamp Cabo de Gata",
     "region": "Andalucía",
     "province": "Almeria",
-    "url": "https://wecamp.net/en/locations/cabo-de-gata"
+    "url": "https://wecamp.net/en/locations/cabo-de-gata",
+    "telephone": "+34 950525714",
+    "gps_coordinates": "36.8525, -2.0322"
   },
   {
     "name": "Camping Cabo de Gata",
     "region": "Andalucía",
     "province": "Almeria",
-    "url": "https://www.campingcabodegata.com/"
+    "url": "https://www.campingcabodegata.com/",
+    "telephone": "+34 950160443",
+    "gps_coordinates": "36.7629, -2.2341"
   },
   {
     "name": "TAIGA Almería Playa",
     "region": "Andalucía",
     "province": "Almeria",
-    "url": "https://taigaresorts.com/destinos/almeria-playa"
+    "url": "https://taigaresorts.com/destinos/almeria-playa",
+    "telephone": "+34 950460101",
+    "gps_coordinates": "37.2882, -1.7686"
   },
   {
     "name": "Camping Roquetas",
     "region": "Andalucía",
     "province": "Almeria",
-    "url": "https://www.campingroquetas.com/en"
+    "url": "https://www.campingroquetas.com/en",
+    "telephone": "+34 950334314",
+    "gps_coordinates": "36.7441, -2.6284"
   },
   {
     "name": "Camping La Garrofa",
     "region": "Andalucía",
     "province": "Almeria",
-    "url": "https://www.lagarrofa.com/"
+    "url": "https://www.lagarrofa.com/",
+    "telephone": "+34 950235770",
+    "gps_coordinates": "36.8285, -2.4975"
   },
   {
     "name": "Camping Cueva Negra",
     "region": "Andalucía",
     "province": "Almeria",
-    "url": "https://www.campingcuevanegra.com/"
+    "url": "https://www.campingcuevanegra.com/",
+    "telephone": "+34 950478144",
+    "gps_coordinates": "37.1197, -1.8622"
   },
   {
     "name": "Camping Sopalmo",
     "region": "Andalucía",
     "province": "Almeria",
-    "url": "https://campingsopalmo.com/"
+    "url": "https://campingsopalmo.com/",
+    "telephone": "+34 950478815",
+    "gps_coordinates": "37.0872, -1.8481"
   },
   {
     "name": "Camping Mar Azul Balerma",
     "region": "Andalucía",
     "province": "Almeria",
-    "url": "https://www.campingmarazul.com/"
+    "url": "https://www.campingmarazul.com/",
+    "telephone": "+34 950607857",
+    "gps_coordinates": "36.7262, -2.8872"
   },
   {
     "name": "Camping Los Gallardos",
     "region": "Andalucía",
     "province": "Almeria",
-    "url": "https://www.campinglosgallardos.com/"
+    "url": "https://www.campinglosgallardos.com/",
+    "telephone": "+34 950398018",
+    "gps_coordinates": "37.1722, -1.9365"
   },
   {
     "name": "Camping Albergue Tau",
     "region": "Andalucía",
     "province": "Almeria",
-    "url": "https://www.camping-tau.com/"
+    "url": "https://www.camping-tau.com/",
+    "telephone": "+34 950389702",
+    "gps_coordinates": "36.7573, -2.1062"
   },
   {
     "name": "Camping Pinar del Rey",
     "region": "Andalucía",
     "province": "Almeria",
-    "url": "https://www.pinardelrey.com"
+    "url": "https://www.pinardelrey.com",
+    "telephone": "+34 950348149",
+    "gps_coordinates": "36.9362, -2.4862"
   },
   {
     "name": "Oasis Al Hamam",
     "region": "Andalucía",
     "province": "Almeria",
-    "url": "https://oasisalhamam.com/"
+    "url": "https://oasisalhamam.com/",
+    "telephone": "+34 622170768",
+    "gps_coordinates": "37.1952, -2.1462"
   },
   {
     "name": "Camping Albox",
     "region": "Andalucía",
     "province": "Almeria",
-    "url": "https://www.campingalbox.com/"
+    "url": "https://www.campingalbox.com/",
+    "telephone": "+34 950120422",
+    "gps_coordinates": "37.3872, -2.1462"
   },
   {
     "name": "Cabo de Gata Camper Park",
     "region": "Andalucía",
     "province": "Almeria",
-    "url": "https://www.cabodegatacamperpark.com/"
+    "url": "https://www.cabodegatacamperpark.com/",
+    "telephone": "+34 661548323",
+    "gps_coordinates": "36.8422, -2.1862"
   },
   {
     "name": "Camping Sierra de María",
     "region": "Andalucía",
     "province": "Almeria",
-    "url": "https://www.campingsierramaria.com/"
+    "url": "https://www.campingsierramaria.com/",
+    "telephone": "+34 950417185",
+    "gps_coordinates": "37.6252, -2.1645"
   },
   {
     "name": "Camping Cuevas Mar",
     "region": "Andalucía",
     "province": "Almeria",
-    "url": "https://www.campingcuevasmar.com/"
+    "url": "https://www.campingcuevasmar.com/",
+    "telephone": "+34 950468010",
+    "gps_coordinates": "37.2472, -1.7962"
   },
   {
     "name": "Camping Alpujarras",
     "region": "Andalucía",
     "province": "Almeria",
-    "url": "https://www.campingalpujarras.es"
+    "url": "https://www.campingalpujarras.es",
+    "telephone": "+34 950514046",
+    "gps_coordinates": "36.9922, -2.8962"
   },
   {
     "name": "Camping El Cantal de Mojácar",
     "region": "Andalucía",
     "province": "Almeria",
-    "url": "https://www.elcantal.com/"
+    "url": "https://www.elcantal.com/",
+    "telephone": "+34 950478204",
+    "gps_coordinates": "37.1262, -1.8462"
   },
   {
     "name": "Camping Las Menas",
     "region": "Andalucía",
     "province": "Almeria",
-    "url": "http://www.campinglasmenas.com/"
+    "url": "http://www.campinglasmenas.com/",
+    "telephone": "+34 950160246",
+    "gps_coordinates": "37.3622, -2.4462"
   }
 ]

@@ -3,72 +3,96 @@
     "name": "Alannia Costa Blanca",
     "region": "Comunidad Valenciana",
     "province": "Alicante",
-    "url": "https://alanniaresorts.com/en/resorts/alannia-costa-blanca"
+    "url": "https://alanniaresorts.com/en/resorts/alannia-costa-blanca",
+    "telephone": "+34 965484945",
+    "gps_coordinates": "38.1806285, -0.8119427"
   },
   {
     "name": "Camping Cap Blanch",
     "region": "Comunidad Valenciana",
     "province": "Alicante",
-    "url": "https://www.camping-capblanch.com/gb/index.html"
+    "url": "https://www.camping-capblanch.com/gb/index.html",
+    "telephone": "+34 965845946",
+    "gps_coordinates": "38.57739, 0.06451"
   },
   {
     "name": "La Marina Camping & Resort",
     "region": "Comunidad Valenciana",
     "province": "Alicante",
-    "url": "https://www.samay.com/en/la-marina/"
+    "url": "https://www.samay.com/en/la-marina/",
+    "telephone": "+34 965419200",
+    "gps_coordinates": "38.129810, -0.650030"
   },
   {
     "name": "Camping El Jardín",
     "region": "Comunidad Valenciana",
     "province": "Alicante",
-    "url": "https://www.campingeljardin.com/"
+    "url": "https://www.campingeljardin.com/",
+    "telephone": "+34 965657580",
+    "gps_coordinates": "38.39293, -0.41497"
   },
   {
     "name": "Alannia Guardamar",
     "region": "Comunidad Valenciana",
     "province": "Alicante",
-    "url": "https://alanniaresorts.com/en/resorts/alannia-guardamar"
+    "url": "https://alanniaresorts.com/en/resorts/alannia-guardamar",
+    "telephone": "+34 966727070",
+    "gps_coordinates": "38.10882, -0.65596"
   },
   {
     "name": "Camping El Torres",
     "region": "Comunidad Valenciana",
     "province": "Alicante",
-    "url": "https://campingeltorres.com/en/"
+    "url": "https://campingeltorres.com/en/",
+    "telephone": "+34 965995077",
+    "gps_coordinates": "38.51599, -0.20051"
   },
   {
     "name": "Wecamp Jávea",
     "region": "Comunidad Valenciana",
     "province": "Alicante",
-    "url": "https://wecamp.net/en/destinations/javea"
+    "url": "https://wecamp.net/en/destinations/javea",
+    "telephone": "+34 965791070",
+    "gps_coordinates": "38.782906, 0.17265"
   },
   {
     "name": "Camping Armanello",
     "region": "Comunidad Valenciana",
     "province": "Alicante",
-    "url": "https://www.campingarmanello.com/en/"
+    "url": "https://www.campingarmanello.com/en/",
+    "telephone": "+34 965853190",
+    "gps_coordinates": "38.549229, -0.112885"
   },
   {
     "name": "Camping Alicante Imperium",
     "region": "Comunidad Valenciana",
     "province": "Alicante",
-    "url": "https://www.campingalicanteimperium.com/en/"
+    "url": "https://www.campingalicanteimperium.com/en/",
+    "telephone": "+34 965063232",
+    "gps_coordinates": "38.5180878, -0.2250401"
   },
   {
     "name": "Camping Lo Monte",
     "region": "Comunidad Valenciana",
     "province": "Alicante",
-    "url": "https://www.campinglomonte.com/en/"
+    "url": "https://www.campinglomonte.com/en/",
+    "telephone": "+34 966766782",
+    "gps_coordinates": "37.879167, -0.765556"
   },
   {
     "name": "Camping Fonts del Algar",
     "region": "Comunidad Valenciana",
     "province": "Alicante",
-    "url": "https://campingfontsdelalgar.com/en/"
+    "url": "https://campingfontsdelalgar.com/en/",
+    "telephone": "+34 608742571",
+    "gps_coordinates": "38.6545142, -0.0932415"
   },
   {
     "name": "Camping La Pedrera",
     "region": "Comunidad Valenciana",
     "province": "Alicante",
-    "url": "https://campinglapedrera.com/"
+    "url": "https://campinglapedrera.com/",
+    "telephone": "+34 691398501",
+    "gps_coordinates": "38.05112, -0.89918"
   }
 ]

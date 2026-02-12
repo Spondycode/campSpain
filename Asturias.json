@@ -3,144 +3,192 @@
     "name": "Camping Ribadesella",
     "region": "Asturias",
     "province": "Asturias",
-    "url": "http://www.camping-ribadesella.com/"
+    "url": "http://www.camping-ribadesella.com/",
+    "telephone": "+34 985858293",
+    "gps_coordinates": "43.462055, -5.087579"
   },
   {
     "name": "Camping La Paz",
     "region": "Asturias",
     "province": "Asturias",
-    "url": "https://campinglapaz.com/"
+    "url": "https://campinglapaz.com/",
+    "telephone": "+34 985411235",
+    "gps_coordinates": "43.400717, -4.651760"
   },
   {
     "name": "Camping Picos de Europa",
     "region": "Asturias",
     "province": "Asturias",
-    "url": "http://www.picos-europa.com/"
+    "url": "http://www.picos-europa.com/",
+    "telephone": "+34 985844070",
+    "gps_coordinates": "43.334500, -4.946020"
   },
   {
     "name": "Camping Colombres",
     "region": "Asturias",
     "province": "Asturias",
-    "url": "https://campingcolombres.com/"
+    "url": "https://campingcolombres.com/",
+    "telephone": "+34 985412244",
+    "gps_coordinates": "43.375248, -4.564246"
   },
   {
     "name": "Camping Arenal de Morís",
     "region": "Asturias",
     "province": "Asturias",
-    "url": "https://www.arenaldemoris.com/"
+    "url": "https://www.arenaldemoris.com/",
+    "telephone": "+34 985853097",
+    "gps_coordinates": "43.472557, -5.183090"
   },
   {
     "name": "Camping Playa de Vega",
     "region": "Asturias",
     "province": "Asturias",
-    "url": "https://www.campingplayadevega.com/"
+    "url": "https://www.campingplayadevega.com/",
+    "telephone": "+34 985860406",
+    "gps_coordinates": "43.474638, -5.134502"
   },
   {
     "name": "Camping L'Amuravela",
     "region": "Asturias",
     "province": "Asturias",
-    "url": "https://www.lamuravela.com/"
+    "url": "https://www.lamuravela.com/",
+    "telephone": "+34 985590995",
+    "gps_coordinates": "43.554787, -6.144757"
   },
   {
     "name": "wecamp Cudillero",
     "region": "Asturias",
     "province": "Asturias",
-    "url": "https://wecamp.com/en/destinations/cudillero"
+    "url": "https://wecamp.com/en/destinations/cudillero",
+    "telephone": "+34 985590663",
+    "gps_coordinates": "43.553656, -6.129296"
   },
   {
     "name": "Camping Las Hortensias",
     "region": "Asturias",
     "province": "Asturias",
-    "url": "https://www.campinglashortensias.com/"
+    "url": "https://www.campinglashortensias.com/",
+    "telephone": "+34 985412442",
+    "gps_coordinates": "43.391571, -4.576500"
   },
   {
     "name": "Camping Covadonga",
     "region": "Asturias",
     "province": "Asturias",
-    "url": "http://www.camping-covadonga.com/"
+    "url": "http://www.camping-covadonga.com/",
+    "telephone": "+34 985940097",
+    "gps_coordinates": "43.347558, -5.083655"
   },
   {
     "name": "Camping Naranjo de Bulnes",
     "region": "Asturias",
     "province": "Asturias",
-    "url": "http://www.campingnaranjodebulnes.com/"
+    "url": "http://www.campingnaranjodebulnes.com/",
+    "telephone": "+34 985846578",
+    "gps_coordinates": "43.299720, -4.803020"
   },
   {
     "name": "Camping Lagos de Somiedo",
     "region": "Asturias",
     "province": "Asturias",
-    "url": "http://www.campinglagosdesomiedo.com/"
+    "url": "http://www.campinglagosdesomiedo.com/",
+    "telephone": "+34 985763776",
+    "gps_coordinates": "43.071944, -6.199166"
   },
   {
     "name": "Camping Playa de Troenzo",
     "region": "Asturias",
     "province": "Asturias",
-    "url": "http://www.troenzollanes.com/"
+    "url": "http://www.troenzollanes.com/",
+    "telephone": "+34 985401672",
+    "gps_coordinates": "43.434711, -4.818100"
   },
   {
     "name": "Camping Costa Verde",
     "region": "Asturias",
     "province": "Asturias",
-    "url": "https://campingcostaverde.com/"
+    "url": "https://campingcostaverde.com/",
+    "telephone": "+34 985856373",
+    "gps_coordinates": "43.498470, -5.263358"
   },
   {
     "name": "Camping Playa Sauces",
     "region": "Asturias",
     "province": "Asturias",
-    "url": "http://www.campingplayasauces.com/"
+    "url": "http://www.campingplayasauces.com/",
+    "telephone": "+34 985861312",
+    "gps_coordinates": "43.468027, -5.088429"
   },
   {
     "name": "Camping Deva Gijón",
     "region": "Asturias",
     "province": "Asturias",
-    "url": "http://www.campingdeva-gijon.es/"
+    "url": "http://www.campingdeva-gijon.es/",
+    "telephone": "+34 985133848",
+    "gps_coordinates": "43.506649, -5.597034"
   },
   {
     "name": "Camping Las Gaviotas",
     "region": "Asturias",
     "province": "Asturias",
-    "url": "http://www.campinglasgaviotas.com/"
+    "url": "http://www.campinglasgaviotas.com/",
+    "telephone": "+34 985519070",
+    "gps_coordinates": "43.573055, -5.999597"
   },
   {
     "name": "Camping San Pedro de la Ribera",
     "region": "Asturias",
     "province": "Asturias",
-    "url": "http://www.campingsanpedro.com/"
+    "url": "http://www.campingsanpedro.com/",
+    "telephone": "+34 985597316",
+    "gps_coordinates": "43.574444, -6.221388"
   },
   {
     "name": "Camping Palacio de Garaña",
     "region": "Asturias",
     "province": "Asturias",
-    "url": "http://www.campingpalaciodegarana.com/"
+    "url": "http://www.campingpalaciodegarana.com/",
+    "telephone": "+34 985410075",
+    "gps_coordinates": "43.453443, -4.966792"
   },
   {
     "name": "Camping Amaido",
     "region": "Asturias",
     "province": "Asturias",
-    "url": "https://www.amaido.com/"
+    "url": "https://www.amaido.com/",
+    "telephone": "+34 985476394",
+    "gps_coordinates": "43.413549, -7.141861"
   },
   {
     "name": "Camping Los Cantiles",
     "region": "Asturias",
     "province": "Asturias",
-    "url": "http://www.campingloscantiles.com/"
+    "url": "http://www.campingloscantiles.com/",
+    "telephone": "+34 985640938",
+    "gps_coordinates": "43.549135, -6.525634"
   },
   {
     "name": "Camping Perlora",
     "region": "Asturias",
     "province": "Asturias",
-    "url": "https://www.campingperlora.com/"
+    "url": "https://www.campingperlora.com/",
+    "telephone": "+34 985870048",
+    "gps_coordinates": "43.582551, -5.757361"
   },
   {
     "name": "Camping Playa de Otur",
     "region": "Asturias",
     "province": "Asturias",
-    "url": null
+    "url": null,
+    "telephone": "+34 985640117",
+    "gps_coordinates": "43.545334, -6.600467"
   },
   {
     "name": "Camping Local Ponga",
     "region": "Asturias",
     "province": "Asturias",
-    "url": null
+    "url": null,
+    "telephone": "+34 985843113",
+    "gps_coordinates": "43.187800, -5.164200"
   }
 ]

@@ -3,42 +3,56 @@
     "name": "Camping Mérida",
     "region": "Extremadura",
     "province": "Badajoz",
-    "url": "https://www.campingmerida.com/"
+    "url": "https://www.campingmerida.com/",
+    "telephone": "+34 924 303 453",
+    "gps_coordinates": "38.9354, -6.3049"
   },
   {
     "name": "Camping Puerto Peña",
     "region": "Extremadura",
     "province": "Badajoz",
-    "url": "https://www.campingpuertopena.es/"
+    "url": "https://www.campingpuertopena.es/",
+    "telephone": "+34 924 631 411",
+    "gps_coordinates": "39.1360, -5.1840"
   },
   {
     "name": "Camping Lago de Proserpina",
     "region": "Extremadura",
     "province": "Badajoz",
-    "url": "https://www.campingproserpina.es/"
+    "url": "https://www.campingproserpina.es/",
+    "telephone": "+34 924 123 055",
+    "gps_coordinates": "38.9657, -6.3657"
   },
   {
     "name": "Camping El Pino",
     "region": "Extremadura",
     "province": "Badajoz",
-    "url": "https://www.campingelpino.info/"
+    "url": "https://www.campingelpino.info/",
+    "telephone": null,
+    "gps_coordinates": null
   },
   {
     "name": "Camping La Isla",
     "region": "Extremadura",
     "province": "Badajoz",
-    "url": null
+    "url": null,
+    "telephone": null,
+    "gps_coordinates": null
   },
   {
     "name": "Camping Balcón de Orellana",
     "region": "Extremadura",
     "province": "Badajoz",
-    "url": "https://www.campingbalcondeorellana.com/"
+    "url": "https://www.campingbalcondeorellana.com/",
+    "telephone": "+34 670 797 971",
+    "gps_coordinates": "38.9947, -5.5242"
   },
   {
     "name": "Camping Los Chozos",
     "region": "Extremadura",
     "province": "Badajoz",
-    "url": "https://www.loschozos.com/"
+    "url": "https://www.loschozos.com/",
+    "telephone": "+34 652 292 991",
+    "gps_coordinates": "39.1068, -6.6646"
   }
 ]
