@@ -1107,37 +1107,49 @@
     "name": "Camping & Bungalows Leagi",
     "region": "Basque Country",
     "province": "Biscay",
-    "url": "https://www.campingleagi.com/"
+    "url": "https://www.campingleagi.com/",
+    "telephone": "+34 946 84 23 52",
+    "gps": "43.3517, -2.4931"
   },
   {
     "name": "Camping & Bungalows Portuondo",
     "region": "Basque Country",
     "province": "Biscay",
-    "url": "https://www.campingportuondo.com/en/"
+    "url": "https://www.campingportuondo.com/en/",
+    "telephone": "+34 946 87 77 01",
+    "gps": "43.3992, -2.6964"
   },
   {
     "name": "Camping Angosto",
     "region": "Basque Country",
     "province": "Biscay",
-    "url": "https://www.campingangosto.com/"
+    "url": "https://www.campingangosto.com/",
+    "telephone": "+34 945 353 271",
+    "gps": "42.8424, -3.0687"
   },
   {
     "name": "Camping Arrien Gorliz",
     "region": "Basque Country",
     "province": "Biscay",
-    "url": "https://www.camping-arrien.com/"
+    "url": "https://www.camping-arrien.com/",
+    "telephone": "+34 946 77 19 11",
+    "gps": "43.4183, -2.9375"
   },
   {
     "name": "Camping Endai",
     "region": "Basque Country",
     "province": "Biscay",
-    "url": "http://www.campingendai.com/"
+    "url": "http://www.campingendai.com/",
+    "telephone": "+34 946 84 24 69",
+    "gps": "43.3544, -2.4854"
   },
   {
     "name": "Camping Sopelana",
     "region": "Basque Country",
     "province": "Biscay",
-    "url": "https://www.campingsopelana.com/"
+    "url": "https://www.campingsopelana.com/",
+    "telephone": "+34 946 76 19 81",
+    "gps": "43.3895, -2.9843"
   },
   {
     "name": "Camping Valle de Karrantza",
@@ -1149,7 +1161,9 @@
     "name": "Área de Autocaravanas de Kobetamendi",
     "region": "Basque Country",
     "province": "Biscay",
-    "url": "https://www.bilbaoturismo.net/BilbaoTurismo/en/motorhome-area"
+    "url": "https://www.bilbaoturismo.net/BilbaoTurismo/en/motorhome-area",
+    "telephone": "+34 688 809 399",
+    "gps": "43.2600, -2.9643"
   },
   {
     "name": "Camping Gran Camping Zarautz",
@@ -1393,91 +1407,121 @@
     "name": "Camping Arlanza",
     "region": "Castilla y León",
     "province": "Burgos",
-    "url": "https://www.campingarlanza.com/"
+    "url": "https://www.campingarlanza.com/",
+    "telephone": "+34 947 395 592",
+    "gps": "41.9925, -3.0222"
   },
   {
     "name": "Camping Camino de Santiago",
     "region": "Castilla y León",
     "province": "Burgos",
-    "url": "https://www.campingcamino.com/"
+    "url": "https://www.campingcamino.com/",
+    "telephone": "+34 947 377 255",
+    "gps": "42.2911, -4.1317"
   },
   {
     "name": "Camping Costaján",
     "region": "Castilla y León",
     "province": "Burgos",
-    "url": "https://www.campingcostajan.com/"
+    "url": "https://www.campingcostajan.com/",
+    "telephone": "+34 681 168 743",
+    "gps": "41.7019, -3.6864"
   },
   {
     "name": "Camping Covarrubias",
     "region": "Castilla y León",
     "province": "Burgos",
-    "url": "https://www.campingcovarrubias.com/"
+    "url": "https://www.campingcovarrubias.com/",
+    "telephone": "+34 947 406 487",
+    "gps": "42.0592, -3.5128"
   },
   {
     "name": "Camping El Brezal",
     "region": "Castilla y León",
     "province": "Burgos",
-    "url": null
+    "url": null,
+    "telephone": "+34 947 19 03 76",
+    "gps": "42.9075, -3.5081"
   },
   {
     "name": "Camping El Desfiladero",
     "region": "Castilla y León",
     "province": "Burgos",
-    "url": "https://www.campingeldesfiladero.com/"
+    "url": "https://www.campingeldesfiladero.com/",
+    "telephone": "+34 947 35 40 27",
+    "gps": "42.6483, -3.0911"
   },
   {
     "name": "Camping Frías",
     "region": "Castilla y León",
     "province": "Burgos",
-    "url": "https://www.campingfrias.com/"
+    "url": "https://www.campingfrias.com/",
+    "telephone": "+34 676 099 185",
+    "gps": "42.7602, -3.2961"
   },
   {
     "name": "Camping Fuentes Blancas",
     "region": "Castilla y León",
     "province": "Burgos",
-    "url": "https://www.campingfuentesblancas.com/"
+    "url": "https://www.campingfuentesblancas.com/",
+    "telephone": "+34 947 486 016",
+    "gps": "42.3419, -3.6573"
   },
   {
     "name": "Camping La Isla (Villalázara)",
     "region": "Castilla y León",
     "province": "Burgos",
-    "url": null
+    "url": null,
+    "telephone": "+34 646 421 804",
+    "gps": "43.0396, -3.4883"
   },
   {
     "name": "Camping Monumento al Pastor",
     "region": "Castilla y León",
     "province": "Burgos",
-    "url": "http://www.monumentoalpastor.com/"
+    "url": "http://www.monumentoalpastor.com/",
+    "telephone": "+34 947 344 355",
+    "gps": "42.6294, -3.1096"
   },
   {
     "name": "Camping Picón del Conde",
     "region": "Castilla y León",
     "province": "Burgos",
-    "url": "https://www.picondelconde.com/"
+    "url": "https://www.picondelconde.com/",
+    "telephone": "+34 947 594 355",
+    "gps": "42.4604, -3.4575"
   },
   {
     "name": "Camping Playa de Arija",
     "region": "Castilla y León",
     "province": "Burgos",
-    "url": "https://campingplayadearija.es/"
+    "url": "https://campingplayadearija.es/",
+    "telephone": "+34 942 773 300",
+    "gps": "43.0000, -3.9447"
   },
   {
     "name": "Camping Puerta de la Demanda",
     "region": "Castilla y León",
     "province": "Burgos",
-    "url": "https://puertadelademanda.com/"
+    "url": "https://puertadelademanda.com/",
+    "telephone": "+34 947 560 211",
+    "gps": "42.3063, -3.3757"
   },
   {
     "name": "Camping Quinta de Cavia",
     "region": "Castilla y León",
     "province": "Burgos",
-    "url": "http://www.campingquintadecavia.com/"
+    "url": "http://www.campingquintadecavia.com/",
+    "telephone": "+34 947 412 078",
+    "gps": "41.5665, -4.8606"
   },
   {
     "name": "Camping Rio Nela",
     "region": "Castilla y León",
     "province": "Burgos",
-    "url": "https://www.campingrionela.com/"
+    "url": "https://www.campingrionela.com/",
+    "telephone": "+34 947 308 649",
+    "gps": "42.8034, -3.3969"
   },
   {
     "name": "Camping Bosque de Gordón",

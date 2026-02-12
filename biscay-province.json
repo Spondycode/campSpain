@@ -3,31 +3,41 @@
     "name": "Camping & Bungalows Portuondo",
     "region": "Basque Country",
     "province": "Biscay",
-    "url": "https://www.campingportuondo.com/en/"
+    "url": "https://www.campingportuondo.com/en/",
+    "telephone": "+34 946 87 77 01",
+    "gps": "43.3992, -2.6964"
   },
   {
     "name": "Camping & Bungalows Leagi",
     "region": "Basque Country",
     "province": "Biscay",
-    "url": "https://www.campingleagi.com/"
+    "url": "https://www.campingleagi.com/",
+    "telephone": "+34 946 84 23 52",
+    "gps": "43.3517, -2.4931"
   },
   {
     "name": "Camping Arrien Gorliz",
     "region": "Basque Country",
     "province": "Biscay",
-    "url": "https://www.camping-arrien.com/"
+    "url": "https://www.camping-arrien.com/",
+    "telephone": "+34 946 77 19 11",
+    "gps": "43.4183, -2.9375"
   },
   {
     "name": "Camping Sopelana",
     "region": "Basque Country",
     "province": "Biscay",
-    "url": "https://www.campingsopelana.com/"
+    "url": "https://www.campingsopelana.com/",
+    "telephone": "+34 946 76 19 81",
+    "gps": "43.3895, -2.9843"
   },
   {
     "name": "Camping Endai",
     "region": "Basque Country",
     "province": "Biscay",
-    "url": "http://www.campingendai.com/"
+    "url": "http://www.campingendai.com/",
+    "telephone": "+34 946 84 24 69",
+    "gps": "43.3544, -2.4854"
   },
   {
     "name": "Camping Valle de Karrantza",
@@ -39,12 +49,16 @@
     "name": "Camping Angosto",
     "region": "Basque Country",
     "province": "Biscay",
-    "url": "https://www.campingangosto.com/"
+    "url": "https://www.campingangosto.com/",
+    "telephone": "+34 945 353 271",
+    "gps": "42.8424, -3.0687"
   },
   {
     "name": "Área de Autocaravanas de Kobetamendi",
     "region": "Basque Country",
     "province": "Biscay",
-    "url": "https://www.bilbaoturismo.net/BilbaoTurismo/en/motorhome-area"
+    "url": "https://www.bilbaoturismo.net/BilbaoTurismo/en/motorhome-area",
+    "telephone": "+34 688 809 399",
+    "gps": "43.2600, -2.9643"
   }
 ]
