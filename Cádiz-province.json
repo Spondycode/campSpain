@@ -3,114 +3,152 @@
     "name": "wecamp Cádiz",
     "region": "Andalucía",
     "province": "Cádiz",
-    "url": "https://wecamp.net/en/locations/cadiz"
+    "url": "https://wecamp.net/en/locations/cadiz",
+    "telephone": "+34 93 626 89 00",
+    "gps": "36.5540, -6.1338"
   },
   {
     "name": "Camping La Rosaleda",
     "region": "Andalucía",
     "province": "Cádiz",
-    "url": "https://www.campinglarosaleda.com/"
+    "url": "https://www.campinglarosaleda.com/",
+    "telephone": "+34 956 443 327",
+    "gps": "36.2932, -6.0953"
   },
   {
     "name": "Camping Pinar San José",
     "region": "Andalucía",
     "province": "Cádiz",
-    "url": "https://www.campingpinarsanjose.com/"
+    "url": "https://www.campingpinarsanjose.com/",
+    "telephone": "+34 951 129 002",
+    "gps": "36.2010, -6.0346"
   },
   {
     "name": "Camping Pueblo Blanco",
     "region": "Andalucía",
     "province": "Cádiz",
-    "url": "https://www.campingpuebloblanco.com/"
+    "url": "https://www.campingpuebloblanco.com/",
+    "telephone": "+34 956 130 033",
+    "gps": "36.9391, -5.2171"
   },
   {
     "name": "TAIGA Conil",
     "region": "Andalucía",
     "province": "Cádiz",
-    "url": "https://taigaresorts.com/destinos/conil"
+    "url": "https://taigaresorts.com/destinos/conil",
+    "telephone": "+34 956 922 418",
+    "gps": "36.3133, -6.0922"
   },
   {
     "name": "TAIGA Puerto Santa María",
     "region": "Andalucía",
     "province": "Cádiz",
-    "url": "https://taigaresorts.com/destinos/puerto-santa-maria"
+    "url": "https://taigaresorts.com/destinos/puerto-santa-maria",
+    "telephone": "+34 956 872 210",
+    "gps": "36.5874, -6.2409"
   },
   {
     "name": "TAIGA Tarifa Punta Paloma",
     "region": "Andalucía",
     "province": "Cádiz",
-    "url": "https://taigaresorts.com/destinos/tarifa-punta-paloma"
+    "url": "https://taigaresorts.com/destinos/tarifa-punta-paloma",
+    "telephone": "+34 722 673 691",
+    "gps": "36.0764, -5.6936"
   },
   {
     "name": "TAIGA Tarifa Valdevaqueros",
     "region": "Andalucía",
     "province": "Cádiz",
-    "url": "https://taigaresorts.com/destinos/tarifa-valdevaqueros"
+    "url": "https://taigaresorts.com/destinos/tarifa-valdevaqueros",
+    "telephone": "+34 956 684 174",
+    "gps": "36.0693, -5.6807"
   },
   {
     "name": "Camping Caños de Meca",
     "region": "Andalucía",
     "province": "Cádiz",
-    "url": "https://www.campingcm.com/"
+    "url": "https://www.campingcm.com/",
+    "telephone": "+34 956 43 71 20",
+    "gps": "36.2017, -6.0357"
   },
   {
     "name": "Camping Roche",
     "region": "Andalucía",
     "province": "Cádiz",
-    "url": "https://www.campingroche.com/"
+    "url": "https://www.campingroche.com/",
+    "telephone": "+34 956 442 216",
+    "gps": "36.3117, -6.1129"
   },
   {
     "name": "Camping El Faro",
     "region": "Andalucía",
     "province": "Cádiz",
-    "url": "https://www.campingelfaro.com/"
+    "url": "https://www.campingelfaro.com/",
+    "telephone": "+34 956 444 096",
+    "gps": "36.3030, -6.1259"
   },
   {
     "name": "Camping Tajo Rodillo",
     "region": "Andalucía",
     "province": "Cádiz",
-    "url": "https://www.campingtajorodillo.com/"
+    "url": "https://www.campingtajorodillo.com/",
+    "telephone": "+34 670 407 940",
+    "gps": "36.7585, -5.3737"
   },
   {
     "name": "Camping Playa Aguadulce",
     "region": "Andalucía",
     "province": "Cádiz",
-    "url": "https://www.campingplayaaguadulce.com/"
+    "url": "https://www.campingplayaaguadulce.com/",
+    "telephone": "+34 956 84 70 78",
+    "gps": "36.6710, -6.4060"
   },
   {
     "name": "Camping Tarifa",
     "region": "Andalucía",
     "province": "Cádiz",
-    "url": "https://www.camping-tarifa.com/"
+    "url": "https://www.camping-tarifa.com/",
+    "telephone": "+34 956 684 778",
+    "gps": "36.0548, -5.6500"
   },
   {
     "name": "Camping Valdevaqueros",
     "region": "Andalucía",
     "province": "Cádiz",
-    "url": "https://www.campingvaldevaqueros.com/"
+    "url": "https://www.campingvaldevaqueros.com/",
+    "telephone": "+34 956 684 174",
+    "gps": "36.0693, -5.6807"
   },
   {
     "name": "Camping Paloma",
     "region": "Andalucía",
     "province": "Cádiz",
-    "url": "https://www.campingpaloma.com/"
+    "url": "https://www.campingpaloma.com/",
+    "telephone": "+34 956 684 203",
+    "gps": "36.0763, -5.6931"
   },
   {
     "name": "Camping Medina Sidonia",
     "region": "Andalucía",
     "province": "Cádiz",
-    "url": "https://campingmedinasidonia.com/"
+    "url": "https://campingmedinasidonia.com/",
+    "telephone": "+34 654 112 315",
+    "gps": "36.4613, -5.9217"
   },
   {
     "name": "Camping Los Gazules",
     "region": "Andalucía",
     "province": "Cádiz",
-    "url": "https://www.campinglosgazules.com/"
+    "url": "https://www.campinglosgazules.com/",
+    "telephone": "+34 956 420 486",
+    "gps": "36.4628, -5.6662"
   },
   {
     "name": "Camping Bahía de la Plata",
     "region": "Andalucía",
     "province": "Cádiz",
-    "url": null
+    "url": null,
+    "telephone": "+34 956 439 040",
+    "gps": "36.1233, -5.8358"
   }
 ]

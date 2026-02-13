@@ -3,72 +3,96 @@
     "name": "Camping Municipal Ciudad de Cáceres",
     "region": "Extremadura",
     "province": "Cáceres",
-    "url": "https://www.campingcaceres.com/"
+    "url": "https://www.campingcaceres.com/",
+    "telephone": "+34 927 233 100",
+    "gps": "39.4890, -6.4129"
   },
   {
     "name": "Camping Parque Nacional de Monfragüe",
     "region": "Extremadura",
     "province": "Cáceres",
-    "url": "https://www.campingmonfrague.es/"
+    "url": "https://www.campingmonfrague.es/",
+    "telephone": "+34 927 459 233",
+    "gps": "39.9436, -6.0850"
   },
   {
     "name": "Camping Bungalows El Pinajarro",
     "region": "Extremadura",
     "province": "Cáceres",
-    "url": "https://campingelpinajarro.com/"
+    "url": "https://campingelpinajarro.com/",
+    "telephone": "+34 927 481 673",
+    "gps": "40.2694, -5.8800"
   },
   {
     "name": "Camping Bungalows Las Cañadas",
     "region": "Extremadura",
     "province": "Cáceres",
-    "url": "https://www.campinglascanadas.com/"
+    "url": "https://www.campinglascanadas.com/",
+    "telephone": "+34 927 48 11 26",
+    "gps": "40.2853, -5.8815"
   },
   {
     "name": "Camping Bungalows Río Jerte",
     "region": "Extremadura",
     "province": "Cáceres",
-    "url": "https://www.campingriojerte.com/"
+    "url": "https://www.campingriojerte.com/",
+    "telephone": "+34 927 173 006",
+    "gps": "40.1688, -5.8447"
   },
   {
     "name": "Camping Valle del Jerte",
     "region": "Extremadura",
     "province": "Cáceres",
-    "url": "https://campingbungalowvalledeljerte.com/"
+    "url": "https://campingbungalowvalledeljerte.com/",
+    "telephone": "+34 927 470 127",
+    "gps": "40.2075, -5.7697"
   },
   {
     "name": "Camping Bungalows Roma",
     "region": "Extremadura",
     "province": "Cáceres",
-    "url": "https://www.campingbungalowsroma.com/"
+    "url": "https://www.campingbungalowsroma.com/",
+    "telephone": "+34 927 479 132",
+    "gps": "40.2681, -5.9112"
   },
   {
     "name": "Camping Bungalows Sierra de Gata",
     "region": "Extremadura",
     "province": "Cáceres",
-    "url": "https://www.campingsierradegata.com/"
+    "url": "https://www.campingsierradegata.com/",
+    "telephone": "+34 650 372 783",
+    "gps": "40.2124, -6.6423"
   },
   {
     "name": "Camping Las Catalinas",
     "region": "Extremadura",
     "province": "Cáceres",
-    "url": null
+    "url": null,
+    "telephone": "+34 927 451 150",
+    "gps": "39.9184, -6.2976"
   },
   {
     "name": "Camping Complejo La Mata",
     "region": "Extremadura",
     "province": "Cáceres",
-    "url": "https://www.campinglamata.com/"
+    "url": "https://www.campinglamata.com/",
+    "telephone": "+34 927 56 52 38",
+    "gps": "40.1528, -5.3598"
   },
   {
     "name": "Camping Los Ibores",
     "region": "Extremadura",
     "province": "Cáceres",
-    "url": "https://www.campinglosibores.com/"
+    "url": "https://www.campinglosibores.com/",
+    "telephone": "+34 927 554 654",
+    "gps": "39.6347, -5.4208"
   },
   {
     "name": "Camping Aguas Claras",
     "region": "Extremadura",
     "province": "Cáceres",
-    "url": "https://www.campingaguasclaras.com/"
+    "url": "https://www.campingaguasclaras.com/",
+    "telephone": "+34 927 59 90 99",
+    "gps": "39.3257, -7.2486"
   }
 ]

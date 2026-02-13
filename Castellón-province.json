@@ -3,72 +3,96 @@
     "name": "Bonterra Resort",
     "region": "Comunidad Valenciana",
     "province": "Castellón",
-    "url": "https://www.bonterraresort.com/en/"
+    "url": "https://www.bonterraresort.com/en/",
+    "telephone": "+34 635 78 03 76",
+    "gps": "40.0569, 0.0733"
   },
   {
     "name": "Camping BravoPlaya",
     "region": "Comunidad Valenciana",
     "province": "Castellón",
-    "url": "https://www.bravoplaya.com/en/"
+    "url": "https://www.bravoplaya.com/en/",
+    "telephone": "+34 964 319 567",
+    "gps": "40.1282, 0.1595"
   },
   {
     "name": "Camping Torre la Sal",
     "region": "Comunidad Valenciana",
     "province": "Castellón",
-    "url": "https://www.campingtorrelasal.com/en/"
+    "url": "https://www.campingtorrelasal.com/en/",
+    "telephone": "+34 964 319 596",
+    "gps": "40.1283, 0.1596"
   },
   {
     "name": "Camping Altomira",
     "region": "Comunidad Valenciana",
     "province": "Castellón",
-    "url": "https://www.campingaltomira.com/en/"
+    "url": "https://www.campingaltomira.com/en/",
+    "telephone": "+34 964 71 32 11",
+    "gps": "39.8748, -0.5105"
   },
   {
     "name": "Camping Playa Tropicana",
     "region": "Comunidad Valenciana",
     "province": "Castellón",
-    "url": "https://www.playatropicana.com/en/"
+    "url": "https://www.playatropicana.com/en/",
+    "telephone": "+34 964 41 24 63",
+    "gps": "40.2210, 0.2672"
   },
   {
     "name": "Camping Ribamar",
     "region": "Comunidad Valenciana",
     "province": "Castellón",
-    "url": "https://www.campingribamar.com/en/"
+    "url": "https://www.campingribamar.com/en/",
+    "telephone": "+34 964 761 163",
+    "gps": "40.2703, 0.3067"
   },
   {
     "name": "Camping Azahar",
     "region": "Comunidad Valenciana",
     "province": "Castellón",
-    "url": "https://www.campingazahar.com/en/"
+    "url": "https://www.campingazahar.com/en/",
+    "telephone": "+34 964 30 31 96",
+    "gps": "40.0593, 0.0849"
   },
   {
     "name": "Camping Monmar",
     "region": "Comunidad Valenciana",
     "province": "Castellón",
-    "url": "https://www.campingmonmar.com/en/"
+    "url": "https://www.campingmonmar.com/en/",
+    "telephone": "+34 964 58 85 92",
+    "gps": "39.8085, -0.1274"
   },
   {
     "name": "Camping Tauro",
     "region": "Comunidad Valenciana",
     "province": "Castellón",
-    "url": "https://www.campingtauro.com/en/"
+    "url": "https://www.campingtauro.com/en/",
+    "telephone": "+34 964 39 29 67",
+    "gps": "40.0373, 0.0413"
   },
   {
     "name": "Camping Alegria del Mar",
     "region": "Comunidad Valenciana",
     "province": "Castellón",
-    "url": "https://www.alegriadelmar.com/en/"
+    "url": "https://www.alegriadelmar.com/en/",
+    "telephone": "+34 964 470 871",
+    "gps": "40.4260, 0.4379"
   },
   {
     "name": "Camping Oasis",
     "region": "Comunidad Valenciana",
     "province": "Castellón",
-    "url": "https://www.campingoasis.com/"
+    "url": "https://www.campingoasis.com/",
+    "telephone": "+34 964 319 677",
+    "gps": "40.1213, 0.1557"
   },
   {
     "name": "Zielo de Levante",
     "region": "Comunidad Valenciana",
     "province": "Castellón",
-    "url": "https://lasbeatas.com/zielo-de-levante/"
+    "url": "https://lasbeatas.com/zielo-de-levante/",
+    "telephone": "+34 630 949 950",
+    "gps": "40.4051, 0.0668"
   }
 ]

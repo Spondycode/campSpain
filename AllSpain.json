@@ -163,115 +163,153 @@
     "name": "Camping Bahía de la Plata",
     "region": "Andalucía",
     "province": "Cádiz",
-    "url": null
+    "url": null,
+    "telephone": "+34 956 439 040",
+    "gps": "36.1233, -5.8358"
   },
   {
     "name": "Camping Caños de Meca",
     "region": "Andalucía",
     "province": "Cádiz",
-    "url": "https://www.campingcm.com/"
+    "url": "https://www.campingcm.com/",
+    "telephone": "+34 956 43 71 20",
+    "gps": "36.2017, -6.0357"
   },
   {
     "name": "Camping El Faro",
     "region": "Andalucía",
     "province": "Cádiz",
-    "url": "https://www.campingelfaro.com/"
+    "url": "https://www.campingelfaro.com/",
+    "telephone": "+34 956 444 096",
+    "gps": "36.3030, -6.1259"
   },
   {
     "name": "Camping La Rosaleda",
     "region": "Andalucía",
     "province": "Cádiz",
-    "url": "https://www.campinglarosaleda.com/"
+    "url": "https://www.campinglarosaleda.com/",
+    "telephone": "+34 956 443 327",
+    "gps": "36.2932, -6.0953"
   },
   {
     "name": "Camping Los Gazules",
     "region": "Andalucía",
     "province": "Cádiz",
-    "url": "https://www.campinglosgazules.com/"
+    "url": "https://www.campinglosgazules.com/",
+    "telephone": "+34 956 420 486",
+    "gps": "36.4628, -5.6662"
   },
   {
     "name": "Camping Medina Sidonia",
     "region": "Andalucía",
     "province": "Cádiz",
-    "url": "https://campingmedinasidonia.com/"
+    "url": "https://campingmedinasidonia.com/",
+    "telephone": "+34 654 112 315",
+    "gps": "36.4613, -5.9217"
   },
   {
     "name": "Camping Paloma",
     "region": "Andalucía",
     "province": "Cádiz",
-    "url": "https://www.campingpaloma.com/"
+    "url": "https://www.campingpaloma.com/",
+    "telephone": "+34 956 684 203",
+    "gps": "36.0763, -5.6931"
   },
   {
     "name": "Camping Pinar San José",
     "region": "Andalucía",
     "province": "Cádiz",
-    "url": "https://www.campingpinarsanjose.com/"
+    "url": "https://www.campingpinarsanjose.com/",
+    "telephone": "+34 951 129 002",
+    "gps": "36.2010, -6.0346"
   },
   {
     "name": "Camping Playa Aguadulce",
     "region": "Andalucía",
     "province": "Cádiz",
-    "url": "https://www.campingplayaaguadulce.com/"
+    "url": "https://www.campingplayaaguadulce.com/",
+    "telephone": "+34 956 84 70 78",
+    "gps": "36.6710, -6.4060"
   },
   {
     "name": "Camping Pueblo Blanco",
     "region": "Andalucía",
     "province": "Cádiz",
-    "url": "https://www.campingpuebloblanco.com/"
+    "url": "https://www.campingpuebloblanco.com/",
+    "telephone": "+34 956 130 033",
+    "gps": "36.9391, -5.2171"
   },
   {
     "name": "Camping Roche",
     "region": "Andalucía",
     "province": "Cádiz",
-    "url": "https://www.campingroche.com/"
+    "url": "https://www.campingroche.com/",
+    "telephone": "+34 956 442 216",
+    "gps": "36.3117, -6.1129"
   },
   {
     "name": "Camping Tajo Rodillo",
     "region": "Andalucía",
     "province": "Cádiz",
-    "url": "https://www.campingtajorodillo.com/"
+    "url": "https://www.campingtajorodillo.com/",
+    "telephone": "+34 670 407 940",
+    "gps": "36.7585, -5.3737"
   },
   {
     "name": "Camping Tarifa",
     "region": "Andalucía",
     "province": "Cádiz",
-    "url": "https://www.camping-tarifa.com/"
+    "url": "https://www.camping-tarifa.com/",
+    "telephone": "+34 956 684 778",
+    "gps": "36.0548, -5.6500"
   },
   {
     "name": "Camping Valdevaqueros",
     "region": "Andalucía",
     "province": "Cádiz",
-    "url": "https://www.campingvaldevaqueros.com/"
+    "url": "https://www.campingvaldevaqueros.com/",
+    "telephone": "+34 956 684 174",
+    "gps": "36.0693, -5.6807"
   },
   {
     "name": "TAIGA Conil",
     "region": "Andalucía",
     "province": "Cádiz",
-    "url": "https://taigaresorts.com/destinos/conil"
+    "url": "https://taigaresorts.com/destinos/conil",
+    "telephone": "+34 956 922 418",
+    "gps": "36.3133, -6.0922"
   },
   {
     "name": "TAIGA Puerto Santa María",
     "region": "Andalucía",
     "province": "Cádiz",
-    "url": "https://taigaresorts.com/destinos/puerto-santa-maria"
+    "url": "https://taigaresorts.com/destinos/puerto-santa-maria",
+    "telephone": "+34 956 872 210",
+    "gps": "36.5874, -6.2409"
   },
   {
     "name": "TAIGA Tarifa Punta Paloma",
     "region": "Andalucía",
     "province": "Cádiz",
-    "url": "https://taigaresorts.com/destinos/tarifa-punta-paloma"
+    "url": "https://taigaresorts.com/destinos/tarifa-punta-paloma",
+    "telephone": "+34 722 673 691",
+    "gps": "36.0764, -5.6936"
   },
   {
     "name": "TAIGA Tarifa Valdevaqueros",
     "region": "Andalucía",
     "province": "Cádiz",
-    "url": "https://taigaresorts.com/destinos/tarifa-valdevaqueros"
+    "url": "https://taigaresorts.com/destinos/tarifa-valdevaqueros",
+    "telephone": "+34 956 684 174",
+    "gps": "36.0693, -5.6807"
   },
   {
     "name": "wecamp Cádiz",
     "region": "Andalucía",
     "province": "Cádiz",
-    "url": "https://wecamp.net/en/locations/cadiz"
+    "url": "https://wecamp.net/en/locations/cadiz",
+    "telephone": "+34 93 626 89 00",
+    "gps": "36.5540, -6.1338"
   },
   {
     "name": "Camping Alua Iznájar",
@@ -1263,145 +1301,193 @@
     "name": "Camping Arbolado",
     "region": "Cantabria",
     "province": "Cantabria",
-    "url": null
+    "url": null,
+    "telephone": "+34 942 504 414",
+    "gps": "43.4560, -3.7186"
   },
   {
     "name": "Camping Arenas",
     "region": "Cantabria",
     "province": "Cantabria",
-    "url": "https://www.campinglasarenas.com/"
+    "url": "https://www.campinglasarenas.com/",
+    "telephone": "+34 942 670 663",
+    "gps": "43.4913, -3.6165"
   },
   {
     "name": "Camping Cabo Mayor",
     "region": "Cantabria",
     "province": "Cantabria",
-    "url": "https://www.campingcabomayor.com/"
+    "url": "https://www.campingcabomayor.com/",
+    "telephone": "+34 942 39 15 42",
+    "gps": "43.4874, -3.7916"
   },
   {
     "name": "Camping Cabo de Ajo",
     "region": "Cantabria",
     "province": "Cantabria",
-    "url": "https://www.campingcabodeajo.com/"
+    "url": "https://www.campingcabodeajo.com/",
+    "telephone": "+34 942 621 400",
+    "gps": "43.5053, -3.5977"
   },
   {
     "name": "Camping Cantabria (Polientes)",
     "region": "Cantabria",
     "province": "Cantabria",
-    "url": "https://www.campingcantabria.es/"
+    "url": "https://www.campingcantabria.es/",
+    "telephone": "+34 613 718 797",
+    "gps": "42.8064, -3.9276"
   },
   {
     "name": "Camping Derby Loredo",
     "region": "Cantabria",
     "province": "Cantabria",
-    "url": "https://www.campingderbyloredo.com/"
+    "url": "https://www.campingderbyloredo.com/",
+    "telephone": "+34 942 50 41 06",
+    "gps": "43.4638, -3.7241"
   },
   {
     "name": "Camping El Helguero",
     "region": "Cantabria",
     "province": "Cantabria",
-    "url": "https://www.campingelhelguero.com/"
+    "url": "https://www.campingelhelguero.com/",
+    "telephone": "+34 942 722 124",
+    "gps": "43.3829, -4.2469"
   },
   {
     "name": "Camping El Molino de Cabuérniga",
     "region": "Cantabria",
     "province": "Cantabria",
-    "url": "https://www.campingcabuerniga.com/"
+    "url": "https://www.campingcabuerniga.com/",
+    "telephone": "+34 942 70 62 59",
+    "gps": "43.2258, -4.2903"
   },
   {
     "name": "Camping La Isla - Picos de Europa",
     "region": "Cantabria",
     "province": "Cantabria",
-    "url": "https://www.campinglaislapicosdeeuropa.com/"
+    "url": "https://www.campinglaislapicosdeeuropa.com/",
+    "telephone": "+34 942 730 896",
+    "gps": "43.1576, -4.6562"
   },
   {
     "name": "Camping La Viorna",
     "region": "Cantabria",
     "province": "Cantabria",
-    "url": "https://www.campinglaviorna.com/"
+    "url": "https://www.campinglaviorna.com/",
+    "telephone": "+34 942 73 20 21",
+    "gps": "43.1544, -4.6435"
   },
   {
     "name": "Camping Laredo",
     "region": "Cantabria",
     "province": "Cantabria",
-    "url": "http://www.campinglaredo.com/"
+    "url": "http://www.campinglaredo.com/",
+    "telephone": "+34 942 60 50 35",
+    "gps": "43.4143, -3.4478"
   },
   {
     "name": "Camping Liébana",
     "region": "Cantabria",
     "province": "Cantabria",
-    "url": "https://www.campingliebana.com/"
+    "url": "https://www.campingliebana.com/",
+    "telephone": "+34 634 495 042",
+    "gps": "43.1221, -4.5686"
   },
   {
     "name": "Camping Playa Arenillas",
     "region": "Cantabria",
     "province": "Cantabria",
-    "url": "https://www.campingplayaarenillas.com/"
+    "url": "https://www.campingplayaarenillas.com/",
+    "telephone": "+34 942 86 31 52",
+    "gps": "43.4040, -3.3095"
   },
   {
     "name": "Camping Playa Joyel",
     "region": "Cantabria",
     "province": "Cantabria",
-    "url": "https://www.playajoyel.com/"
+    "url": "https://www.playajoyel.com/",
+    "telephone": "+34 942 630 081",
+    "gps": "43.4899, -3.5368"
   },
   {
     "name": "Camping Playa Regatón",
     "region": "Cantabria",
     "province": "Cantabria",
-    "url": "https://www.campingplayaregaton.com/"
+    "url": "https://www.campingplayaregaton.com/",
+    "telephone": "+34 942 60 69 95",
+    "gps": "43.4116, -3.4525"
   },
   {
     "name": "Camping Playa de Isla",
     "region": "Cantabria",
     "province": "Cantabria",
-    "url": "https://www.campingplayadeisla.com/"
+    "url": "https://www.campingplayadeisla.com/",
+    "telephone": "+34 942 679 361",
+    "gps": "43.5019, -3.5416"
   },
   {
     "name": "Camping Punta Marina",
     "region": "Cantabria",
     "province": "Cantabria",
-    "url": "https://www.campingpuntamarina.com/"
+    "url": "https://www.campingpuntamarina.com/",
+    "telephone": "+34 942 679 349",
+    "gps": "43.4984, -3.5752"
   },
   {
     "name": "Camping San Pelayo",
     "region": "Cantabria",
     "province": "Cantabria",
-    "url": "https://www.campingsanpelayo.com/"
+    "url": "https://www.campingsanpelayo.com/",
+    "telephone": "+34 611 585 685",
+    "gps": "43.1542, -4.6816"
   },
   {
     "name": "Camping Santillana",
     "region": "Cantabria",
     "province": "Cantabria",
-    "url": "https://www.campingsantillana.com/"
+    "url": "https://www.campingsantillana.com/",
+    "telephone": "+34 942 818 250",
+    "gps": "43.3928, -4.1133"
   },
   {
     "name": "Camping Somo Parque",
     "region": "Cantabria",
     "province": "Cantabria",
-    "url": "https://www.campingsomoparque.com/"
+    "url": "https://www.campingsomoparque.com/",
+    "telephone": "+34 942 510 309",
+    "gps": "43.4471, -3.7271"
   },
   {
     "name": "Camping Virgen del Mar",
     "region": "Cantabria",
     "province": "Cantabria",
-    "url": "https://www.campingvirgendelmar.com/"
+    "url": "https://www.campingvirgendelmar.com/",
+    "telephone": "+34 942 34 24 25",
+    "gps": "43.4753, -3.8740"
   },
   {
     "name": "Camping de Ramales",
     "region": "Cantabria",
     "province": "Cantabria",
-    "url": "https://www.campingderamales.com/"
+    "url": "https://www.campingderamales.com/",
+    "telephone": "+34 654 463 133",
+    "gps": "43.2595, -3.4831"
   },
   {
     "name": "Caravaning Oyambre",
     "region": "Cantabria",
     "province": "Cantabria",
-    "url": "https://www.oyambre.com/"
+    "url": "https://www.oyambre.com/",
+    "telephone": "+34 942 71 14 61",
+    "gps": "43.3849, -4.3384"
   },
   {
     "name": "Dreamsea Surf Camp Spain",
     "region": "Cantabria",
     "province": "Cantabria",
-    "url": "https://dreamseasurfcamp.com/spain/"
+    "url": "https://dreamseasurfcamp.com/spain/",
+    "telephone": "+34 828 668 899",
+    "gps": "43.3823, -4.2468"
   },
   {
     "name": "Camping Arlanza",
@@ -3177,73 +3263,97 @@
     "name": "Bonterra Resort",
     "region": "Comunidad Valenciana",
     "province": "Castellón",
-    "url": "https://www.bonterraresort.com/en/"
+    "url": "https://www.bonterraresort.com/en/",
+    "telephone": "+34 635 78 03 76",
+    "gps": "40.0569, 0.0733"
   },
   {
     "name": "Camping Alegria del Mar",
     "region": "Comunidad Valenciana",
     "province": "Castellón",
-    "url": "https://www.alegriadelmar.com/en/"
+    "url": "https://www.alegriadelmar.com/en/",
+    "telephone": "+34 964 470 871",
+    "gps": "40.4260, 0.4379"
   },
   {
     "name": "Camping Altomira",
     "region": "Comunidad Valenciana",
     "province": "Castellón",
-    "url": "https://www.campingaltomira.com/en/"
+    "url": "https://www.campingaltomira.com/en/",
+    "telephone": "+34 964 71 32 11",
+    "gps": "39.8748, -0.5105"
   },
   {
     "name": "Camping Azahar",
     "region": "Comunidad Valenciana",
     "province": "Castellón",
-    "url": "https://www.campingazahar.com/en/"
+    "url": "https://www.campingazahar.com/en/",
+    "telephone": "+34 964 30 31 96",
+    "gps": "40.0593, 0.0849"
   },
   {
     "name": "Camping BravoPlaya",
     "region": "Comunidad Valenciana",
     "province": "Castellón",
-    "url": "https://www.bravoplaya.com/en/"
+    "url": "https://www.bravoplaya.com/en/",
+    "telephone": "+34 964 319 567",
+    "gps": "40.1282, 0.1595"
   },
   {
     "name": "Camping Monmar",
     "region": "Comunidad Valenciana",
     "province": "Castellón",
-    "url": "https://www.campingmonmar.com/en/"
+    "url": "https://www.campingmonmar.com/en/",
+    "telephone": "+34 964 58 85 92",
+    "gps": "39.8085, -0.1274"
   },
   {
     "name": "Camping Oasis",
     "region": "Comunidad Valenciana",
     "province": "Castellón",
-    "url": "https://www.campingoasis.com/"
+    "url": "https://www.campingoasis.com/",
+    "telephone": "+34 964 319 677",
+    "gps": "40.1213, 0.1557"
   },
   {
     "name": "Camping Playa Tropicana",
     "region": "Comunidad Valenciana",
     "province": "Castellón",
-    "url": "https://www.playatropicana.com/en/"
+    "url": "https://www.playatropicana.com/en/",
+    "telephone": "+34 964 41 24 63",
+    "gps": "40.2210, 0.2672"
   },
   {
     "name": "Camping Ribamar",
     "region": "Comunidad Valenciana",
     "province": "Castellón",
-    "url": "https://www.campingribamar.com/en/"
+    "url": "https://www.campingribamar.com/en/",
+    "telephone": "+34 964 761 163",
+    "gps": "40.2703, 0.3067"
   },
   {
     "name": "Camping Tauro",
     "region": "Comunidad Valenciana",
     "province": "Castellón",
-    "url": "https://www.campingtauro.com/en/"
+    "url": "https://www.campingtauro.com/en/",
+    "telephone": "+34 964 39 29 67",
+    "gps": "40.0373, 0.0413"
   },
   {
     "name": "Camping Torre la Sal",
     "region": "Comunidad Valenciana",
     "province": "Castellón",
-    "url": "https://www.campingtorrelasal.com/en/"
+    "url": "https://www.campingtorrelasal.com/en/",
+    "telephone": "+34 964 319 596",
+    "gps": "40.1283, 0.1596"
   },
   {
     "name": "Zielo de Levante",
     "region": "Comunidad Valenciana",
     "province": "Castellón",
-    "url": "https://lasbeatas.com/zielo-de-levante/"
+    "url": "https://lasbeatas.com/zielo-de-levante/",
+    "telephone": "+34 630 949 950",
+    "gps": "40.4051, 0.0668"
   },
   {
     "name": "Camping Altomira (Navajas)",
@@ -3377,73 +3487,97 @@
     "name": "Camping Aguas Claras",
     "region": "Extremadura",
     "province": "Cáceres",
-    "url": "https://www.campingaguasclaras.com/"
+    "url": "https://www.campingaguasclaras.com/",
+    "telephone": "+34 927 59 90 99",
+    "gps": "39.3257, -7.2486"
   },
   {
     "name": "Camping Bungalows El Pinajarro",
     "region": "Extremadura",
     "province": "Cáceres",
-    "url": "https://campingelpinajarro.com/"
+    "url": "https://campingelpinajarro.com/",
+    "telephone": "+34 927 481 673",
+    "gps": "40.2694, -5.8800"
   },
   {
     "name": "Camping Bungalows Las Cañadas",
     "region": "Extremadura",
     "province": "Cáceres",
-    "url": "https://www.campinglascanadas.com/"
+    "url": "https://www.campinglascanadas.com/",
+    "telephone": "+34 927 48 11 26",
+    "gps": "40.2853, -5.8815"
   },
   {
     "name": "Camping Bungalows Roma",
     "region": "Extremadura",
     "province": "Cáceres",
-    "url": "https://www.campingbungalowsroma.com/"
+    "url": "https://www.campingbungalowsroma.com/",
+    "telephone": "+34 927 479 132",
+    "gps": "40.2681, -5.9112"
   },
   {
     "name": "Camping Bungalows Río Jerte",
     "region": "Extremadura",
     "province": "Cáceres",
-    "url": "https://www.campingriojerte.com/"
+    "url": "https://www.campingriojerte.com/",
+    "telephone": "+34 927 173 006",
+    "gps": "40.1688, -5.8447"
   },
   {
     "name": "Camping Bungalows Sierra de Gata",
     "region": "Extremadura",
     "province": "Cáceres",
-    "url": "https://www.campingsierradegata.com/"
+    "url": "https://www.campingsierradegata.com/",
+    "telephone": "+34 650 372 783",
+    "gps": "40.2124, -6.6423"
   },
   {
     "name": "Camping Complejo La Mata",
     "region": "Extremadura",
     "province": "Cáceres",
-    "url": "https://www.campinglamata.com/"
+    "url": "https://www.campinglamata.com/",
+    "telephone": "+34 927 56 52 38",
+    "gps": "40.1528, -5.3598"
   },
   {
     "name": "Camping Las Catalinas",
     "region": "Extremadura",
     "province": "Cáceres",
-    "url": null
+    "url": null,
+    "telephone": "+34 927 451 150",
+    "gps": "39.9184, -6.2976"
   },
   {
     "name": "Camping Los Ibores",
     "region": "Extremadura",
     "province": "Cáceres",
-    "url": "https://www.campinglosibores.com/"
+    "url": "https://www.campinglosibores.com/",
+    "telephone": "+34 927 554 654",
+    "gps": "39.6347, -5.4208"
   },
   {
     "name": "Camping Municipal Ciudad de Cáceres",
     "region": "Extremadura",
     "province": "Cáceres",
-    "url": "https://www.campingcaceres.com/"
+    "url": "https://www.campingcaceres.com/",
+    "telephone": "+34 927 233 100",
+    "gps": "39.4890, -6.4129"
   },
   {
     "name": "Camping Parque Nacional de Monfragüe",
     "region": "Extremadura",
     "province": "Cáceres",
-    "url": "https://www.campingmonfrague.es/"
+    "url": "https://www.campingmonfrague.es/",
+    "telephone": "+34 927 459 233",
+    "gps": "39.9436, -6.0850"
   },
   {
     "name": "Camping Valle del Jerte",
     "region": "Extremadura",
     "province": "Cáceres",
-    "url": "https://campingbungalowvalledeljerte.com/"
+    "url": "https://campingbungalowvalledeljerte.com/",
+    "telephone": "+34 927 470 127",
+    "gps": "40.2075, -5.7697"
   },
   {
     "name": "Camping A Vouga",
