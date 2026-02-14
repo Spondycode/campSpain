@@ -3,54 +3,72 @@
     "name": "Camping Mirador de Cabañeros",
     "region": "Castilla-La Mancha",
     "province": "Ciudad Real",
-    "url": "https://www.campingcabaneros.com/en/"
+    "url": "https://www.campingcabaneros.com/en/",
+    "telephone": "+34 926 77 54 39",
+    "gps": "39.3232, -4.6501"
   },
   {
     "name": "Camping Los Arenales",
     "region": "Castilla-La Mancha",
     "province": "Ciudad Real",
-    "url": "https://www.campinglosarenales.com/"
+    "url": "https://www.campinglosarenales.com/",
+    "telephone": "+34 926 67 48 19",
+    "gps": "38.8791, -3.6958"
   },
   {
     "name": "Camping Lincetur",
     "region": "Castilla-La Mancha",
     "province": "Ciudad Real",
-    "url": "https://www.lincetur.com/"
+    "url": "https://www.lincetur.com/",
+    "telephone": "+34 639 02 22 18",
+    "gps": "39.4908, -4.5272"
   },
   {
     "name": "Camping Los Molinos",
     "region": "Castilla-La Mancha",
     "province": "Ciudad Real",
-    "url": "http://www.campinglosmolinos.es/"
+    "url": "http://www.campinglosmolinos.es/",
+    "telephone": "+34 953 49 10 03",
+    "gps": "38.3767, -2.5805"
   },
   {
     "name": "Camping La Tabla de la Yedra",
     "region": "Castilla-La Mancha",
     "province": "Ciudad Real",
-    "url": "https://www.campinglatabladelayedra.com/"
+    "url": "https://www.campinglatabladelayedra.com/",
+    "telephone": null,
+    "gps": "39.0368, -4.2052"
   },
   {
     "name": "Camping Fuencaliente",
     "region": "Castilla-La Mancha",
     "province": "Ciudad Real",
-    "url": null
+    "url": null,
+    "telephone": "+34 609 57 37 18",
+    "gps": "38.4500, -4.3275"
   },
   {
     "name": "Camping Montesinos",
     "region": "Castilla-La Mancha",
     "province": "Ciudad Real",
-    "url": "https://www.campingmontesinos.com/"
+    "url": "https://www.campingmontesinos.com/",
+    "telephone": "+34 967 09 39 65",
+    "gps": "38.9357, -2.8218"
   },
   {
     "name": "Zielo Las Beatas (Glamping)",
     "region": "Castilla-La Mancha",
     "province": "Ciudad Real",
-    "url": "https://lasbeatas.com/zielo-las-beatas/"
+    "url": "https://lasbeatas.com/zielo-las-beatas/",
+    "telephone": "+34 630 94 99 50",
+    "gps": "38.7515, -2.8703"
   },
   {
     "name": "Kampaoh Cabañeros",
     "region": "Castilla-La Mancha",
     "province": "Ciudad Real",
-    "url": "https://en.kampaoh.com/spain/ciudad-real-cabaneros/"
+    "url": "https://en.kampaoh.com/spain/ciudad-real-cabaneros/",
+    "telephone": "+34 955 25 24 40",
+    "gps": "39.4912, -4.5275"
   }
 ]
